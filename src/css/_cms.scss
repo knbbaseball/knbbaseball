@@ -1,0 +1,46 @@
+.cms {
+  /* Images */
+  & img {
+    margin-bottom: 1rem;
+  }
+
+  // For larger devices, we use 2-column layout for images. Since images will be
+  // wrapped in a P tag, we need to change the P tag's behavior as well.
+  & p {
+    @include media-breakpoint-up(lg) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      max-width: 100%;
+
+      & img {
+        display: inline-block;
+        width: 48%;
+
+        // For each paragraph, first img is full width.
+        &:first-child {
+          width: 100%;
+        }
+      }
+
+    }
+  }
+
+  /* Blockquotes */
+  & blockquote {
+    background-color: $gray-300;
+    display: block;
+    padding: 1.5rem;
+    color: $primary;
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin-bottom: 1.5rem;
+    & p {
+      margin: 0;
+    }
+  }
+
+  & hr {
+    margin: 2rem 0;
+  }
+}

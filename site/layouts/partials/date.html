@@ -1,0 +1,11 @@
+<time datetime="{{ . }}">
+  {{ $date := dateFormat "2006/1/2(Mon)" . }}
+  {{ $date = replace $date "Sun" "日" }}
+  {{ $date = replace $date "Mon" "月" }}
+  {{ $date = replace $date "Tue" "火" }}
+  {{ $date = replace $date "Wed" "水" }}
+  {{ $date = replace $date "Thu" "木" }}
+  {{ $date = replace $date "Fri" "金" }}
+  {{ $date = replace $date "Sat" "土" }}
+  {{ $date }}
+</time>

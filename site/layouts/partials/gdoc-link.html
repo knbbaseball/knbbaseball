@@ -1,0 +1,19 @@
+{{/*
+  Examples
+
+      {{ partial "gdoc-link" (dict "src" .Params.annual_plan_table_link "height" "1000px" "class" "mn-AnnualPlanTable") }}
+
+*/}}
+
+{{ $widget_params := "widget=true&headers=false" }}
+{{ $iframeUrl := "" }}
+
+{{ $query_string := index (findRE `\?.*` .src 1) 0 }}
+{{ if $query_string }}
+  {{ $iframeUrl = printf "%s&%s" .src $widget_params }}
+{{ else }}
+  {{ $iframeUrl = printf "%s?%s" .src $widget_params }}
+{{ end }}
+
+<iframe src="{{ $iframeUrl }}" width="100%" height="{{ .height }}" class="{{ .class }}"
+  style="margin-bottom:2rem"></iframe>

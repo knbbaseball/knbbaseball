@@ -1,0 +1,31 @@
+{{/* https://github.com/craigbuckler/progressive-image.js */}}
+{{/* https://gohugo.io/content-management/image-processing/ */}}
+{{/* https://discourse.gohugo.io/t/solved-media-in-separate-folder-and-accessing-with-page-resources/11756/5 */}}
+{{/*
+  Examples
+
+      {{ partial "progressive-image.html" (dict "src" .Params.image "alt" .Title) }}
+
+  */}}
+
+{{ $headless_bundle := .context.Site.GetPage "page" "images" }}
+{{/*
+  Use this snippet for inspecting accessible resouces:
+
+      {{ $headless_bundle.Resources }}
+
+  */}}
+
+{{ $original := $headless_bundle.Resources.GetMatch (strings.TrimPrefix "/images/" .src) }}
+
+<picture class="mn-ProgressiveImage">
+  {{ if $original }}
+    {{ $cropped := $original.Fill "1200x900 Center" }}{{/* Aspect ratio 4:3 */}}
+    {{ $small := $cropped.Resize "20x" }}
+    <a class="progressive replace" href="{{ $cropped.RelPermalink }}">
+      <img class="preview" src="{{ $small.RelPermalink }}">
+    </a>
+  {{ else }}
+    <img src="{{ .src }}" alt="{{ .alt }}">
+  {{ end }}
+</picture>

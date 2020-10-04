@@ -1,0 +1,33 @@
+<nav class="mn-Navbar overflow-auto">
+  <div class="container-lg d-flex justify-content-between p-0" style="white-space: nowrap">
+    <!-- Logo -->
+    <a href="/" class="navbar-logo">
+      <img src="/images/logo.svg" alt="logo" class="br0 db mb0" />
+    </a>
+
+    <!-- Primary Nav -->
+    {{ if .Site.Menus.main }}
+      <ul class="nav d-inline-block">
+        {{ range .Site.Menus.main }}
+        <li class="mn-Navbar-navItem nav-item d-inline-block h-100">
+          <a href="{{ .URL }}" class="nav-link h-100 {{ cond (eq $.Permalink .URL) "active" "" }}">
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+</nav>
+
+<!--
+{{/* Uncomment to see current menu config */}}
+{{ if not (eq (getenv "HUGO_ENV") "production") }}
+  <pre>
+    {{ range .Site.Menus.main }}
+      {{ . }}
+    {{ end }}
+    Current: {{ $.Permalink }}
+  </pre>
+{{ end }}
+-->

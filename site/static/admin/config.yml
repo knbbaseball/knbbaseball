@@ -1,0 +1,142 @@
+# Docs: https://www.netlifycms.org/docs/configuration-options/
+# Example: https://github.com/netlify/netlify-cms/blob/master/dev-test/config.yml
+backend:
+  name: git-gateway
+  # git Gateway Error: Please ask your site administrator to reissue the Git Gateway token
+  # https://community.netlify.com/t/git-gateway-error/12220/8
+  repo: knbbaseball/website
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+# https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+local_backend: true
+
+media_folder: 'site/content/images' # Folder where user uploaded files should go
+public_folder: '/images' # Folder where the files uploaded by the media library will be accessed
+
+site_url: https://knbbaseball.netlify.app
+logo_url: https://knbbaseball.netlify.app/images/logo-32x32.png
+locale: 'ja'
+show_preview_links: false
+
+collections: # A list of collections the CMS should be able to edit
+  - name: blog # Used in routes, ie.: /admin/collections/:slug/edit
+    label: 記事 # Used in the UI, ie.: "New Blog Post"
+    folder: 'site/content/blog' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{year}}-{{month}}-{{day}}-{{hour}}{{minute}}' # E.g. "2020-01-01-1234"
+    fields: # The fields each document in this collection have
+      - {
+        label: 日付,
+        name: date,
+        widget: datetime,
+        format: 'YYYY-MM-DD HH:mm:ss ZZ', # Needed to avoid the following error in the CMS preview: "Objects are not valid as a React child"
+        date_format: 'YYYY-MM-DD',
+        time_format: 'HH:mm',
+        picker_utc: true, # so users in all timezones will see the same date in the datetime picker
+      }
+      - { label: 題目, name: 'title', widget: 'string' }
+      - { label: 説明, name: 'description', widget: 'text', required: false }
+      - { label: タグ, name: 'tags', widget: 'list', required: false }
+      - { label: 写真, name: 'image', widget: 'image', required: false }
+      - { label: 本文, name: 'body', widget: 'markdown', required: false }
+  - name: 'team' # Used in routes, ie.: /admin/collections/:slug/edit
+    label: チーム # Used in the UI, ie.: "New Team"
+    folder: 'site/content/team' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{fields.slug}}'
+    fields: # The fields each document in this collection have
+      - {
+        label: 日付,
+        name: date,
+        widget: datetime,
+        format: 'YYYY-MM-DD HH:mm:ss ZZ', # Needed to avoid the following error in the CMS preview: "Objects are not valid as a React child"
+        date_format: true,
+        time_format: false,
+        picker_utc: true, # so users in all timezones will see the same date in the datetime picker
+      }
+      - { label: チーム名, name: 'title', widget: 'string' }
+      - { label: スラッグ, name: 'slug', widget: 'string' }
+      - { label: 説明, name: 'description', widget: 'text', required: false }
+      - { label: タグ, name: 'tags', widget: 'list', required: false }
+      - { label: 写真, name: 'image', widget: 'image', required: false }
+      - { label: 本文, name: 'body', widget: 'markdown', required: false }
+      - { label: メンバー表リンク, name: member_table_link, widget: string, required: false }
+      - { label: 成績表リンク, name: score_table_link, widget: string, required: false }
+  - name: pages
+    label: ページ
+    files:
+      - file: 'site/content/_index.md'
+        label: ホーム
+        name: home
+        fields:
+          - { label: 写真, name: image, widget: image }
+          - { label: 動く文, name: banner, widget: string, required: false }
+          - {
+              label: 代表挨拶,
+              name: blurb,
+              widget: object,
+              fields:
+                [
+                  { label: 題目, name: heading, widget: string },
+                  { label: 本文, name: text, widget: text },
+                  { label: 代表写真, name: gm_image, widget: image },
+                  { label: 代表氏名, name: gm_name, widget: string },
+                ],
+            }
+          - {
+              label: スケジュール,
+              name: schedule,
+              widget: list,
+              required: false,
+              fields:
+                [
+                  { label: チーム, name: team, widget: string },
+                  {
+                    label: 日付,
+                    name: date,
+                    widget: datetime,
+                    format: 'YYYY-MM-DD HH:mm:ss ZZ', # Needed to avoid the following error in the CMS preview: "Objects are not valid as a React child"
+                    date_format: true,
+                    time_format: false,
+                    picker_utc: true, # so users in all timezones will see the same date in the datetime picker
+                  },
+                  { label: 時間, name: time, widget: string },
+                  { label: 説明, name: description, widget: string },
+                  { label: 場所, name: location_text, widget: string },
+                  { label: 場所URL, name: location_url, widget: string, required: false },
+                ],
+            }
+          - {
+              label: 情報１,
+              name: info,
+              widget: object,
+              required: false,
+              fields:
+                [
+                  { label: 題目, name: heading, widget: string },
+                  { label: 本文, name: text, widget: text },
+                  { label: 写真, name: image, widget: image },
+                  { label: リンク文, name: link_text, widget: string, required: false },
+                  { label: リンクURL, name: link_url, widget: string, required: false },
+                ],
+            }
+          - { label: 情報２, name: 'body', widget: 'markdown', required: false }
+      - file: 'site/content/about.md'
+        label: 活動
+        name: about
+        fields:
+          - { label: 'Hugo content type', name: 'type', widget: 'hidden', default: 'about' }
+          - { label: 本文, name: body, widget: markdown }
+          - { label: 年間活動計画リンク, name: annual_plan_table_link, widget: string, required: false }
+      - file: 'site/content/links.md'
+        label: リンク
+        name: links
+        fields:
+          - { label: 'Hugo content type', name: 'type', widget: 'hidden', default: 'page' }
+          - { label: 本文, name: body, widget: markdown }

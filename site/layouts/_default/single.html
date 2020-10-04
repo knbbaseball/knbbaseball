@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<main class="container">
+  <h1 class="mn-PageTitle">{{.Title}}</h1>
+
+  <p class="mb-0">{{ .Description }}</p>
+
+  {{ if .Params.image }}
+    <div class="mb-3">
+      {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
+    </div>
+  {{ end }}
+
+  <div class="cms">{{ .Content }}</div>
+</main>
+
+{{ end }}

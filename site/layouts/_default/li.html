@@ -1,0 +1,7 @@
+<a href="{{ .RelPermalink }}" class="card mn-raise text-decoration-none bg-light">
+  <div class="card-body">
+    <h4 class="card-title">{{ .Title }}</h4>
+    <p class="card-subtitle mb-2 text-muted">{{ partial "date.html" .Date }}</p>
+    <p class="card-text">{{ .Description }}</p>
+  </div>
+</a>

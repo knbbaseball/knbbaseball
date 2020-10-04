@@ -1,0 +1,13 @@
+// https://v5.getbootstrap.com/docs/5.0/customize/sass/#variable-defaults
+// https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+
+// Color system
+
+$primary: #101046;
+
+// Links
+//
+// Style anchor elements.
+
+$link-color: $primary;
+$link-hover-color: lighten($link-color, 30%);

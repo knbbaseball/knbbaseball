@@ -1,0 +1,34 @@
+{{/*
+  Scope: schedule data for a given team
+  */}}
+
+<div class="overflow-auto">
+  <table class="table" style="width:100%">
+    <thead>
+      <tr>
+        <th style="min-width:80px">チーム</th>
+        <th style="min-width:100px">日　付</th>
+        <th style="min-width:180px">時　間</th>
+        <th style="min-width:180px">内　容</th>
+        <th style="min-width:180px">場　所</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range . }}
+      <tr>
+        <td>{{ .team }}</td>
+        <td>{{ partial "date_no_year" .date }}</td>
+        <td>{{ .time }}</td>
+        <td>{{ .description }}</td>
+        <td>
+          {{ if .location_url }}
+            <a href=" {{ .location_url }}"> {{ .location_text }}</a>
+          {{ else }}
+            {{ .location_text }}
+          {{ end }}
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>

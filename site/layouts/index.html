@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+<main>
+  <section class="bg-primary text-white pb-4">
+    <div class="container p-0">
+      {{ with .Params.banner }}
+        <marquee class="h4 mb-0 primary" style="vertical-align:bottom;padding:5px 0">{{ . }}</marquee>
+      {{ end }}
+      {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
+    </div>
+
+    {{ with .Params.blurb }}
+      <div class="container">
+        {{ if .heading }}<h1 class="my-3 font-weight-bold">{{.heading}}</h1>{{ end }}
+        <p class="lead text-light">{{.text}}</p>
+
+        {{ if .gm_image }}
+          <figure class="figure">
+            <img src="{{ .gm_image }}" alt="{{ .gm_name }}" class="img-thumbnail figure-img">
+            <figcaption class="figure-caption text-white text-center">{{ .gm_name }}</figcaption>
+          </figure>
+        {{ end }}
+      </div>
+    {{ end }}
+  </section>
+
+  {{ with .Params.schedule }}
+    <section class="container py-4" id="schedule">
+      <h2 class="">予定表</h2>
+      {{ partial "schedule-table" . }}
+    </section>
+  {{ end }}
+
+  {{ with .Params.info }}
+    <section class="container py-0 mb-4" >
+      <div class="alert alert-info" role="alert" >
+        <h2 class="h1">{{.heading}}</h2>
+        <p class="lead mr-lg-3">
+          {{.text}}
+        </p>
+        {{ if .image }}
+          <img src="{{ .image }}" alt="{{ .heading }}" class="img-fluid mb-3 d-block">
+        {{ end }}
+        {{ if .link_text }}
+          <a href="{{ .link_url }}" class="btn btn-primary mn-raise d-inline-block">{{ .link_text }}</a>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  {{ with .Content }}
+    <div class="container py-2">
+      {{ . }}
+    </div>
+  {{ end }}
+
+  <section class="container py-4" id="recent-posts">
+    <div class="ph3 mw7 center">
+      <h2 class="f3 b lh-title mb3">最新記事</h2>
+      {{ partial "blog" . }}
+
+      <div class="my-4">
+        <a href="/blog" class="btn btn-primary mn-raise d-inline-block">全記事</a>
+      </div>
+
+      {{ partial "site-tags" . }}
+    </div>
+  </section>
+</main>
+
+{{ end }}

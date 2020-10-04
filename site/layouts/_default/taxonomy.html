@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{/*
+  Example URL: /tags/ａチーム/
+  */}}
+
+<main class="container">
+  <h1 class="mn-PageTitle h3">{{i18n "taxonomyPageList" .}}</h1>
+
+  <div class="d-lg-flex justify-content-between flex-wrap mb-4">
+    {{ range .Pages }}
+      <div class="mn-ListItem">
+        {{ .Render "li" }}
+      </div>
+    {{ end }}
+  </div>
+</main>
+
+{{ end }}

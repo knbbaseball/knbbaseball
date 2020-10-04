@@ -1,0 +1,8 @@
+{{ range .Params.tags }}
+
+<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"
+  class="btn btn-outline-primary btn-sm mb-1">
+  {{- . -}}
+</a>
+
+{{ end }}

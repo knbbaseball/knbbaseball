@@ -1,0 +1,91 @@
+/* Bootstrap CSS */
+// Every Sass variable in Bootstrap includes the !default flag allowing you to
+// override the variable’s default value in your own Sass without modifying
+// Bootstrap’s source code.
+// https://v5.getbootstrap.com/docs/5.0/customize/sass/#variable-defaults
+@import './variables';
+@import './bootstrap';
+
+/* Custom CSS */
+@import './cms';
+@import './hugo_internal_templates';
+
+/* Finishing touches */
+
+main {
+  min-height: 90vh;
+}
+
+ul,
+ol {
+  margin-bottom: 1.5rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+// We want to secure height for image so we can avoid text content jumping
+// around while image is loading.
+.mn-ProgressiveImage {
+  picture,
+  img {
+    display: block;
+    min-height: 250px;
+  }
+}
+
+.mn-Navbar {
+  padding: 0;
+  box-shadow: inset 0 -4px 0 $gray-300;
+
+  & a {
+    transition: all 150ms ease;
+    padding: 1rem;
+  }
+  & ul a:hover,
+  & ul a:focus,
+  & ul a.active {
+    box-shadow: inset 0 -4px 0 $link-hover-color;
+  }
+
+  &-navItem {
+    padding-top: 6px;
+  }
+}
+
+.mn-raise {
+  transform: translateY(0) translateZ(0);
+  &:hover,
+  &:focus {
+    transform: translateY(-0.12rem) translateZ(0);
+  }
+
+  &:active {
+    opacity: 0.5;
+  }
+}
+
+.mn-PageTitle {
+  margin: 2rem 0;
+}
+
+.mn-ListItem {
+  margin-bottom: 0.5rem;
+  @include media-breakpoint-up(lg) {
+    width: 49%;
+  }
+}
+
+.mn-MemberTable {
+  height: 800px;
+}
+
+.mn-ScoreTable {
+  height: 1700px;
+}
+
+.mn-AnnualPlanTable {
+  height: 1000px;
+}

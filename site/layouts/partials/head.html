@@ -1,0 +1,56 @@
+<head>
+  <title>
+    {{- if and .Params.Title (not (eq .Params.Title .Site.Title)) -}}
+      {{ .Params.Title }} | {{ .Site.Title }}
+    {{- else -}}
+      {{ .Site.Title }}
+    {{- end -}}
+  </title>
+
+  {{ $stylesheet := .Site.Data.webpack.main }}
+  {{ with $stylesheet.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
+  {{ end }}
+
+  {{ hugo.Generator }}
+  {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
+  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+  {{ else }}
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+  {{ end }}
+
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+
+	<!-- Favicons -->
+	<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="theme-color" content="#fff">
+
+  {{/* NOTE: These Hugo Internal Templates https://gohugo.io/templates/internal/ */}}
+  {{- template "_internal/opengraph.html" . -}}
+  {{- template "_internal/schema.html" . -}}
+  {{- template "_internal/twitter_cards.html" . -}}
+
+  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+    {{ template "_internal/google_analytics_async.html" . }}
+  {{ end }}
+
+  {{ if .IsHome }}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ end }}
+
+  <link rel="stylesheet" href="progressive-image.css">
+
+  <style>
+    /* For embedded Google Docs */
+    iframe {
+      width: 100% !important;
+      min-height: 500px !important;
+    }
+  </style>
+</head>

@@ -1,0 +1,7 @@
+<footer class="bg-primary d-flex mt-5" style="height: 120px">
+  <div class="container align-self-center">
+    <a class="text-white text-decoration-none" href="{{ .Site.BaseURL }}" >
+      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+    </a>
+  </div>
+</footer>

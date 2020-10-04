@@ -1,0 +1,28 @@
+// https://github.com/gohugoio/hugo/blob/473b6610d51d4a33ba35917f95b0d97ea78dad2b/tpl/tplimpl/embedded/templates/pagination.html#L1
+.pagination {
+  margin: 3rem 0;
+}
+.pagination li {
+  display: inline-block;
+  margin-right: 0.375rem;
+  font-size: 0.875rem;
+  margin-bottom: 2.5em;
+}
+.pagination li a {
+  padding: 0.5rem 0.625rem;
+  background-color: $white;
+  color: $primary;
+  border: 1px solid $primary;
+  border-radius: 3px;
+  text-decoration: none;
+}
+.pagination li.disabled {
+  display: none;
+}
+.pagination li.active a:link,
+.pagination li.active a:active,
+.pagination li.active a:visited {
+  background-color: $link-color;
+  color: $white;
+  pointer-events: none;
+}
