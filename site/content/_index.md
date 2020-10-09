@@ -10,7 +10,7 @@ blurb:
 schedule:
   - team: A
     date: 2020-10-10 02:19:33 +0000
-    time: 13:45 試合開始
+    time: 13:45 試合開始　※台風接近の為、中止の場合あり
     description: ふれあいカップ VS大林ヤンキース
     location_text: 大林小学校
     location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%9E%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0486093,137.1423037,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a1db630ec369:0x3eac6b1124d0eea9!8m2!3d35.0486049!4d137.1444924
