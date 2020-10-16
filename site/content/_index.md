@@ -20,7 +20,7 @@ schedule:
     description: ①9:00試合開始、②14:00試合開始
     location_text: ①新生公園、②高嶺小学校
     location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
-  - date: 2020-10-10 13:12:17 +0000
+  - date: 2020-10-17 09:58:48 +0000
     team: B
     time: "9:00～16:30\t"
     description: 通常練習
