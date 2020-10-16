@@ -10,15 +10,15 @@ blurb:
 schedule:
   - team: A
     date: 2020-10-10 02:19:33 +0000
-    time: 13:45 試合開始　※台風接近の為、中止の場合あり
-    description: ふれあいカップ VS大林ヤンキース
-    location_text: 大林小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%A4%A7%E6%9E%97%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0486093,137.1423037,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a1db630ec369:0x3eac6b1124d0eea9!8m2!3d35.0486049!4d137.1444924
-  - team: A
-    date: 2020-10-11 04:00:00 +0000
-    time: 9:00～16:30
-    description: 通常練習
+    time: 通常練習
+    description: "9:00～16:30\t"
     location_text: 高嶺小学校
+    location_url: ""
+  - team: A
+    date: 2020-10-18 04:00:00 +0000
+    time: ①スポ少2回戦VS崇化館、②ふれあいカップVS山之手クラブ
+    description: ①9:00試合開始、②14:00試合開始
+    location_text: ①新生公園、②高嶺小学校
     location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
   - date: 2020-10-10 13:12:17 +0000
     team: B
@@ -26,25 +26,24 @@ schedule:
     description: 通常練習
     location_text: 上郷コミュニティーセンター
     location_url: https://www.google.co.jp/maps/search/%E4%B8%8A%E9%83%B7%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.0169477,137.132209,17z/data=!3m1!4b1
-  - date: 2020-10-11 02:20:10 +0000
+  - date: 2020-10-18 02:20:10 +0000
     team: B
     time: 9:00～16:30
-    location_text: 寿恵野小学校
+    location_text: 畝部小学校
     description: 通常練習
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
-  - date: 2020-10-10 13:13:33 +0000
-    team: Jr
-    description: 台風の為、お休み
-    time: 　
-    location_text: 　
     location_url: ""
-  - date: 2020-10-11 13:14:03 +0000
+  - date: 2020-10-17 13:13:33 +0000
+    team: Jr
+    description: 通常練習
+    time: "　13:00～16:00\t"
+    location_text: 　高嶺小学校
+    location_url: ""
+  - date: 2020-10-18 13:14:03 +0000
     team: Jr
     time: "13:00～16:00\t"
     description: 通常練習
-    location_text: 高嶺小学校
-    location_url: (土)	13:30 試合開始	ふれあいカップ VS松平ニューボーイズ	高嶺小学校 A	2020年10月4日(日)	10:30
-      試合開始	ふれあいカップ VS
+    location_text: 寿恵野小学校
+    location_url: ""
 info:
   heading: 仲間を募集中
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております。
