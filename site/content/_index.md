@@ -9,41 +9,41 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2020-10-10 02:19:33 +0000
-    time: 通常練習
-    description: "9:00～16:30\t"
-    location_text: 高嶺小学校
+    date: 2020-10-24 02:19:33 +0000
+    time: ①9:00開始、②14:00開始
+    description: ①スポーツ少年団VS保見ケ丘・竜神合同、②東海団地秋季大会VSドジャース
+    location_text: ①柳川瀬児童球場、②牧野ヶ池緑地
     location_url: ""
   - team: A
-    date: 2020-10-18 04:00:00 +0000
-    time: ①スポ少2回戦VS崇化館、②ふれあいカップVS山之手クラブ
-    description: ①9:00試合開始、②14:00試合開始
-    location_text: ①新生公園、②高嶺小学校
+    date: 2020-10-25 04:00:00 +0000
+    time: 通常練習
+    description: 9:00～16:30
+    location_text: 高嶺小学校
     location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
-  - date: 2020-10-17 09:58:48 +0000
+  - date: 2020-10-24 09:58:48 +0000
     team: B
     time: "9:00～16:30\t"
     description: 通常練習
-    location_text: 上郷コミュニティーセンター
-    location_url: https://www.google.co.jp/maps/search/%E4%B8%8A%E9%83%B7%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.0169477,137.132209,17z/data=!3m1!4b1
-  - date: 2020-10-18 02:20:10 +0000
+    location_text: 寿恵野小学校
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
+  - date: 2020-10-25 02:20:10 +0000
     team: B
-    time: 9:00～16:30
-    location_text: 畝部小学校
-    description: 通常練習
-    location_url: ""
-  - date: 2020-10-17 13:13:33 +0000
+    time: 練習試合（①10:00開始、②14:00開始）
+    location_text: 上郷工場南グランド
+    description: ①VS堤スターズ、②VS矢作バンビーズ
+    location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E9%83%B7%E5%B7%A5%E5%A0%B4+%E5%8D%97%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89/@35.0209789,137.1253906,16z/data=!4m12!1m6!3m5!1s0x60049f544002f579:0x3245932b6721b928!2z44OI44Oo44K_6Ieq5YuV6LuKIOS4iumDt-W3peWgtA!8m2!3d35.0247594!4d137.1306793!3m4!1s0x60049f4d0c69e491:0x9aeeb4a1b5304811!8m2!3d35.0185768!4d137.1243793
+  - date: 2020-10-24 13:13:33 +0000
     team: Jr
     description: 通常練習
     time: "　13:00～16:00\t"
     location_text: 　高嶺小学校
-    location_url: ""
-  - date: 2020-10-18 13:14:03 +0000
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
+  - date: 2020-10-25 13:14:03 +0000
     team: Jr
     time: "13:00～16:00\t"
     description: 通常練習
-    location_text: 寿恵野小学校
-    location_url: ""
+    location_text: 高嶺小学校
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
 info:
   heading: 仲間を募集中
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております。
