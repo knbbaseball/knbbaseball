@@ -19,7 +19,7 @@ schedule:
     time: 9:00開始
     description: 豊田市秋季大会VS水源パイレーツ
     location_text: 新生公園A面
-    location_url: ""
+    location_url: https://www.google.co.jp/maps/search/%E6%96%B0%E7%94%9F%E5%85%AC%E5%9C%92/@34.9984049,137.0790312,12z/data=!3m1!4b1
   - date: 2020-10-31 09:58:48 +0000
     team: B
     time: 9:00～16:30
