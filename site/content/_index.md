@@ -9,17 +9,17 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2020-10-24 02:19:33 +0000
-    time: ①9:00開始、②14:00開始
-    description: ①スポーツ少年団VS保見ケ丘・竜神合同、②東海団地秋季大会VSドジャース
-    location_text: ①柳川瀬児童球場、②牧野ヶ池緑地
+    date: 2020-10-31 02:19:33 +0000
+    time: ①9:00開始、②13:30開始
+    description: ①スポーツ少年団VS山之手少年野球クラブ、②ふれあいカップVS大林ヤンキース
+    location_text: ①柳川瀬児童球場、②高嶺小学校
     location_url: ""
   - team: A
-    date: 2020-10-25 04:00:00 +0000
-    time: 通常練習
-    description: 9:00～16:30
-    location_text: 高嶺小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
+    date: 2020-11-01 04:00:00 +0000
+    time: 9:00開始
+    description: 豊田市秋季大会VS水源パイレーツ
+    location_text: 新生公園A面
+    location_url: ""
   - date: 2020-10-31 09:58:48 +0000
     team: B
     time: 9:00～16:30
