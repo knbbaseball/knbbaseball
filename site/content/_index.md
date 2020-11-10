@@ -9,36 +9,36 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2020-11-07 02:19:33 +0000
+    date: 2020-11-14 02:19:33 +0000
     time: 9:00～16:30
     description: 通常練習
     location_text: 高嶺小学校
     location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
   - team: A
-    date: 2020-11-08 01:16:01 +0000
-    time: （1試合目）9:30開始、（2試合目）13:00開始
-    description: 練習試合　VS岡崎少年野球教室（OBBC）
+    date: 2020-11-15 01:16:01 +0000
+    time: 9:00～16:30
+    description: 通常練習
     location_text: 高嶺小学校
     location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
-  - date: 2020-11-07 09:58:48 +0000
+  - date: 2020-11-14 09:58:48 +0000
     team: B
     time: 9:00～16:30
     description: 通常練習
     location_text: 上郷コミュニティーセンター
     location_url: https://www.google.co.jp/maps/search/%E4%B8%8A%E9%83%B7%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.0169477,137.132209,17z/data=!3m1!4b1
-  - date: 2020-11-08 01:13:56 +0000
+  - date: 2020-11-15 01:13:56 +0000
     team: B
-    time: 9:00～16:30
+    time: 14:00開始
     location_text: 上郷工場南グランド
-    description: 通常練習
+    description: ふれあいカップ決勝トーナメントVS平山フレンダース
     location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E9%83%B7%E5%B7%A5%E5%A0%B4+%E5%8D%97%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89/@35.0209789,137.1253906,16z/data=!4m12!1m6!3m5!1s0x60049f544002f579:0x3245932b6721b928!2z44OI44Oo44K_6Ieq5YuV6LuKIOS4iumDt-W3peWgtA!8m2!3d35.0247594!4d137.1306793!3m4!1s0x60049f4d0c69e491:0x9aeeb4a1b5304811!8m2!3d35.0185768!4d137.1243793
-  - date: 2020-11-07 13:13:33 +0000
+  - date: 2020-11-14 13:13:33 +0000
     team: Jr
     description: 通常練習
     time: "13:00～16:00\t"
     location_text: 高嶺小学校
     location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
-  - date: 2020-11-08 13:14:03 +0000
+  - date: 2020-11-15 13:14:03 +0000
     team: Jr
     time: 13:00～16:00
     description: 通常練習
