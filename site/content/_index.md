@@ -16,10 +16,10 @@ schedule:
     location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
   - team: A
     date: 2020-11-15 01:16:01 +0000
-    time: 9:00～16:30
-    description: 通常練習
-    location_text: 高嶺小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
+    time: 11:10開始
+    description: 豊田市秋季大会 VS大林ヤンキース
+    location_text: 柳川瀬児童球場
+    location_url: https://www.google.co.jp/maps/place/%E6%9F%B3%E5%B7%9D%E7%80%AC%E5%85%AC%E5%9C%92+%E9%87%8E%E7%90%83%E5%A0%B4+(%E5%85%90%E7%AB%A5%E5%B0%82%E7%94%A8)/@34.9982844,137.1468831,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a2644feda6c1:0xb0fd0f1cc3dbc5aa!8m2!3d34.99828!4d137.1490718
   - date: 2020-11-14 09:58:48 +0000
     team: B
     time: 9:00～16:30
@@ -30,7 +30,7 @@ schedule:
     team: B
     time: 14:00開始
     location_text: 上郷工場南グランド
-    description: ふれあいカップ決勝トーナメントVS平山フレンダース
+    description: ふれあいカップ決勝トーナメント VS平山フレンダース
     location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E9%83%B7%E5%B7%A5%E5%A0%B4+%E5%8D%97%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89/@35.0209789,137.1253906,16z/data=!4m12!1m6!3m5!1s0x60049f544002f579:0x3245932b6721b928!2z44OI44Oo44K_6Ieq5YuV6LuKIOS4iumDt-W3peWgtA!8m2!3d35.0247594!4d137.1306793!3m4!1s0x60049f4d0c69e491:0x9aeeb4a1b5304811!8m2!3d35.0185768!4d137.1243793
   - date: 2020-11-14 13:13:33 +0000
     team: Jr
