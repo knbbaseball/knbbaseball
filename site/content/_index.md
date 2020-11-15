@@ -36,8 +36,8 @@ schedule:
     team: Jr
     description: 通常練習
     time: "13:00～16:00\t"
-    location_text: 高嶺小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
+    location_text: 後日記載
+    location_url: ""
   - date: 2020-11-22 13:14:03 +0000
     team: Jr
     time: 13:00～16:00
