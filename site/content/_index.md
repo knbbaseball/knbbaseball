@@ -24,8 +24,8 @@ schedule:
     team: B
     time: 9:00～16:30
     description: 通常練習
-    location_text: 上郷コミュニティーセンター
-    location_url: https://www.google.co.jp/maps/search/%E4%B8%8A%E9%83%B7%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.0169477,137.132209,17z/data=!3m1!4b1
+    location_text: 後日記載
+    location_url: ""
   - date: 2020-11-22 01:13:56 +0000
     team: B
     time: 9:00～16:30
