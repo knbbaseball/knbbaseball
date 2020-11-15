@@ -17,7 +17,7 @@ schedule:
   - team: A
     date: 2020-11-22 01:16:01 +0000
     time: ①9:00開始予定、②13:20開始予定
-    description: ①豊田市秋季大会準決勝 VS山之手少年野球クラブ、②ミズノワイズ杯1回戦 VS安城二本木少年野球クラブ
+    description: ①豊田市秋季大会準決勝 VS青木グレート、②ミズノワイズ杯1回戦 VS安城二本木少年野球クラブ
     location_text: 柳川瀬児童球場
     location_url: https://www.google.co.jp/maps/place/%E6%9F%B3%E5%B7%9D%E7%80%AC%E5%85%AC%E5%9C%92+%E9%87%8E%E7%90%83%E5%A0%B4+(%E5%85%90%E7%AB%A5%E5%B0%82%E7%94%A8)/@34.9982844,137.1468831,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a2644feda6c1:0xb0fd0f1cc3dbc5aa!8m2!3d34.99828!4d137.1490718
   - date: 2020-11-21 09:58:48 +0000
