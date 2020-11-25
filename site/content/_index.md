@@ -25,25 +25,25 @@ schedule:
     time: 9:00～16:30
     description: 通常練習
     location_text: 畝部小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E7%95%9D%E9%83%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0095267,137.1524732,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a26a6914d7b7:0xd365640d7dd5027b!8m2!3d35.0095223!4d137.1546619
   - date: 2020-11-29 01:13:56 +0000
     team: B
     time: 9:00～16:30
     location_text: 畝部小学校
     description: 通常練習
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E7%95%9D%E9%83%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0095267,137.1524732,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a26a6914d7b7:0xd365640d7dd5027b!8m2!3d35.0095223!4d137.1546619
   - date: 2020-11-28 13:13:33 +0000
     team: Jr
     description: 通常練習
     time: "13:00～16:00\t"
     location_text: 畝部小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E7%95%9D%E9%83%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0095267,137.1524732,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a26a6914d7b7:0xd365640d7dd5027b!8m2!3d35.0095223!4d137.1546619
   - date: 2020-11-29 13:14:03 +0000
     team: Jr
     time: 13:00～16:00
     description: 通常練習
     location_text: 畝部小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E7%95%9D%E9%83%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0095267,137.1524732,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a26a6914d7b7:0xd365640d7dd5027b!8m2!3d35.0095223!4d137.1546619
 info:
   heading: 仲間を募集中
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております。
