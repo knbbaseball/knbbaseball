@@ -9,41 +9,41 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2020-11-21 02:19:33 +0000
-    time: 9:00～16:30
-    description: 通常練習
-    location_text: 上郷工場南グランド
-    location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E9%83%B7%E5%B7%A5%E5%A0%B4+%E5%8D%97%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89/@35.0209789,137.1253906,16z/data=!4m12!1m6!3m5!1s0x60049f544002f579:0x3245932b6721b928!2z44OI44Oo44K_6Ieq5YuV6LuKIOS4iumDt-W3peWgtA!8m2!3d35.0247594!4d137.1306793!3m4!1s0x60049f4d0c69e491:0x9aeeb4a1b5304811!8m2!3d35.0185768!4d137.1243793
+    date: 2020-11-28 02:19:33 +0000
+    time: 13:45開始
+    description: 南部少年野球大会2回戦 VS森の里少年野球クラブ
+    location_text: 大高小学校
+    location_url: https://www.google.co.jp/maps/place/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%AB%8B%E5%A4%A7%E9%AB%98%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0622073,136.9340661,17z/data=!3m1!4b1!4m5!3m4!1s0x60037c6748b9f463:0xd03792dcb63a3d7c!8m2!3d35.0622029!4d136.9362548
   - team: A
-    date: 2020-11-22 01:16:01 +0000
-    time: ①9:00開始、②14:30開始
-    description: ①豊田市秋季大会準決勝 VS青木グレート、②ミズノワイズ杯1回戦 VS安城二本木少年野球クラブ
-    location_text: 柳川瀬児童球場
-    location_url: https://www.google.co.jp/maps/place/%E6%9F%B3%E5%B7%9D%E7%80%AC%E5%85%AC%E5%9C%92+%E9%87%8E%E7%90%83%E5%A0%B4+(%E5%85%90%E7%AB%A5%E5%B0%82%E7%94%A8)/@34.9982844,137.1468831,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a2644feda6c1:0xb0fd0f1cc3dbc5aa!8m2!3d34.99828!4d137.1490718
-  - date: 2020-11-21 09:58:48 +0000
+    date: 2020-11-29 01:16:01 +0000
+    time: 14:30開始
+    description: ミズノワイズ杯2回戦 VS六反ファイターズ
+    location_text: 旭ヶ丘グランド
+    location_url: https://www.google.co.jp/maps/place/%E6%97%AD%E3%82%B1%E4%B8%98%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89/@35.3025122,137.0412254,12z/data=!4m8!1m2!2m1!1z5pet44O25LiY44Kw44Op44Oz44OJ!3m4!1s0x60036f21b6a17db1:0x7b8106944b878f07!8m2!3d35.2292358!4d137.0407379
+  - date: 2020-11-28 09:58:48 +0000
     team: B
     time: 9:00～16:30
     description: 通常練習
-    location_text: 上郷コミュニティーセンター
-    location_url: https://www.google.co.jp/maps/search/%E4%B8%8A%E9%83%B7%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.0169477,137.132209,17z/data=!3m1!4b1
-  - date: 2020-11-22 01:13:56 +0000
+    location_text: 畝部小学校
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
+  - date: 2020-11-29 01:13:56 +0000
     team: B
     time: 9:00～16:30
-    location_text: 上郷工場南グランド
+    location_text: 畝部小学校
     description: 通常練習
-    location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E9%83%B7%E5%B7%A5%E5%A0%B4+%E5%8D%97%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89/@35.0209789,137.1253906,16z/data=!4m12!1m6!3m5!1s0x60049f544002f579:0x3245932b6721b928!2z44OI44Oo44K_6Ieq5YuV6LuKIOS4iumDt-W3peWgtA!8m2!3d35.0247594!4d137.1306793!3m4!1s0x60049f4d0c69e491:0x9aeeb4a1b5304811!8m2!3d35.0185768!4d137.1243793
-  - date: 2020-11-21 13:13:33 +0000
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
+  - date: 2020-11-28 13:13:33 +0000
     team: Jr
     description: 通常練習
     time: "13:00～16:00\t"
-    location_text: 高嶺小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
-  - date: 2020-11-22 13:14:03 +0000
+    location_text: 畝部小学校
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
+  - date: 2020-11-29 13:14:03 +0000
     team: Jr
     time: 13:00～16:00
     description: 通常練習
-    location_text: 高嶺小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E9%AB%98%E5%B6%BA%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0075107,137.1213073,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b09c36b6b3:0x3eb6ffe6df2f4626!8m2!3d35.0075063!4d137.123496
+    location_text: 畝部小学校
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
 info:
   heading: 仲間を募集中
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております。
