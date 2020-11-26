@@ -31,7 +31,7 @@ schedule:
     time: 14:00開始
     location_text: 長興寺グランド
     description: ふれあいカップ決勝トーナメント VS平山フレンダース
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E7%95%9D%E9%83%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0095267,137.1524732,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a26a6914d7b7:0xd365640d7dd5027b!8m2!3d35.0095223!4d137.1546619
+    location_url: https://www.google.co.jp/maps/place/%E9%95%B7%E8%88%88%E5%AF%BA%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89/@35.0664925,137.1729948,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a1a809dc012d:0x89bf683aee04ef14!8m2!3d35.0664881!4d137.1751835%E7%95%9D%E9%83%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0095267,137.1524732,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a26a6914d7b7:0xd365640d7dd5027b!8m2!3d35.0095223!4d137.1546619
   - date: 2020-11-28 13:13:33 +0000
     team: Jr
     description: 通常練習
