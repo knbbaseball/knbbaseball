@@ -15,11 +15,11 @@ schedule:
     location_text: ※①、②試合会場 後日記載
     location_url: ""
   - team: A
-    date: 2020-11-29 01:16:01 +0000
-    time: 14:30開始
-    description: ミズノワイズ杯2回戦 VS六反ファイターズ
-    location_text: 旭ヶ丘グランド
-    location_url: https://www.google.co.jp/maps/place/%E6%97%AD%E3%82%B1%E4%B8%98%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89/@35.3025122,137.0412254,12z/data=!4m8!1m2!2m1!1z5pet44O25LiY44Kw44Op44Oz44OJ!3m4!1s0x60036f21b6a17db1:0x7b8106944b878f07!8m2!3d35.2292358!4d137.0407379
+    date: 2020-12-06 01:16:01 +0000
+    time: ①9:00開始、②後日記載
+    description: ①豊田市秋季大会決勝 VS堤スターズ、②ミズノワイズ杯5回戦 VS未定
+    location_text: ①豊田市運動公園野球場
+    location_url: https://www.google.co.jp/maps/search/%E8%B1%8A%E7%94%B0%E5%B8%82%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E9%87%8E%E7%90%83%E5%A0%B4/@35.1332696,137.1791196,18z/data=!3m1!4b1
   - date: 2020-11-28 09:58:48 +0000
     team: B
     time: 9:00～16:30
