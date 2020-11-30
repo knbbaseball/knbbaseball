@@ -9,11 +9,11 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2020-11-28 02:19:33 +0000
-    time: 13:45開始
-    description: 南部少年野球大会2回戦 VS森の里少年野球クラブ
-    location_text: 大高小学校
-    location_url: https://www.google.co.jp/maps/place/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%AB%8B%E5%A4%A7%E9%AB%98%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0622073,136.9340661,17z/data=!3m1!4b1!4m5!3m4!1s0x60037c6748b9f463:0xd03792dcb63a3d7c!8m2!3d35.0622029!4d136.9362548
+    date: 2020-12-05 02:19:33 +0000
+    time: ※①、②試合開始時刻 後日記載
+    description: ①ミズノワイズ杯３回戦 VS新知シャークス、②ミズノワイズ杯4回戦 VS横須賀ブラザーズ
+    location_text: ※①、②試合会場 後日記載
+    location_url: ""
   - team: A
     date: 2020-11-29 01:16:01 +0000
     time: 14:30開始
