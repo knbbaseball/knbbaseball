@@ -10,15 +10,15 @@ blurb:
 schedule:
   - team: A
     date: 2020-12-05 02:19:33 +0000
-    time: ※①、②試合開始時刻 後日記載
+    time: ①9:00開始、②14:30開始
     description: ①ミズノワイズ杯３回戦 VS新知シャークス、②ミズノワイズ杯4回戦 VS横須賀ブラザーズ
-    location_text: ※①、②試合会場 後日記載
-    location_url: ""
+    location_text: 志段味スポーツランド
+    location_url: https://www.google.co.jp/maps/search/%E5%BF%97%E6%AE%B5%E5%91%B3%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%A9%E3%83%B3%E3%83%89/@35.2334655,137.0149319,17z/data=!3m1!4b1
   - team: A
     date: 2020-12-06 01:16:01 +0000
-    time: ①9:00開始、②後日記載
-    description: ①豊田市秋季大会決勝 VS堤スターズ、②ミズノワイズ杯5回戦 VS未定
-    location_text: ①豊田市運動公園野球場
+    time: 9:00開始
+    description: 豊田市秋季大会決勝 VS堤スターズ
+    location_text: 豊田市運動公園野球場
     location_url: https://www.google.co.jp/maps/search/%E8%B1%8A%E7%94%B0%E5%B8%82%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E9%87%8E%E7%90%83%E5%A0%B4/@35.1332696,137.1791196,18z/data=!3m1!4b1
   - date: 2020-12-05 09:58:48 +0000
     team: B
