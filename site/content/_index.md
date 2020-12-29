@@ -9,17 +9,17 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2020-12-19 08:37:25 +0000
-    time: 9:00～16:30
-    description: AM:通常練習、PM:体験会
-    location_text: AM:高嶺小学校、PM:畝部小学校
+    date: 2021-01-04 08:37:25 +0000
+    time: 9:00～15:00
+    description: 初会
+    location_text: 高嶺小学校
     location_url: ""
-  - team: A
-    date: 2020-12-20 01:16:01 +0000
-    time: 11:00開始
-    description: ひまわりネットワーク杯1回戦 VS新屋クラブ
-    location_text: 豊田市運動公園 多目的広場B面
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92+%E5%A4%9A%E7%9B%AE%E7%9A%84%E5%BA%83%E5%A0%B4/@35.1349229,137.1737369,17z/data=!3m1!4b1!4m5!3m4!1s0x60035f0a2583be89:0xd3a6589f48541cc7!8m2!3d35.1349185!4d137.1759256
+  - team: 　
+    date: 2021-01-05 00:00:00 +0000
+    time: 　
+    description: 　
+    location_text: 　
+    location_url: 　
   - date: 2020-12-19 09:58:48 +0000
     team: B
     time: 9:00～15:30
