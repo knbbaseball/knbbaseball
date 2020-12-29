@@ -14,7 +14,7 @@ schedule:
     description: 初会
     location_text: 高嶺小学校
     location_url: ""
-  - team: 　
+  - team: A
     date: 2021-01-05 00:00:00 +0000
     time: 　
     description: 　
