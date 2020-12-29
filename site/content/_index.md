@@ -20,30 +20,30 @@ schedule:
     description: 　
     location_text: 　
     location_url: 　
-  - date: 2020-12-19 09:58:48 +0000
+  - date: 2021-01-04 09:58:48 +0000
     team: B
-    time: 9:00～15:30
-    description: AM:通常練習、PM:体験会
-    location_text: AM:上郷コミュニティーセンター、PM:畝部小学校
+    time: 9:00～15:00
+    description: 初会
+    location_text: 高嶺小学校
     location_url: ""
-  - date: 2020-12-20 08:34:31 +0000
+  - date: 2021-01-05 08:34:31 +0000
     team: B
-    time: 9:00～16:30
-    location_text: AM:上郷南グランド、PM:寿恵野小学校
-    description: AM:通常練習、PM:体験会
+    time: 　
+    location_text: 　
+    description: 　
+    location_url: 　
+  - date: 2021-01-04 13:13:33 +0000
+    team: Jr
+    description: 初会
+    time: 9:00～15:00
+    location_text: 高嶺小学校
     location_url: ""
-  - date: 2020-12-19 13:13:33 +0000
+  - date: 2021-01-05 13:14:03 +0000
     team: Jr
-    description: 体験会
-    time: 13:00～15:30
-    location_text: 畝部小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E7%95%9D%E9%83%A8%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0095267,137.1524732,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a26a6914d7b7:0xd365640d7dd5027b!8m2!3d35.0095223!4d137.1546619
-  - date: 2020-12-20 13:14:03 +0000
-    team: Jr
-    time: 13:00～15:30
-    description: 体験会
-    location_text: 寿恵野小学校
-    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E7%AB%8B%E5%AF%BF%E6%81%B5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A1/@35.0289365,137.1499781,17z/data=!3m1!4b1!4m5!3m4!1s0x6004a21e23eeadcd:0xbc68312ab524b9f2!8m2!3d35.0289321!4d137.1521668
+    time: 　
+    description: 　
+    location_text: 　
+    location_url: 　
 info:
   heading: 仲間を募集中
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております。
