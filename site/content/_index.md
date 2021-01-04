@@ -1,6 +1,6 @@
 ---
 title: 上郷ノーティボーイズ
-image: /images/2020syuugou.jpg
+image: /images/xzlz9285.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 blurb:
   heading: 上郷ノーティボーイズ
@@ -15,7 +15,7 @@ schedule:
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-01-05 00:00:00 +0000
+    date: 2021-01-09 00:00:00 +0000
     time: 　
     description: 　
     location_text: 　
@@ -26,7 +26,7 @@ schedule:
     description: 初会
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-01-05 08:34:31 +0000
+  - date: 2021-01-09 08:34:31 +0000
     team: B
     time: 　
     location_text: 　
@@ -38,7 +38,7 @@ schedule:
     time: 9:00～15:00
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-01-05 13:14:03 +0000
+  - date: 2021-01-09 13:14:03 +0000
     team: Jr
     time: 　
     description: 　
