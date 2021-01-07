@@ -9,40 +9,40 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-01-04 08:37:25 +0000
+    date: 2021-01-09 08:37:25 +0000
     time: 9:00～15:00
-    description: 初会
+    description: 　
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-01-05 00:00:00 +0000
+    date: 2021-01-10 00:00:00 +0000
     time: 　
     description: 　
     location_text: 　
     location_url: 　
-  - date: 2021-01-04 09:58:48 +0000
+  - date: 2021-01-09 09:58:48 +0000
     team: B
-    time: 9:00～15:00
-    description: 初会
-    location_text: 高嶺小学校
+    time: 9:00～16:30
+    description: 通常練習
+    location_text: 畝部小学校
     location_url: ""
-  - date: 2021-01-05 08:34:31 +0000
+  - date: 2021-01-10 08:34:31 +0000
     team: B
-    time: 　
-    location_text: 　
-    description: 　
+    time: 10:45開始
+    location_text: 志段味スポーツランド
+    description: スギモト杯2回戦
     location_url: 　
-  - date: 2021-01-04 13:13:33 +0000
+  - date: 2021-01-09 13:13:33 +0000
     team: Jr
-    description: 初会
-    time: 9:00～15:00
+    description: 通常練習
+    time: 13:00～16:00
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-01-05 13:14:03 +0000
+  - date: 2021-01-10 10:15:21 +0000
     team: Jr
-    time: 　
-    description: 　
-    location_text: 　
+    time: 13:00～16:00
+    description: 通常練習
+    location_text: 高嶺小学校
     location_url: 　
 info:
   heading: 仲間を募集中
