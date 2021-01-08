@@ -10,15 +10,15 @@ blurb:
 schedule:
   - team: A
     date: 2021-01-09 08:37:25 +0000
-    time: 9:00～15:00
-    description: 　
+    time: 9:00～16:30
+    description: 通常練習
     location_text: 高嶺小学校
     location_url: ""
   - team: A
     date: 2021-01-10 00:00:00 +0000
-    time: 　
-    description: 　
-    location_text: 　
+    time: 9:00開始
+    description: ひまわりネットワーク杯
+    location_text: 豊田市運動公園 多目的広場A面（ベンチ1塁側）
     location_url: 　
   - date: 2021-01-09 09:58:48 +0000
     team: B
