@@ -29,8 +29,8 @@ schedule:
   - date: 2021-01-10 08:34:31 +0000
     team: B
     time: 10:45開始
-    location_text: 志段味スポーツランド
-    description: スギモト杯2回戦
+    location_text: 志段味グランド第2
+    description: スギモト杯2回戦 VS乙川スポーツクラブ横川
     location_url: 　
   - date: 2021-01-09 13:13:33 +0000
     team: Jr
