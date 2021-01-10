@@ -17,9 +17,9 @@ schedule:
   - team: A
     date: 2021-01-10 00:00:00 +0000
     time: 9:00開始
-    description: ひまわりネットワーク杯
+    description: ひまわりネットワーク杯 VS松平ニューボーイズ
     location_text: 豊田市運動公園 多目的広場A面（ベンチ1塁側）
-    location_url: 　
+    location_url: ""
   - date: 2021-01-09 09:58:48 +0000
     team: B
     time: 9:00～16:30
@@ -31,7 +31,7 @@ schedule:
     time: 10:45開始
     location_text: 志段味グランド第2
     description: スギモト杯2回戦 VS乙川スポーツクラブ横川
-    location_url: 　
+    location_url: ""
   - date: 2021-01-09 13:13:33 +0000
     team: Jr
     description: 通常練習
@@ -43,7 +43,7 @@ schedule:
     time: 13:00～16:00
     description: 通常練習
     location_text: 高嶺小学校
-    location_url: 　
+    location_url: ""
 info:
   heading: 仲間を募集中
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております。
