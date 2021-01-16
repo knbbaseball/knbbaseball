@@ -28,7 +28,7 @@ schedule:
     location_url: ""
   - date: 2021-01-17 08:34:31 +0000
     team: B
-    time: 9：00～16：30
+    time: 9:00～16:30
     location_text: 上郷南グランド
     description: 通常練習
     location_url: ""
