@@ -9,40 +9,40 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-01-09 08:37:25 +0000
-    time: 9:00～16:30
+    date: 2021-01-16 08:37:25 +0000
+    time: 9:00～16:00
     description: 通常練習
-    location_text: 高嶺小学校
+    location_text: AM：上郷コミュニティーC、PM：上郷南グランド
     location_url: ""
   - team: A
-    date: 2021-01-10 00:00:00 +0000
-    time: 9:00開始
-    description: ひまわりネットワーク杯 VS松平ニューボーイズ
-    location_text: 豊田市運動公園 多目的広場A面（ベンチ1塁側）
+    date: 2021-01-17 00:00:00 +0000
+    time: 9:00～16:00
+    description: 通常練習
+    location_text: AM：上郷東グランド、PM：上郷コミュニティーC
     location_url: ""
-  - date: 2021-01-09 09:58:48 +0000
+  - date: 2021-01-16 09:58:48 +0000
     team: B
     time: 9:00～16:30
     description: 通常練習
-    location_text: 畝部小学校
+    location_text: 上郷コミュニティーセンター
     location_url: ""
-  - date: 2021-01-10 08:34:31 +0000
+  - date: 2021-01-17 08:34:31 +0000
     team: B
-    time: 10:45開始
-    location_text: 志段味グランド第2
-    description: スギモト杯2回戦 VS乙川スポーツクラブ横川
-    location_url: ""
-  - date: 2021-01-09 13:13:33 +0000
-    team: Jr
+    time: 9：00～16：30
+    location_text: 上郷南グランド
     description: 通常練習
-    time: 13:00～16:00
-    location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-01-10 10:15:21 +0000
+  - date: 2021-02-06 13:13:33 +0000
     team: Jr
-    time: 13:00～16:00
-    description: 通常練習
-    location_text: 高嶺小学校
+    description: 活動自粛中
+    time: 　
+    location_text: 　
+    location_url: ""
+  - date: 2021-02-07 10:15:21 +0000
+    team: Jr
+    time: 　
+    description: 活動自粛中
+    location_text: 　
     location_url: ""
 info:
   heading: 仲間を募集中
