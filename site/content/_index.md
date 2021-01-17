@@ -16,10 +16,10 @@ schedule:
     location_url: ""
   - team: A
     date: 2021-01-24 00:00:00 +0000
-    time: 9:00～16:30
-    description: 通常練習
-    location_text: 上郷南グランド
-    location_url: ""
+    time: 9:00開始
+    description: 豊田卒団記念親睦少年野球3回戦 VS青木グレート
+    location_text: 豊田市運動公園 多目的広場A面
+    location_url: https://www.google.co.jp/maps/place/%E8%B1%8A%E7%94%B0%E5%B8%82%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92+%E5%A4%9A%E7%9B%AE%E7%9A%84%E5%BA%83%E5%A0%B4/@35.1349229,137.1737369,17z/data=!3m1!4b1!4m5!3m4!1s0x60035f0a2583be89:0xd3a6589f48541cc7!8m2!3d35.1349185!4d137.1759256
   - date: 2021-01-23 09:58:48 +0000
     team: B
     time: 9:00～16:30
