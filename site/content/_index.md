@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-01-16 08:37:25 +0000
-    time: 9:00～16:00
+    date: 2021-01-23 08:37:25 +0000
+    time: 9:00～16:30
     description: 通常練習
-    location_text: AM：上郷コミュニティーC、PM：上郷南グランド
+    location_text: AM：上郷コミュニティーC、PM：上郷東グランド
     location_url: ""
   - team: A
-    date: 2021-01-17 00:00:00 +0000
-    time: 9:00～16:00
+    date: 2021-01-24 00:00:00 +0000
+    time: 9:00～16:30
     description: 通常練習
-    location_text: AM：上郷東グランド、PM：上郷コミュニティーC
+    location_text: 上郷南グランド
     location_url: ""
-  - date: 2021-01-16 09:58:48 +0000
+  - date: 2021-01-23 09:58:48 +0000
     team: B
     time: 9:00～16:30
     description: 通常練習
     location_text: 上郷コミュニティーセンター
     location_url: ""
-  - date: 2021-01-17 08:34:31 +0000
+  - date: 2021-01-24 08:34:31 +0000
     team: B
-    time: 10:00開始
-    location_text: 上郷南グランド
-    description: 練習試合 VS豊田虎
+    time: 9:00～16:30
+    location_text: AM：上郷東グランド、PM：上郷コミュニティーC
+    description: 通常練習
     location_url: ""
   - date: 2021-02-06 13:13:33 +0000
     team: Jr
