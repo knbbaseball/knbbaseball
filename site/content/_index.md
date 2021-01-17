@@ -28,9 +28,9 @@ schedule:
     location_url: ""
   - date: 2021-01-17 08:34:31 +0000
     team: B
-    time: 9:00～16:30
+    time: 10:00開始
     location_text: 上郷南グランド
-    description: 通常練習
+    description: 練習試合 VS豊田虎
     location_url: ""
   - date: 2021-02-06 13:13:33 +0000
     team: Jr
