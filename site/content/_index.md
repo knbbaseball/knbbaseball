@@ -29,8 +29,8 @@ schedule:
   - date: 2021-01-24 08:34:31 +0000
     team: B
     time: 9:00～16:30
-    location_text: AM：上郷東グランド、PM：上郷コミュニティーC
-    description: 通常練習
+    location_text: AM：上郷南グランド、PM：上郷コミュニティーC
+    description: 練習試合 VS青木グレート 14:00～
     location_url: ""
   - date: 2021-02-06 13:13:33 +0000
     team: Jr
