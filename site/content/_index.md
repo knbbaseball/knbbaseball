@@ -17,7 +17,7 @@ schedule:
   - team: A
     date: 2021-01-31 00:00:00 +0000
     time: 8:30～16:00
-    description: 練習試合 VS矢作バンビーズ
+    description: 練習試合 VS矢作バンビーズ　13:30～
     location_text: 上郷南グランド
     location_url: ""
   - date: 2021-01-30 00:00:00 +0000
