@@ -20,17 +20,17 @@ schedule:
     description: 豊田卒団記念親睦少年野球大会 準決勝 VS長久手少年野球クラブ　9:00～
     location_text: 豊田市運動公園野球場
     location_url: https://www.google.co.jp/maps/search/%E8%B1%8A%E7%94%B0%E5%B8%82%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E9%87%8E%E7%90%83%E5%A0%B4/@35.1332696,137.1791196,18z/data=!3m1!4b1
-  - date: 2021-01-30 00:00:00 +0000
+  - date: 2021-02-06 00:00:00 +0000
     team: B
     time: 9:00～16:30
     description: 通常練習
-    location_text: 上郷コミュニティーC（Aチームと合同）
+    location_text: 上郷コミュニティーC
     location_url: ""
-  - date: 2021-01-31 08:34:31 +0000
+  - date: 2021-02-07 08:34:31 +0000
     team: B
     time: 8:00～16:30
-    location_text: AM：越戸公園A、PM：上郷東グランド
-    description: 練習試合 VS青木グレート 10:00～
+    location_text: AM：上郷南グランド　PM：Aチーム応援or上郷南グランド
+    description: 練習試合 VS今川ビクトリー 10:00～
     location_url: ""
   - date: 2021-02-06 13:13:33 +0000
     team: Jr
