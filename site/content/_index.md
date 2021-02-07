@@ -9,17 +9,17 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-02-06 08:37:25 +0000
-    time: 8:30～16:00
-    description: 練習試合 VS岡崎南クラブ　13:30～
-    location_text: 上郷工場南グランド
-    location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E9%83%B7%E5%B7%A5%E5%A0%B4+%E5%8D%97%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89/@35.0209789,137.1253906,16z/data=!4m12!1m6!3m5!1s0x60049f544002f579:0x3245932b6721b928!2z44OI44Oo44K_6Ieq5YuV6LuKIOS4iumDt-W3peWgtA!8m2!3d35.0247594!4d137.1306793!3m4!1s0x60049f4d0c69e491:0x9aeeb4a1b5304811!8m2!3d35.0185768!4d137.1243793
+    date: 2021-02-13 08:37:25 +0000
+    time: 10:00～12:00
+    description: 卒団式
+    location_text: 上和会区民会館
+    location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E5%92%8C%E4%BC%9A%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E5%BA%83%E5%A0%B4/@35.0124872,137.1207932,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b3ddcf4785:0x5b4a1ebd2ab82f43!8m2!3d35.0124828!4d137.1229819
   - team: A
-    date: 2021-02-07 00:00:00 +0000
-    time: 6:30～17:00
-    description: 豊田卒団記念親睦少年野球大会 準決勝 VS長久手少年野球クラブ　9:00～
-    location_text: 豊田市運動公園野球場
-    location_url: https://www.google.co.jp/maps/search/%E8%B1%8A%E7%94%B0%E5%B8%82%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E9%87%8E%E7%90%83%E5%A0%B4/@35.1332696,137.1791196,18z/data=!3m1!4b1
+    date: 2021-02-14 00:00:00 +0000
+    time: 　
+    description: 新チーム始動！！
+    location_text: 　
+    location_url: 　
   - date: 2021-02-06 00:00:00 +0000
     team: B
     time: 9:00～16:30
@@ -32,16 +32,16 @@ schedule:
     location_text: AM：上郷南グランド　PM：Aチーム応援or上郷南グランド
     description: 練習試合 VS今川ビクトリー 10:00～
     location_url: ""
-  - date: 2021-02-06 13:13:33 +0000
+  - date: 2021-02-13 13:13:33 +0000
     team: Jr
-    description: 活動自粛中
+    description: 活動再開予定！
     time: 　
     location_text: 　
     location_url: ""
-  - date: 2021-02-07 10:15:21 +0000
+  - date: 2021-02-14 10:15:21 +0000
     team: Jr
     time: 　
-    description: 活動自粛中
+    description: 活動再開予定！
     location_text: 　
     location_url: ""
 info:
