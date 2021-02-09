@@ -19,7 +19,7 @@ schedule:
     time: 8:00～16:30
     description: 練習試合（28期生新Aチーム始動！）
     location_text: 試合会場：藤岡山村広場、集合場所：上郷コミセン
-    location_url: 　
+    location_url: ""
   - date: 2021-02-13 00:00:00 +0000
     team: B
     time: 8:30～17:00
@@ -31,7 +31,7 @@ schedule:
     time: 　
     location_text: 上郷コミュニティーセンター
     description: 新Aチームと合同で活動
-    location_url: 　
+    location_url: ""
   - date: 2021-02-13 13:13:33 +0000
     team: Jr
     description: 活動再開予定！
