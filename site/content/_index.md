@@ -17,20 +17,20 @@ schedule:
   - team: A
     date: 2021-02-28 00:00:00 +0000
     time: 7:40～16:15
-    description: 春季大会 VS　　堤スターズ 11:00 ～
+    description: 春季大会 VS堤スターズ 11:00 ～
     location_text: 試合会場：豊田球場、集合場所：上郷東グランド
     location_url: ""
-  - date: 2021-02-20 08:34:31 +0000
+  - date: 2021-02-27 08:34:31 +0000
     team: C
     time: 　
     location_text: 上郷コミュニティーC
     description: Aチームと合同で活動
     location_url: ""
-  - date: 2021-02-21 13:13:33 +0000
+  - date: 2021-02-28 13:13:33 +0000
     team: C
     description: Aチームと合同で活動
     time: 　
-    location_text: 上郷コミュニティーC
+    location_text: 試合会場：豊田球場、集合場所：上郷東グランド
     location_url: ""
 info:
   heading: 仲間を募集中
