@@ -9,16 +9,16 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-02-20 08:37:25 +0000
+    date: 2021-02-27 08:37:25 +0000
     time: 9:00～17:00
     description: 一日練習
     location_text: 上郷コミュニティーC
     location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E5%92%8C%E4%BC%9A%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E5%BA%83%E5%A0%B4/@35.0124872,137.1207932,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b3ddcf4785:0x5b4a1ebd2ab82f43!8m2!3d35.0124828!4d137.1229819
   - team: A
-    date: 2021-02-21 00:00:00 +0000
-    time: 8:30～16:15
-    description: 練習試合　VS三河スターズ（2試合）
-    location_text: 試合会場：大門小学校、集合場所：上郷コミセン
+    date: 2021-02-28 00:00:00 +0000
+    time: 7:40～16:15
+    description: 春季大会 VS　　堤スターズ 11:00 ～
+    location_text: 試合会場：豊田球場、集合場所：上郷東グランド
     location_url: ""
   - date: 2021-02-20 08:34:31 +0000
     team: C
