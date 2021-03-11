@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-03-06 08:37:25 +0000
+    date: 2021-03-13 08:37:25 +0000
     time: 9:00～17:00
-    description: 一日練習
+    description: 練習試合 VS市木フェニックス 14:00～
     location_text: 高嶺小学校
     location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E5%92%8C%E4%BC%9A%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E5%BA%83%E5%A0%B4/@35.0124872,137.1207932,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b3ddcf4785:0x5b4a1ebd2ab82f43!8m2!3d35.0124828!4d137.1229819
   - team: A
-    date: 2021-02-07 00:00:00 +0000
-    time: 6:30～16:00
-    description: 春季大会3回戦 VS山之手少年野球クラブ 9:00 ～
-    location_text: 試合会場：豊田球場、集合場所：高嶺小学校
+    date: 2021-03-14 00:00:00 +0000
+    time: 9:00～17:00
+    description: 一日練習
+    location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-03-06 08:34:31 +0000
+  - date: 2021-03-13 08:34:31 +0000
     team: C
+    time: 9:00～17:00
+    location_text: 上郷コミュニティーセンター
+    description: 一日練習
+    location_url: ""
+  - date: 2021-03-14 13:13:33 +0000
+    team: C
+    description: Aチームと合同で活動
     time: 　
     location_text: 高嶺小学校
-    description: Aチームと合同で活動
-    location_url: ""
-  - date: 2021-03-07 13:13:33 +0000
-    team: C
-    description: Aチームと合同で活動
-    time: 　
-    location_text: 試合会場：豊田球場、集合場所：高嶺小学校
     location_url: ""
 info:
   heading: 仲間を募集中
