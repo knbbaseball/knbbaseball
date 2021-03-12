@@ -10,26 +10,26 @@ blurb:
 schedule:
   - team: A
     date: 2021-03-13 08:37:25 +0000
-    time: 9:00～17:00
-    description: 練習試合 VS市木フェニックス 14:00～
-    location_text: 高嶺小学校
+    time: 9:00～12:00
+    description: 半日練習
+    location_text: 高架下広場（上和会）
     location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E5%92%8C%E4%BC%9A%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E5%BA%83%E5%A0%B4/@35.0124872,137.1207932,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b3ddcf4785:0x5b4a1ebd2ab82f43!8m2!3d35.0124828!4d137.1229819
   - team: A
     date: 2021-03-14 00:00:00 +0000
     time: 9:00～17:00
-    description: 一日練習
-    location_text: 高嶺小学校
+    description: 練習試合　VS市木フェニックス
+    location_text: AM:市木小学校　PM:高嶺小学校
     location_url: ""
   - date: 2021-03-13 08:34:31 +0000
     team: C
-    time: 9:00～17:00
-    location_text: 上郷コミュニティーセンター
-    description: 一日練習
+    time: "-"
+    location_text: "-"
+    description: 雨天の為、練習中止
     location_url: ""
   - date: 2021-03-14 13:13:33 +0000
     team: C
-    description: Aチームと合同で活動
-    time: 　
+    description: 一日練習
+    time: 9:00～17:00
     location_text: 高嶺小学校
     location_url: ""
 info:
