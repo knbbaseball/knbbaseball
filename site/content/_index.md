@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-04-10 08:37:25 +0000
+    date: 2021-04-17 08:37:25 +0000
     time: 9:00～17:00
     description: 一日練習
     location_text: 高嶺小学校
     location_url: https://www.google.co.jp/maps/place/%E4%B8%8A%E5%92%8C%E4%BC%9A%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E5%BA%83%E5%A0%B4/@35.0124872,137.1207932,17z/data=!3m1!4b1!4m5!3m4!1s0x600498b3ddcf4785:0x5b4a1ebd2ab82f43!8m2!3d35.0124828!4d137.1229819
   - team: A
-    date: 2021-04-11 00:00:00 +0000
+    date: 2021-04-18 00:00:00 +0000
     time: 9:00～17:00
-    description: 東海団地少年野球 春季大会 初戦　VSウエストベアーズ　14:00～
+    description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-04-10 08:34:31 +0000
+  - date: 2021-04-17 08:34:31 +0000
     team: C
     time: 9:00～17:00
     location_text: 高嶺小学校
     description: 一日練習
     location_url: ""
-  - date: 2021-04-11 13:13:33 +0000
+  - date: 2021-04-18 13:13:33 +0000
     team: C
     description: 一日練習
     time: 9:00～17:00
-    location_text: 上郷南グランド
+    location_text: 高嶺小学校
     location_url: ""
 info:
   heading: 仲間を募集中
@@ -39,11 +39,15 @@ info:
   link_text: お申し込み・お問い合わせ
   link_url: mailto:knbbaseball@gmail.com?subject=お問い合わせ&body=名前%20%3A%0D%0Aふりがな%20%3A%0D%0A電話%20%3A%0D%0A学校名%20%3A%0D%0A学年%20%3A%0D%0Aお問い合せ内容%20%3A（例、体験・見学・入団希望）
 ---
+***★体験会当日は、雨天の場合もあります。体験会だけではなく、***
+
+***随時体験にお越し下さい！気軽にお問合せお願いします！***
+
 # ***最新入団者***
 
 **【3/20】**
 
-**高村憲伸くん**　新4年生　高嶺小学校
+**高村憲真くん**　新4年生　高嶺小学校
 
 **山田晃毅くん**　新1年生　若林東小学校
 
