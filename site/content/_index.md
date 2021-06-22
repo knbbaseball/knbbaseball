@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-06-12 08:37:25 +0000
-    time: 9:00～17:00
-    description: 一日練習
-    location_text: 上郷コミュニティーセンター
+    date: 2021-06-26 08:37:25 +0000
+    time: 8:30～17:00
+    description: ふれあいカップ　vs水源パイレーツ 10:00～
+    location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-06-13 00:00:00 +0000
+    date: 2021-06-27 00:00:00 +0000
     time: 9:00～17:00
     description: 一日練習
-    location_text: 上郷南グランド
+    location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-06-05 08:34:31 +0000
+  - date: 2021-06-26 08:34:31 +0000
     team: C
     time: 9:00～17:00
-    location_text: 上郷コミュニティーセンター
-    description: 一日練習
+    location_text: 高嶺小学校、上郷東グランド
+    description: Aチーム試合観戦、一日練習
     location_url: ""
-  - date: 2021-06-06 13:13:33 +0000
+  - date: 2021-06-27 13:13:33 +0000
     team: C
     description: 一日練習
     time: 9:00～17:00
-    location_text: 上郷南グランド
+    location_text: 高嶺小学校
     location_url: ""
 info:
   heading: 仲間を募集中
