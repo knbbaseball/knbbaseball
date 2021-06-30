@@ -9,24 +9,24 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-06-26 08:37:25 +0000
+    date: 2021-07-03 08:37:25 +0000
     time: 8:30～17:00
-    description: ふれあいカップ　vs水源パイレーツ 10:00～
+    description: ふれあいカップ　vs高橋ファイターズ 10:00～
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-06-27 00:00:00 +0000
+    date: 2021-07-04 00:00:00 +0000
     time: 9:00～17:00
     description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-06-26 08:34:31 +0000
+  - date: 2021-07-03 08:34:31 +0000
     team: C
     time: 9:00～17:00
     location_text: 高嶺小学校、上郷東グランド
     description: Aチーム試合観戦、一日練習
     location_url: ""
-  - date: 2021-06-27 13:13:33 +0000
+  - date: 2021-07-04 13:13:33 +0000
     team: C
     description: 一日練習
     time: 9:00～17:00
