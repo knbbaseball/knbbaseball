@@ -9,27 +9,27 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-07-03 08:37:25 +0000
-    time: 8:30～17:00
-    description: ふれあいカップ　vs高橋ファイターズ 10:00～
+    date: 2021-07-10 08:37:25 +0000
+    time: 9:00～17:00
+    description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-07-04 00:00:00 +0000
-    time: 9:00～17:00
-    description: 一日練習
+    date: 2021-07-11 00:00:00 +0000
+    time: 10:00～17:00
+    description: ポップアップアスリート 1回戦 14:30～　vs愛知ベースボールクラブジュニア
+    location_text: AM:高嶺小学校　PM:川田公園野球場
+    location_url: ""
+  - date: 2021-07-10 08:34:31 +0000
+    team: C
+    time: 8:00～12:30
     location_text: 高嶺小学校
+    description: 半日練習　※サマータイム
     location_url: ""
-  - date: 2021-07-03 08:34:31 +0000
+  - date: 2021-07-11 13:13:33 +0000
     team: C
-    time: 9:00～17:00
-    location_text: 高嶺小学校、上郷東グランド
-    description: Aチーム試合観戦、一日練習
-    location_url: ""
-  - date: 2021-07-04 13:13:33 +0000
-    team: C
-    description: 一日練習
-    time: 9:00～17:00
+    description: 半日練習　※サマータイム
+    time: 8:00～12:30
     location_text: 高嶺小学校
     location_url: ""
 info:
