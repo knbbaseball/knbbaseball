@@ -20,13 +20,13 @@ schedule:
     description: 小幡旗大会 3回戦 11:00　VS高橋ファイターズ
     location_text: 柳川瀬グランド野球場
     location_url: ""
-  - date: 2021-07-17 08:34:31 +0000
+  - date: 2021-07-24 08:34:31 +0000
     team: C
     time: 7:30～12:30
-    location_text: 高嶺小学校
-    description: 半日練習
+    location_text: 上郷南グランド
+    description: 体験会
     location_url: ""
-  - date: 2021-07-18 13:13:33 +0000
+  - date: 2021-07-25 13:13:33 +0000
     team: C
     description: 半日練習
     time: 7:30～12:30
