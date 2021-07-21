@@ -9,16 +9,16 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-07-17 08:37:25 +0000
-    time: 7:30～13:00
-    description: 半日練習
-    location_text: 高嶺小学校
+    date: 2021-07-24 08:37:25 +0000
+    time: 7:30～16:00
+    description: AM:体験会　PM:練習
+    location_text: 上郷南グランド
     location_url: ""
   - team: A
-    date: 2021-07-18 00:00:00 +0000
+    date: 2021-07-25 00:00:00 +0000
     time: 8:30～16:00
-    description: 小幡旗大会 1回戦 11:30　VS美里チャレンジBC
-    location_text: 梅坪浄水野球場
+    description: 小幡旗大会 3回戦 11:00　VS高橋ファイターズ
+    location_text: 柳川瀬グランド野球場
     location_url: ""
   - date: 2021-07-17 08:34:31 +0000
     team: C
