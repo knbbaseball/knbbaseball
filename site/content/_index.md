@@ -1,6 +1,6 @@
 ---
 title: 上郷ノーティボーイズ
-image: /images/初会2021①.jpg
+image: /images/cimg2649.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 blurb:
   heading: 上郷ノーティボーイズ
@@ -9,27 +9,27 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-07-31 08:37:25 +0000
+    date: 2021-08-07 08:37:25 +0000
     time: 8:00～13:00
     description: 半日練習
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-08-01 00:00:00 +0000
-    time: 8:30～16:00
-    description: ふれあいカップ　VS三好スターズ　10:00開始
-    location_text: 高嶺小学校
+    date: 2021-08-08 00:00:00 +0000
+    time: 8:00～16:00
+    description: JBLA スポーツデポ杯　VS南部少年野球クラブ　10:45開始
+    location_text: 志段味グランド
     location_url: ""
-  - date: 2021-07-31 08:34:31 +0000
+  - date: 2021-08-07 08:34:31 +0000
     team: C
-    time: 7:30～12:30
+    time: 8:00～12:30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2021-08-01 13:13:33 +0000
+  - date: 2021-08-08 13:13:33 +0000
     team: C
     description: 半日練習
-    time: 7:30～12:30
+    time: 8:00～12:30
     location_text: 高嶺小学校
     location_url: ""
 info:
@@ -47,7 +47,7 @@ info:
 
 ***興味のある方は、ぜひお越し下さい！***
 
-# ***最新入団者***
+# ***2021年入団者***
 
 **【3/20】**
 
@@ -64,3 +64,7 @@ info:
 **【4/24】**
 
 **下山大護くん**　年長　石橋幼稚園
+
+**【7/25】**
+
+**野村光辰くん**　3年生　高嶺小学校
