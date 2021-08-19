@@ -9,24 +9,24 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-08-07 08:37:25 +0000
-    time: 8:00～13:00
+    date: 2021-08-21 08:37:25 +0000
+    time: 7:30～13:00
     description: 半日練習
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-08-08 00:00:00 +0000
-    time: 8:00～16:00
-    description: JBLA スポーツデポ杯　VS南部少年野球クラブ　10:45開始
+    date: 2021-08-22 00:00:00 +0000
+    time: 8:00～15:30
+    description: JBLA スポーツデポ杯　VSゴールデンファイヤーズJr.　12:45開始
     location_text: 志段味グランド
     location_url: ""
-  - date: 2021-08-07 08:34:31 +0000
+  - date: 2021-08-21 08:34:31 +0000
     team: C
     time: 8:00～12:30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2021-08-08 13:13:33 +0000
+  - date: 2021-08-22 13:13:33 +0000
     team: C
     description: 半日練習
     time: 8:00～12:30
