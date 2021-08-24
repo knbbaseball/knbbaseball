@@ -9,27 +9,27 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-08-21 08:37:25 +0000
-    time: 7:30～13:00
-    description: 半日練習
+    date: 2021-08-28 08:37:25 +0000
+    time: 8:00～16:00
+    description: ふれあいカップ リーグ戦　VS高橋ファイターズ　10:00～開始
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-08-22 00:00:00 +0000
-    time: 8:00～15:30
-    description: JBLA スポーツデポ杯　VSゴールデンファイヤーズJr.　12:45開始
-    location_text: 志段味グランド
+    date: 2021-08-29 00:00:00 +0000
+    time: 7:15～16:00
+    description: AM:ふれあいカップ VS品野ファイターズ 9:00～開始　PM:高岡クラブ体験会
+    location_text: AM:品野台小学校　PM:土橋公園
     location_url: ""
-  - date: 2021-08-21 08:34:31 +0000
+  - date: 2021-08-28 08:34:31 +0000
     team: C
-    time: 8:00～12:30
+    time: 7:30～12:30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2021-08-22 13:13:33 +0000
+  - date: 2021-08-29 13:13:33 +0000
     team: C
     description: 半日練習
-    time: 8:00～12:30
+    time: 7:30～12:30
     location_text: 高嶺小学校
     location_url: ""
 info:
@@ -68,3 +68,9 @@ info:
 **【7/25】**
 
 **野村光辰くん**　3年生　高嶺小学校
+
+**【8/8】**
+
+**生駒奎太くん**　4年生　若園小学校
+
+**生駒冠太くん**　2年生　若園小学校
