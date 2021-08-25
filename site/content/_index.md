@@ -12,25 +12,25 @@ schedule:
     date: 2021-08-28 08:37:25 +0000
     time: 8:00～16:00
     description: ふれあいカップ リーグ戦　VS高橋ファイターズ　10:00～開始
-    location_text: 高嶺小学校
+    location_text: AM:古瀬間運動公園　PM:上郷コミュニティーセンター
     location_url: ""
   - team: A
     date: 2021-08-29 00:00:00 +0000
-    time: 7:15～16:00
-    description: AM:ふれあいカップ VS品野ファイターズ 9:00～開始　PM:高岡クラブ体験会
-    location_text: AM:品野台小学校　PM:土橋公園
+    time: 7:30～13:00
+    description: 半日練習
+    location_text: 上郷南グランド
     location_url: ""
   - date: 2021-08-28 08:34:31 +0000
     team: C
     time: 7:30～12:30
-    location_text: 高嶺小学校
+    location_text: 上郷コミュニティーセンター
     description: 半日練習
     location_url: ""
   - date: 2021-08-29 13:13:33 +0000
     team: C
     description: 半日練習
-    time: 7:30～12:30
-    location_text: 高嶺小学校
+    time: 12:00～17:00
+    location_text: 上郷南グランド
     location_url: ""
 info:
   heading: 仲間を募集中
