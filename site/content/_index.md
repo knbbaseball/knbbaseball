@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-08-28 08:37:25 +0000
-    time: 8:00～16:00
-    description: ふれあいカップ リーグ戦　VS高橋ファイターズ　10:00～開始
-    location_text: AM:古瀬間運動公園　PM:上郷コミュニティーセンター
+    date: 2021-09-04 08:37:25 +0000
+    time: 8:30～17:00
+    description: 一日練習
+    location_text: 上郷コミュニティーセンター
     location_url: ""
   - team: A
-    date: 2021-08-29 00:00:00 +0000
-    time: 7:30～13:00
-    description: 半日練習
+    date: 2021-09-05 00:00:00 +0000
+    time: 7:45～17:00
+    description: 練習試合　VS住吉ベースボールクラブ
     location_text: 上郷南グランド
     location_url: ""
-  - date: 2021-08-28 08:34:31 +0000
+  - date: 2021-09-04 08:34:31 +0000
     team: C
-    time: 7:30～12:30
-    location_text: 上郷コミュニティーセンター
+    time: 7:30～13:00
+    location_text: 上郷東グランド
     description: 半日練習
     location_url: ""
   - date: 2021-08-29 13:13:33 +0000
     team: C
     description: 半日練習
-    time: 12:00～17:00
-    location_text: 上郷南グランド
+    time: 7:30～13:00
+    location_text: 上郷東グランド
     location_url: ""
 info:
   heading: 仲間を募集中
