@@ -20,13 +20,13 @@ schedule:
     description: ふれあいカップ　VS豊田レッドスターズ　10:00 開始
     location_text: AM:新生グランド　PM:上郷南グランド
     location_url: ""
-  - date: 2021-09-04 08:34:31 +0000
+  - date: 2021-09-18 08:34:31 +0000
     team: C
     time: 7:30～13:00
     location_text: 上郷東グランド
     description: 半日練習
     location_url: ""
-  - date: 2021-08-29 13:13:33 +0000
+  - date: 2021-09-19 13:13:33 +0000
     team: C
     description: 半日練習
     time: 7:30～13:00
@@ -78,3 +78,7 @@ info:
 **【8/28】**
 
 **野海真弘くん**　3年生　北野小学校
+
+**【9/11】**
+
+**三浦颯馬くん**　3年生　高嶺小学校
