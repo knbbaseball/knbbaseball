@@ -9,16 +9,16 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-09-11 08:37:25 +0000
+    date: 2021-09-18 08:37:25 +0000
     time: 8:30～17:00
     description: 一日練習
     location_text: 上郷コミュニティーセンター
     location_url: ""
   - team: A
-    date: 2021-09-05 00:00:00 +0000
-    time: 7:30～17:00
-    description: ふれあいカップ　VS豊田レッドスターズ　10:00 開始
-    location_text: AM:新生グランド　PM:上郷南グランド
+    date: 2021-09-19 00:00:00 +0000
+    time: 8:15～17:00
+    description: 練習試合　VS青木グレート　10:00 開始
+    location_text: 上郷南グランド
     location_url: ""
   - date: 2021-09-18 08:34:31 +0000
     team: C
