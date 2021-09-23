@@ -9,24 +9,24 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-09-18 08:37:25 +0000
+    date: 2021-09-25 08:37:25 +0000
     time: 8:30～17:00
     description: 一日練習
     location_text: 上郷コミュニティーセンター
     location_url: ""
   - team: A
-    date: 2021-09-19 00:00:00 +0000
+    date: 2021-09-26 00:00:00 +0000
     time: 8:15～17:00
-    description: 練習試合　VS青木グレート　10:00 開始
+    description: 練習試合　VS逢妻ファイターズ　10:00 開始
     location_text: 上郷南グランド
     location_url: ""
-  - date: 2021-09-18 08:34:31 +0000
+  - date: 2021-09-25 08:34:31 +0000
     team: C
     time: 7:30～13:00
     location_text: 上郷東グランド
     description: 半日練習
     location_url: ""
-  - date: 2021-09-19 13:13:33 +0000
+  - date: 2021-09-26 13:13:33 +0000
     team: C
     description: 半日練習
     time: 7:30～13:00
