@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-09-25 08:37:25 +0000
-    time: 8:30～17:00
-    description: 一日練習
-    location_text: 上郷コミュニティーセンター
+    date: 2021-10-02 08:37:25 +0000
+    time: 8:30～16:30
+    description: ふれあいカップ VSウィングBC　14:00 開始
+    location_text: AM:高嶺小学校　PM:東郷町民運動公園
     location_url: ""
   - team: A
-    date: 2021-09-26 00:00:00 +0000
-    time: 8:15～17:00
-    description: 練習試合　VS逢妻ファイターズ　10:00 開始
+    date: 2021-10-03 00:00:00 +0000
+    time: 8:30～17:00
+    description: 練習試合　VS住吉ベースボールクラブ　10:00 開始
+    location_text: 高嶺小学校
+    location_url: ""
+  - date: 2021-10-02 08:34:31 +0000
+    team: C
+    time: 7:30～13:00
+    location_text: 高嶺小学校
+    description: 半日練習
+    location_url: ""
+  - date: 2021-10-03 13:13:33 +0000
+    team: C
+    description: 半日練習
+    time: 7:30～13:00
     location_text: 上郷南グランド
-    location_url: ""
-  - date: 2021-09-25 08:34:31 +0000
-    team: C
-    time: 7:30～13:00
-    location_text: 上郷東グランド
-    description: 半日練習
-    location_url: ""
-  - date: 2021-09-26 13:13:33 +0000
-    team: C
-    description: 半日練習
-    time: 7:30～13:00
-    location_text: 上郷東グランド
     location_url: ""
 info:
   heading: 仲間を募集中
@@ -82,3 +82,7 @@ info:
 **【9/11】**
 
 **三浦颯馬くん**　3年生　高嶺小学校
+
+**【9/26】**
+
+**石山漣くん**　5年生　南部小学校
