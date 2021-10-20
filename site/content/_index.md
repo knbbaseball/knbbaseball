@@ -9,24 +9,24 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-10-16 08:37:25 +0000
-    time: 8:30～13:30
-    description: 半日練習
+    date: 2021-10-23 08:37:25 +0000
+    time: 8:00～16:15
+    description: 南部少年野球大会 初戦　VS神の倉ホワイトレッツ 9:30～開始
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-10-17 00:00:00 +0000
+    date: 2021-10-24 00:00:00 +0000
     time: 8:15～17:00
-    description: ふれあいカップ　VS品野ファイターズ　10:00 開始
+    description: 東海団地秋季大会 2回戦　VS篠木スターズ　10:00～開始
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-10-16 08:34:31 +0000
+  - date: 2021-10-23 08:34:31 +0000
     team: C
     time: 7:30～13:00
-    location_text: 高嶺小学校
+    location_text: 上郷東グランド
     description: 半日練習
     location_url: ""
-  - date: 2021-10-17 13:13:33 +0000
+  - date: 2021-10-24 13:13:33 +0000
     team: C
     description: 半日練習
     time: 7:30～13:00
