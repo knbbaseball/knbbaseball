@@ -9,24 +9,24 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-10-23 08:37:25 +0000
-    time: 8:00～16:15
-    description: 南部少年野球大会 初戦　VS神の倉ホワイトレッツ 9:30～開始
-    location_text: 高嶺小学校
+    date: 2021-10-30 08:37:25 +0000
+    time: 7:45～16:00
+    description: JBLAミズノワイズ 初戦　VS守山レッツ 10:45～開始
+    location_text: 志段味グランド
     location_url: ""
   - team: A
-    date: 2021-10-24 00:00:00 +0000
-    time: 8:15～17:00
-    description: 東海団地秋季大会 2回戦　VS篠木スターズ　10:00～開始
+    date: 2021-10-31 00:00:00 +0000
+    time: 8:15～16:00
+    description: 練習試合　VS水源パイレーツ 10:00～開始
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-10-23 08:34:31 +0000
+  - date: 2021-10-30 08:34:31 +0000
     team: C
-    time: 7:30～13:00
-    location_text: 上郷東グランド
-    description: 半日練習
+    time: 8:10～17:00
+    location_text: 平和小学校
+    description: 練習試合　VS水源パイレーツ 10:00～開始
     location_url: ""
-  - date: 2021-10-24 13:13:33 +0000
+  - date: 2021-10-31 13:13:33 +0000
     team: C
     description: 半日練習
     time: 7:30～13:00
