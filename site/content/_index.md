@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-10-30 08:37:25 +0000
-    time: 7:45～16:00
-    description: JBLAミズノワイズ 初戦　VS守山レッツ 10:45～開始
-    location_text: 志段味グランド
+    date: 2021-11-06 08:37:25 +0000
+    time: 8:30～17:00
+    description: 一日練習
+    location_text: 上郷南グランド
     location_url: ""
   - team: A
-    date: 2021-10-31 00:00:00 +0000
-    time: 8:15～16:00
-    description: 練習試合　VS水源パイレーツ 10:00～開始
-    location_text: 高嶺小学校
+    date: 2021-11-07 00:00:00 +0000
+    time: 8:30～16:30
+    description: 豊田市秋季大会 初戦　VS平山フレンダース 14:15～開始
+    location_text: AM:上郷南グランド　PM:新生グランド
     location_url: ""
-  - date: 2021-10-30 08:34:31 +0000
+  - date: 2021-11-06 08:34:31 +0000
     team: C
-    time: 8:10～17:00
-    location_text: 平和小学校
-    description: 練習試合　VS水源パイレーツ 10:00～開始
+    time: 7:30～13:00
+    location_text: 畝部小学校
+    description: 半日練習
     location_url: ""
-  - date: 2021-10-31 13:13:33 +0000
+  - date: 2021-11-07 13:13:33 +0000
     team: C
     description: 半日練習
     time: 7:30～13:00
-    location_text: 上郷東グランド
+    location_text: 畝部小学校
     location_url: ""
 info:
   heading: 仲間を募集中
@@ -90,3 +90,11 @@ info:
 **【10/1】**
 
 **小原玄くん**　年中　石橋幼稚園
+
+**【10/17】**
+
+**濱口榎一くん**　年中　石橋幼稚園
+
+**【10/30】**
+
+**中原歓大くん**　3年生　高嶺小学校
