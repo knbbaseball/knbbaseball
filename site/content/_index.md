@@ -9,24 +9,24 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-11-06 08:37:25 +0000
+    date: 2021-11-13 08:37:25 +0000
     time: 8:30～17:00
-    description: 一日練習
-    location_text: 上郷南グランド
+    description: 一日練習、芋掘り
+    location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-11-07 00:00:00 +0000
-    time: 8:30～16:30
-    description: 豊田市秋季大会 初戦　VS平山フレンダース 14:15～開始
-    location_text: AM:上郷南グランド　PM:新生グランド
+    date: 2021-11-14 00:00:00 +0000
+    time: 8:30～17:00
+    description: 練習試合　VS少年野球スハラ 13:30～開始
+    location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-11-06 08:34:31 +0000
+  - date: 2021-11-13 08:34:31 +0000
     team: C
-    time: 7:30～13:00
-    location_text: 畝部小学校
-    description: 半日練習
+    time: 7:30～15:00
+    location_text: 上郷東グランド
+    description: 半日練習、芋掘り
     location_url: ""
-  - date: 2021-11-07 13:13:33 +0000
+  - date: 2021-11-14 13:13:33 +0000
     team: C
     description: 半日練習
     time: 7:30～13:00
