@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-12-04 08:37:25 +0000
-    time: 8:30～15:00
+    date: 2021-12-18 08:37:25 +0000
+    time: 8:30～17:00
     description: 一日練習
-    location_text: 上郷南グランド
+    location_text: 柳川瀬グランド
     location_url: ""
   - team: A
-    date: 2021-12-05 00:00:00 +0000
-    time: 8:30～17:00
-    description: 南部少年野球大会 2回戦　VS ウイングBC　14:00～開始
-    location_text: 上郷南グランド
+    date: 2021-12-19 00:00:00 +0000
+    time: 7:45～17:00
+    description: ひまわりネットワーク杯 初戦　VS 堤スターズ　11:00～開始
+    location_text: 地域文化広場
     location_url: ""
-  - date: 2021-12-04 08:34:31 +0000
+  - date: 2021-12-18 08:34:31 +0000
     team: C
     time: 7:30～13:00
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2021-12-05 13:13:33 +0000
+  - date: 2021-12-19 13:13:33 +0000
     team: C
-    description: 山之手少年野球クラブと合同練習（一日）
-    time: 8:30～16:00
-    location_text: 畝部小学校
+    description: 半日練習
+    time: 7:30～13:00
+    location_text: 柳川瀬グランド
     location_url: ""
 info:
   heading: 仲間を募集中
