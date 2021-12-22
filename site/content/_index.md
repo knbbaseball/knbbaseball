@@ -9,24 +9,24 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-12-18 08:37:25 +0000
+    date: 2021-12-25 08:37:25 +0000
     time: 8:30～17:00
     description: 一日練習
-    location_text: 柳川瀬グランド
+    location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-12-19 00:00:00 +0000
+    date: 2021-12-26 00:00:00 +0000
     time: 7:45～17:00
-    description: ひまわりネットワーク杯 初戦　VS 堤スターズ　11:00～開始
-    location_text: 地域文化広場
+    description: ふれあいカップ 3回戦　VS 藤岡JBC　10:00～開始
+    location_text: 高嶺小学校
     location_url: ""
-  - date: 2021-12-18 08:34:31 +0000
+  - date: 2021-12-25 08:34:31 +0000
     team: C
     time: 7:30～13:00
-    location_text: 高嶺小学校
+    location_text: 柳川瀬グランド
     description: 半日練習
     location_url: ""
-  - date: 2021-12-19 13:13:33 +0000
+  - date: 2021-12-26 13:13:33 +0000
     team: C
     description: 半日練習
     time: 7:30～13:00
