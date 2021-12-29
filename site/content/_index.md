@@ -9,43 +9,43 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2021-12-25 08:37:25 +0000
-    time: 8:30～17:00
-    description: 一日練習
+    date: 2022-01-04 08:37:25 +0000
+    time: 9:00～17:00
+    description: AM:初会　PM:親子試合
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2021-12-26 00:00:00 +0000
-    time: 7:45～17:00
-    description: ふれあいカップ 3回戦　VS 藤岡JBC　10:00～開始
+    date: 2022-01-08 00:00:00 +0000
+    time: 未定
+    description: 未定
+    location_text: 未定
+    location_url: ""
+  - date: 2022-01-04 08:34:31 +0000
+    team: C
+    time: 9:15～12:00
     location_text: 高嶺小学校
+    description: 初会
     location_url: ""
-  - date: 2021-12-25 08:34:31 +0000
+  - date: 2022-01-08 00:00:00 +0000
     team: C
-    time: 7:30～13:00
-    location_text: 柳川瀬グランド
-    description: 半日練習
-    location_url: ""
-  - date: 2021-12-26 13:13:33 +0000
-    team: C
-    description: 半日練習
-    time: 7:30～13:00
-    location_text: 柳川瀬グランド
+    description: 未定
+    time: 未定
+    location_text: 未定
     location_url: ""
 info:
   heading: 仲間を募集中
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております。
-  image: /images/スクリーンショット-2021-06-06-193324.png
+  image: /images/img_4028.jpg
   link_text: お申し込み・お問い合わせ
   link_url: mailto:knbbaseball@gmail.com?subject=お問い合わせ&body=名前%20%3A%0D%0Aふりがな%20%3A%0D%0A電話%20%3A%0D%0A学校名%20%3A%0D%0A学年%20%3A%0D%0Aお問い合せ内容%20%3A（例、体験・見学・入団希望）
 ---
-###### ***無事体験会＆吉見投手 野球教室を終える事ができました。***
+# ***2021年全日程を無事終了しました！***
 
-忙しい中来てくださった吉見投手、暑い中参加して頂いた皆様、
+来年も宜しくお願いします。では皆様、良いお年をお迎え下さい！
 
-本当にありがとうございました！！
+※体験は随時可能です。気軽にお越しください！
 
-体験は随時可能です。気軽にお越しください！
+
 
 # ***2021年入団者***
 
