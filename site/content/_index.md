@@ -10,7 +10,7 @@ blurb:
 schedule:
   - team: A
     date: 2022-01-04 08:37:25 +0000
-    time: 9:00～17:00
+    time: 9:00～15:00
     description: AM:初会　PM:親子試合
     location_text: 高嶺小学校
     location_url: ""
