@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-01-04 08:37:25 +0000
-    time: 9:00～15:00
-    description: AM:初会　PM:親子試合
+    date: 2022-01-08 08:37:25 +0000
+    time: 8:30～17:00
+    description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2022-01-08 00:00:00 +0000
-    time: 未定
-    description: 未定
-    location_text: 未定
-    location_url: ""
-  - date: 2022-01-04 08:34:31 +0000
-    team: C
-    time: 9:15～12:00
+    date: 2022-01-09 00:00:00 +0000
+    time: 8:30～17:00
+    description: 練習試合　VS 保見ヶ丘少年野球 13:00～開始
     location_text: 高嶺小学校
-    description: 初会
     location_url: ""
-  - date: 2022-01-08 00:00:00 +0000
+  - date: 2022-01-08 08:34:31 +0000
     team: C
-    description: 未定
-    time: 未定
-    location_text: 未定
+    time: 11:30～16:30
+    location_text: 柳川瀬グランド
+    description: 半日練習
+    location_url: ""
+  - date: 2022-01-09 00:00:00 +0000
+    team: C
+    description: 半日練習
+    time: 11:30～16:30
+    location_text: 柳川瀬グランド
     location_url: ""
 info:
   heading: 仲間を募集中
