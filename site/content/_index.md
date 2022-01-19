@@ -18,7 +18,7 @@ schedule:
     date: 2022-01-23 00:00:00 +0000
     time: 8:00～17:00
     description: 南クラブ体験会＆練習
-    location_text: AM：今グランド(渡刈清掃工場すぐ裏)　PM:高嶺小学校
+    location_text: AM：今グランド(渡刈清掃工場すぐ裏)　PM：高嶺小学校
     location_url: ""
   - date: 2022-01-22 00:00:00 +0000
     team: C
