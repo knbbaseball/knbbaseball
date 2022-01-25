@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-01-22 00:00:00 +0000
-    time: 6:20～17:00
-    description: ふれあいカップ 準決勝　VS 新屋クラブ
-    location_text: AM：豊田市運動公園多目的広場　PM：高嶺小学校
+    date: 2022-01-29 00:00:00 +0000
+    time: 7:30～17:00
+    description: お別れ試合　VS　水源パイレーツ ＆ 練習
+    location_text: AM：柳川瀬グランド　PM：高嶺小学校
     location_url: ""
   - team: A
-    date: 2022-01-23 00:00:00 +0000
-    time: 8:00～17:00
-    description: 南クラブ体験会＆練習
-    location_text: AM：今グランド(渡刈清掃工場すぐ裏)　PM：高嶺小学校
+    date: 2022-01-30 00:00:00 +0000
+    time: 8:30～17:00
+    description: 一日練習
+    location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-01-22 00:00:00 +0000
+  - date: 2022-01-29 00:00:00 +0000
     team: C
-    time: 7:30～17:00
-    location_text: AM：豊田市運動公園多目的広場　PM：柳川瀬グランド
-    description: ふれあいカップAチーム応援＆練習＆体験会(13：00～）
-    location_url: ""
-  - date: 2022-01-23 00:00:00 +0000
-    team: C
+    time: 11:30～17:00
+    location_text: 高嶺小学校
     description: 半日練習
-    time: 11:30～16:30
-    location_text: 柳川瀬グランド
+    location_url: ""
+  - date: 2022-01-30 00:00:00 +0000
+    team: C
+    description: 一日練習
+    time: 8:30～17:00
+    location_text: 高嶺小学校
     location_url: ""
 info:
   heading: 仲間を募集中
