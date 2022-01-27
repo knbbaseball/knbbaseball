@@ -10,9 +10,9 @@ blurb:
 schedule:
   - team: A
     date: 2022-01-29 00:00:00 +0000
-    time: 7:30～17:00
-    description: お別れ試合　VS　水源パイレーツ ＆ 練習
-    location_text: AM：柳川瀬グランド　PM：高嶺小学校
+    time: 8:30～17:00
+    description: 一日練習
+    location_text: 高嶺小学校
     location_url: ""
   - team: A
     date: 2022-01-30 00:00:00 +0000
@@ -22,9 +22,9 @@ schedule:
     location_url: ""
   - date: 2022-01-29 00:00:00 +0000
     team: C
-    time: 11:30～17:00
+    time: 8:30～17:00
     location_text: 高嶺小学校
-    description: 半日練習
+    description: 一日練習
     location_url: ""
   - date: 2022-01-30 00:00:00 +0000
     team: C
