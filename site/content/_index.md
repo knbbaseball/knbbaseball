@@ -1,6 +1,6 @@
 ---
 title: 上郷ノーティボーイズ
-image: /images/cimg2649.jpg
+image: /images/img_4479.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 blurb:
   heading: 上郷ノーティボーイズ
