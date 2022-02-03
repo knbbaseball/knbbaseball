@@ -10,9 +10,9 @@ blurb:
 schedule:
   - team: A
     date: 2022-02-05 00:00:00 +0000
-    time: 未定
-    description: 未定
-    location_text: 未定
+    time: 8：30 ～ 12：00
+    description: 親子試合
+    location_text: 高嶺小学校
     location_url: ""
   - team: A
     date: 2022-02-06 00:00:00 +0000
@@ -22,9 +22,9 @@ schedule:
     location_url: ""
   - date: 2022-02-05 00:00:00 +0000
     team: C
-    time: 未定
+    time: 12：00 ～ 16：30
     location_text: 未定
-    description: 未定
+    description: 親子試合
     location_url: ""
   - date: 2022-02-06 00:00:00 +0000
     team: Jr
