@@ -23,7 +23,7 @@ schedule:
   - date: 2022-02-05 00:00:00 +0000
     team: C
     time: 12：00 ～ 16：30
-    location_text: 未定
+    location_text: 高嶺小学校
     description: 親子試合
     location_url: ""
   - date: 2022-02-06 00:00:00 +0000
