@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-01-29 00:00:00 +0000
-    time: 8:30～17:00
-    description: 一日練習
-    location_text: 高嶺小学校
+    date: 2022-02-05 00:00:00 +0000
+    time: 未定
+    description: 未定
+    location_text: 未定
     location_url: ""
   - team: A
-    date: 2022-01-30 00:00:00 +0000
-    time: 8:30～17:00
-    description: 一日練習
-    location_text: 高嶺小学校
+    date: 2022-02-06 00:00:00 +0000
+    time: 未定
+    description: 未定
+    location_text: 未定
     location_url: ""
-  - date: 2022-01-29 00:00:00 +0000
+  - date: 2022-02-05 00:00:00 +0000
     team: C
-    time: 8:30～17:00
-    location_text: 高嶺小学校
-    description: 一日練習
+    time: 未定
+    location_text: 未定
+    description: 未定
     location_url: ""
-  - date: 2022-01-30 00:00:00 +0000
-    team: C
-    description: 一日練習
-    time: 8:30～17:00
-    location_text: 高嶺小学校
+  - date: 2022-02-06 00:00:00 +0000
+    team: Jr
+    description: 未定
+    time: 未定
+    location_text: 未定
     location_url: ""
 info:
   heading: 仲間を募集中
