@@ -9,27 +9,27 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-02-05 00:00:00 +0000
-    time: 8：00～12：00
-    description: まん延防止等重点措置により中止
+    date: 2022-02-12 00:00:00 +0000
+    time: 8：30～17：00
+    description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2022-02-06 00:00:00 +0000
-    time: 8：00～17：00
-    description: まん延防止等重点措置により中止
+    date: 2022-02-13 00:00:00 +0000
+    time: 8：30～17：00
+    description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-02-05 00:00:00 +0000
-    team: C
-    time: 12：00～16：30
-    location_text: 高嶺小学校
-    description: まん延防止等重点措置により中止
-    location_url: ""
-  - date: 2022-02-06 00:00:00 +0000
+  - date: 2022-02-12 00:00:00 +0000
     team: Jr
-    description: まん延防止等重点措置により中止
-    time: 12：00～16：30
+    time: 11：30～16：30
+    location_text: 高嶺小学校
+    description: 半日練習
+    location_url: ""
+  - date: 2022-02-13 00:00:00 +0000
+    team: Jr
+    description: 半日練習
+    time: 11：30～16：30
     location_text: 高嶺小学校
     location_url: ""
 info:
