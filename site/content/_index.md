@@ -9,24 +9,29 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-02-12 00:00:00 +0000
+    date: 2022-02-19 00:00:00 +0000
     time: 8：30～17：00
     description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
+  - date: 2022-02-19 00:00:00 +0000
+    team: A
+    time: 17：30～
+    description: 卒団式
+    location_text: 上和会区民会館
   - team: A
-    date: 2022-02-13 00:00:00 +0000
+    date: 2022-02-20 00:00:00 +0000
     time: 8：30～17：00
-    description: 一日練習
-    location_text: 高嶺小学校
+    description: 豊田市春季大会　　VS．松平ニューボーイズ
+    location_text: 新生グランド
     location_url: ""
-  - date: 2022-02-12 00:00:00 +0000
+  - date: 2022-02-19 00:00:00 +0000
     team: Jr
     time: 11：30～16：30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2022-02-13 00:00:00 +0000
+  - date: 2022-02-20 00:00:00 +0000
     team: Jr
     description: 半日練習
     time: 11：30～16：30
