@@ -10,8 +10,8 @@ blurb:
 schedule:
   - team: A
     date: 2022-02-19 00:00:00 +0000
-    time: 8：30～17：00
-    description: 一日練習
+    time: 8：30～13：00
+    description: 半日練習
     location_text: 高嶺小学校
     location_url: ""
   - date: 2022-02-19 00:00:00 +0000
@@ -27,7 +27,7 @@ schedule:
     location_url: ""
   - date: 2022-02-19 00:00:00 +0000
     team: Jr
-    time: 11：30～16：30
+    time: 7：30～12：00
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
