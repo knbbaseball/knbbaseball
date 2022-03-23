@@ -9,18 +9,18 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-03-19 00:00:00 +0000
-    time: 8：30～17：00
-    description: 一日練習
+    date: 2022-03-26 00:00:00 +0000
+    time: 7：30～17：00
+    description: AM：練習試合　vs. 高橋ファイターズ 　PM：練習
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2022-03-20 00:00:00 +0000
-    time: 8：30～17：00
-    description: 一日練習
-    location_text: 高嶺小学校
+    date: 2022-03-27 00:00:00 +0000
+    time: 8：00～17：00
+    description: AM：練習　　PM：スポーツ少年団大会　vs.美里チャレンジ
+    location_text: AM：高嶺小学校　　PM：柳川瀬グランド
     location_url: ""
-  - date: 2022-03-19 00:00:00 +0000
+  - date: 2022-03-26 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     location_text: 高嶺小学校
@@ -28,13 +28,13 @@ schedule:
     location_url: ""
   - date: 2022-03-20 00:00:00 +0000
     team: Jr
-    description: 半日練習
+    description: 親子試合
     time: 8：00～12：30
     location_text: 高嶺小学校
     location_url: ""
 info:
   heading: 仲間を募集中！！
-  text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております。
+  text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております！！
   image: /images/img_6418.jpg
   link_text: お申し込み・お問い合わせ
   link_url: mailto:knbbaseball@gmail.com?subject=お問い合わせ&body=名前%20%3A%0D%0Aふりがな%20%3A%0D%0A電話%20%3A%0D%0A学校名%20%3A%0D%0A学年%20%3A%0D%0Aお問い合せ内容%20%3A（例、体験・見学・入団希望）
