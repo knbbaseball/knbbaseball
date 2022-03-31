@@ -28,7 +28,7 @@ schedule:
     location_url: ""
   - date: 2022-04-03 00:00:00 +0000
     team: Jr
-    description: 親子試合
+    description: 半日練習
     time: 8：00～12：30
     location_text: 上郷南グランド
     location_url: ""
