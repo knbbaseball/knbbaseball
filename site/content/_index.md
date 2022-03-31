@@ -9,28 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-03-26 00:00:00 +0000
-    time: 7：30～17：00
-    description: AM：練習試合　vs. 高橋ファイターズ 　PM：練習
-    location_text: 高嶺小学校
+    date: 2022-04-02 00:00:00 +0000
+    time: 8：30～17：00
+    description: 一日練習
+    location_text: 上郷コミュニティーセンター
     location_url: ""
   - team: A
-    date: 2022-03-27 00:00:00 +0000
-    time: 8：00～17：00
-    description: AM：練習　　PM：スポーツ少年団大会　vs.美里チャレンジ
-    location_text: AM：高嶺小学校　　PM：柳川瀬グランド
+    date: 2022-04-03 00:00:00 +0000
+    time: 8：30～17：00
+    description: 一日練習
+    location_text: 上郷南グランド
     location_url: ""
-  - date: 2022-03-26 00:00:00 +0000
+  - date: 2022-04-02 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
-    location_text: 高嶺小学校
+    location_text: 畝部小学校
     description: 半日練習
     location_url: ""
-  - date: 2022-03-20 00:00:00 +0000
+  - date: 2022-04-03 00:00:00 +0000
     team: Jr
     description: 親子試合
     time: 8：00～12：30
-    location_text: 高嶺小学校
+    location_text: 上郷南グランド
     location_url: ""
 info:
   heading: 仲間を募集中！！
