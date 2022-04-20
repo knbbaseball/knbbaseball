@@ -9,24 +9,24 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-04-09 00:00:00 +0000
+    date: 2022-04-23 00:00:00 +0000
     time: 8：30～17：00
-    description: AM：練習　　PM：練習試合　VS. 飯野ファイターズ
+    description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2022-04-17 00:00:00 +0000
+    date: 2022-04-24 00:00:00 +0000
     time: 8：30～17：00
-    description: AM：練習試合　VS. 平山フレンダーズ　　PM：練習
+    description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-04-16 00:00:00 +0000
+  - date: 2022-04-23 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2022-04-17 00:00:00 +0000
+  - date: 2022-04-24 00:00:00 +0000
     team: Jr
     description: 半日練習
     time: 8：00～12：30
