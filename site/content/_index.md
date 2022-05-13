@@ -22,7 +22,7 @@ schedule:
     location_url: ""
   - date: 2022-05-14 00:00:00 +0000
     team: Jr
-    time: 8：00～12：30
+    time: 12：00～16：30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
