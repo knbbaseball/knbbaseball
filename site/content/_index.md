@@ -16,7 +16,7 @@ schedule:
     location_url: ""
   - team: A
     date: 2022-06-05 00:00:00 +0000
-    time: 7：30～17：00
+    time: 8：30～17：00
     description: 一日練習
     location_text: 上郷南グラウンド
     location_url: ""
