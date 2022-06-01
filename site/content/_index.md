@@ -9,24 +9,24 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-05-28 00:00:00 +0000
+    date: 2022-06-04 00:00:00 +0000
     time: 8：30～17：00
     description: 一日練習
     location_text: 上郷コミュニティーセンター
     location_url: ""
   - team: A
-    date: 2022-05-29 00:00:00 +0000
+    date: 2022-06-05 00:00:00 +0000
     time: 7：30～17：00
-    description: AM：夏季中日大会　VS 青木グレート　　　　PM：練習
-    location_text: 柳川瀬野球場　,　上郷南グラウンド
+    description: 一日練習
+    location_text: 上郷南グラウンド
     location_url: ""
-  - date: 2022-05-28 00:00:00 +0000
+  - date: 2022-06-04 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2022-05-29 02:33:41 +0000
+  - date: 2022-06-05 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     description: 半日練習
