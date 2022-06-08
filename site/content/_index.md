@@ -9,24 +9,29 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-06-04 00:00:00 +0000
+    date: 2022-06-11 00:00:00 +0000
     time: 8：30～17：00
     description: 一日練習
     location_text: 上郷コミュニティーセンター
     location_url: ""
   - team: A
-    date: 2022-06-05 00:00:00 +0000
-    time: 8：30～17：00
-    description: 一日練習
+    date: 2022-06-12 00:00:00 +0000
+    time: 8：30～12：00
+    description: 半日練習
     location_text: 上郷南グラウンド
     location_url: ""
-  - date: 2022-06-04 00:00:00 +0000
+  - date: 2022-06-12 00:00:00 +0000
+    team: B
+    time: 14：00～
+    description: ふれあいカップ　vs.サンボーイズ
+    location_text: 上郷南グラウンド
+  - date: 2022-06-11 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2022-06-05 00:00:00 +0000
+  - date: 2022-06-12 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     description: 半日練習
@@ -71,3 +76,7 @@ info:
 **【5/17】**
 
 **三浦瑠衣斗くん　3年生　大林小学校**
+
+**【6/5】**
+
+**佐竹京介くん　5年生　寿恵野小学校**
