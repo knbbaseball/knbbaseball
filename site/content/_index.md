@@ -9,33 +9,28 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-06-11 00:00:00 +0000
+    date: 2022-06-18 00:00:00 +0000
     time: 8：30～17：00
     description: 一日練習
-    location_text: 上郷コミュニティーセンター
+    location_text: 高嶺小学校
     location_url: ""
   - team: A
-    date: 2022-06-12 00:00:00 +0000
-    time: 8：30～12：00
-    description: 半日練習
-    location_text: 上郷南グラウンド
+    date: 2022-06-19 00:00:00 +0000
+    time: 8：30～17：00
+    description: AM ： 練習　　PM ： ふれあいカップ　vs 飯野ファイターズ
+    location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-06-12 00:00:00 +0000
-    team: B
-    time: 14：00～
-    description: ふれあいカップ　vs.サンボーイズ
-    location_text: 上郷南グラウンド
-  - date: 2022-06-11 00:00:00 +0000
+  - date: 2022-06-18 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2022-06-12 00:00:00 +0000
+  - date: 2022-06-19 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     description: 半日練習
-    location_text: 上郷南グラウンド
+    location_text: 高嶺小学校
 info:
   heading: 仲間を募集中！！
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております！！
