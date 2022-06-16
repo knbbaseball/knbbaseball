@@ -11,15 +11,14 @@ schedule:
   - team: A
     date: 2022-06-18 00:00:00 +0000
     time: 8：30～17：00
-    description: 一日練習
-    location_text: 高嶺小学校
-    location_url: ""
-  - team: A
-    date: 2022-06-19 00:00:00 +0000
-    time: 8：30～17：00
     description: AM ： 練習　　PM ： ふれあいカップ　vs 飯野ファイターズ
     location_text: 高嶺小学校
     location_url: ""
+  - date: 2022-06-19 00:00:00 +0000
+    team: A
+    time: 8：30～17：00
+    description: 一日練習
+    location_text: 高嶺小学校
   - date: 2022-06-18 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
