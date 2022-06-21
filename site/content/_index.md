@@ -11,7 +11,7 @@ schedule:
   - team: A
     date: 2022-06-25 00:00:00 +0000
     time: 8：30～17：00
-    description: 練習試合 VS.武豊クラブ
+    description: 練習試合　VS.武豊クラブ
     location_text: 高嶺小学校
     location_url: ""
   - date: 2022-06-26 00:00:00 +0000
