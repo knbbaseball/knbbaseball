@@ -11,7 +11,7 @@ schedule:
   - team: A
     date: 2022-07-02 00:00:00 +0000
     time: 8：30～17：00
-    description: 一日練習
+    description: AM ： ふれあいカップ vs.清水ファイターズ　　PM ： 練習
     location_text: 高嶺小学校
     location_url: ""
   - date: 2022-07-03 00:00:00 +0000
@@ -27,7 +27,7 @@ schedule:
   - date: 2022-07-02 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
-    location_text: 高嶺小学校
+    location_text: 上郷コミュニティセンター
     description: 半日練習
     location_url: ""
   - date: 2022-07-03 00:00:00 +0000
