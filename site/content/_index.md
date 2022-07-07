@@ -9,28 +9,23 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-07-02 00:00:00 +0000
+    date: 2022-07-09 00:00:00 +0000
     time: 8：30～17：00
-    description: AM ： ふれあいカップ VS.清水ファイターズ　　PM ： 練習
+    description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-07-03 00:00:00 +0000
+  - date: 2022-07-10 00:00:00 +0000
     team: A
     time: 8：30～12：00
-    description: 半日練習
+    description: AM：練習　　PM：ふれあいカップ　VS．三好コミュニティーズ
     location_text: 高嶺小学校
-  - date: 2022-07-03 00:00:00 +0000
-    team: B
-    time: 14：00～
-    description: ふれあいカップ　VS.矢作バンビーズ
-    location_text: 高嶺小学校
-  - date: 2022-07-02 00:00:00 +0000
+  - date: 2022-07-09 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
-    location_text: 上郷コミュニティセンター
+    location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2022-07-03 00:00:00 +0000
+  - date: 2022-07-10 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     description: 半日練習
