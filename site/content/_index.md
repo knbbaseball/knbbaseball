@@ -19,13 +19,13 @@ schedule:
     time: 8：30～12：00
     description: AM：小幡旗大会　　PM：練習
     location_text: 柳川瀬グランド　高嶺小学校
-  - date: 2022-07-09 00:00:00 +0000
+  - date: 2022-07-16 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     location_text: 高嶺小学校
     description: 半日練習
     location_url: ""
-  - date: 2022-07-10 00:00:00 +0000
+  - date: 2022-07-17 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
     description: 半日練習
@@ -74,3 +74,7 @@ info:
 **【6/5】**
 
 **佐竹京介くん　5年生　寿恵野小学校**
+
+**【7/9】**
+
+**【】**
