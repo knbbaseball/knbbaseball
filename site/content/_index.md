@@ -9,16 +9,16 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-07-09 00:00:00 +0000
+    date: 2022-07-16 00:00:00 +0000
     time: 8：30～17：00
     description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-07-10 00:00:00 +0000
+  - date: 2022-07-17 00:00:00 +0000
     team: A
     time: 8：30～12：00
-    description: AM：練習　　PM：ふれあいカップ　VS．三好コミュニティーズ
-    location_text: 高嶺小学校
+    description: AM：小幡旗大会　　PM：練習
+    location_text: 柳川瀬グランド　高嶺小学校
   - date: 2022-07-09 00:00:00 +0000
     team: Jr
     time: 8：00～12：30
