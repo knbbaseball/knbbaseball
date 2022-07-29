@@ -21,7 +21,7 @@ schedule:
     location_text: 高嶺小学校
   - date: 2022-07-30 00:00:00 +0000
     team: B
-    time: 10：00～
+    time: 13：00～
     description: ふれあいカップ　vs.逢妻ファイターズ
     location_text: 高嶺小学校
   - date: 2022-07-30 00:00:00 +0000
