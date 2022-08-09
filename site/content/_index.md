@@ -9,27 +9,16 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-08-06 00:00:00 +0000
+    date: 2022-08-13 00:00:00 +0000
     time: 7：30～13：00
     description: サマータイム～半日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-08-07 00:00:00 +0000
+  - date: 2022-08-14 00:00:00 +0000
     team: A
     time: 7：30～13：00
-    description: ふれあいカップ　VS. 矢作バンビーズ
+    description: サマータイム～半日練習 + 親子マッチ！！
     location_text: 高嶺小学校
-  - date: 2022-08-06 00:00:00 +0000
-    team: Jr
-    time: 8：00～12：30
-    location_text: 高嶺小学校
-    description: 半日練習
-    location_url: ""
-  - date: 2022-08-07 00:00:00 +0000
-    team: Jr
-    time: 8：00～12：30
-    description: 半日練習
-    location_text: 上郷南グランド
 info:
   heading: 仲間を募集中！！
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております！！
