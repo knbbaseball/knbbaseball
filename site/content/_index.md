@@ -16,9 +16,9 @@ schedule:
     location_url: ""
   - date: 2022-08-14 00:00:00 +0000
     team: A
-    time: 7：30～13：00
-    description: サマータイム～半日練習 + 親子マッチ！！
-    location_text: 高嶺小学校
+    time: 7：30～16：30
+    description: ポップアスリート試合　VS上名和ライオンズ
+    location_text: 東海市立緑陽小学校
 info:
   heading: 仲間を募集中！！
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております！！
