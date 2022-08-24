@@ -9,16 +9,26 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-08-13 00:00:00 +0000
+    date: 2022-08-27 00:00:00 +0000
     time: 7：30～13：00
     description: サマータイム～半日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-08-14 00:00:00 +0000
-    team: A
+  - date: 2022-08-28 00:00:00 +0000
+    team: B
     time: 7：30～16：30
-    description: ポップアスリート試合　VS上名和ライオンズ
-    location_text: 東海市立緑陽小学校
+    description: ふれあいカップ　VS．レッドスターズ
+    location_text: 高嶺小学校
+  - date: 2022-08-27 00:00:00 +0000
+    team: Jr.
+    time: 8：00～12：30
+    description: 半日練習
+    location_text: 高嶺小学校
+  - date: 2022-08-28 00:00:00 +0000
+    team: Jr.
+    time: 8：00～12：30
+    description: 半日練習
+    location_text: 上郷南グランド
 info:
   heading: 仲間を募集中！！
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております！！
