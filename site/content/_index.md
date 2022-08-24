@@ -16,7 +16,7 @@ schedule:
     location_url: ""
   - date: 2022-08-28 00:00:00 +0000
     team: B
-    time: 7：30～16：30
+    time: 7：30～13：00
     description: ふれあいカップ　VS．レッドスターズ
     location_text: 高嶺小学校
   - date: 2022-08-27 00:00:00 +0000
