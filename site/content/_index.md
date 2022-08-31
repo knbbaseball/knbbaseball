@@ -9,26 +9,31 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-08-27 00:00:00 +0000
-    time: 7：30～13：00
-    description: サマータイム～半日練習
+    date: 2022-09-03 00:00:00 +0000
+    time: 8：00 ～ 17：00
+    description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-08-28 00:00:00 +0000
+  - date: 2022-09-04 00:00:00 +0000
+    team: A
+    time: 8：00 ～ 17：00
+    description: AM ： 練習　PM ： ふれあいカップ　VS．三好コミュニティーズ
+    location_text: AM ： 高嶺小学校　　PM ： 中部小学校
+  - date: 2022-09-04 00:12:27 +0000
     team: B
-    time: 7：30～13：00
-    description: ふれあいカップ　VS．レッドスターズ
-    location_text: 高嶺小学校
-  - date: 2022-08-27 00:00:00 +0000
+    time: 7：30 ～ 11：00
+    description: 新人戦開会式
+    location_text: 豊田市運動公園ソフトボール場
+  - date: 2022-09-03 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
     description: 半日練習
     location_text: 高嶺小学校
-  - date: 2022-08-28 00:00:00 +0000
+  - date: 2022-09-04 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
     description: 半日練習
-    location_text: 上郷南グランド
+    location_text: 高嶺小学校
 info:
   heading: 仲間を募集中！！
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております！！
@@ -64,7 +69,7 @@ info:
 
 **【4/17】**
 
-**遠藤稜司くん　年中　高嶺こども園**
+**近藤稜司くん　年中　高嶺こども園**
 
 **【5/17】**
 
