@@ -9,21 +9,16 @@ blurb:
   gm_image: /images/mr-kato.jpg
 schedule:
   - team: A
-    date: 2022-09-03 00:00:00 +0000
-    time: 8：00 ～ 17：00
+    date: 2022-09-10 00:00:00 +0000
+    time: 8：30 ～ 17：00
     description: 一日練習
     location_text: 高嶺小学校
     location_url: ""
-  - date: 2022-09-04 00:00:00 +0000
-    team: A
-    time: 8：00 ～ 17：00
-    description: AM ： 練習　PM ： ふれあいカップ　VS．三好コミュニティーズ
-    location_text: AM ： 高嶺小学校　　PM ： 中部小学校
-  - date: 2022-09-04 00:12:27 +0000
+  - date: 2022-09-11 00:00:00 +0000
     team: B
-    time: 7：30 ～ 11：00
-    description: 新人戦開会式
-    location_text: 豊田市運動公園ソフトボール場
+    time: 8：00 ～ 17：00
+    description: 新人戦
+    location_text: 新生グランド
   - date: 2022-09-03 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
@@ -32,8 +27,8 @@ schedule:
   - date: 2022-09-04 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
-    description: 半日練習
-    location_text: 高嶺小学校
+    description: 練習試合
+    location_text: 畝部小学校
 info:
   heading: 仲間を募集中！！
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております！！
