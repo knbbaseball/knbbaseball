@@ -19,12 +19,12 @@ schedule:
     time: 8：00 ～ 17：00
     description: 新人戦
     location_text: 新生グランド
-  - date: 2022-09-03 00:00:00 +0000
+  - date: 2022-09-10 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
     description: 半日練習
     location_text: 高嶺小学校
-  - date: 2022-09-04 00:00:00 +0000
+  - date: 2022-09-11 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
     description: 練習試合
