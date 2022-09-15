@@ -19,12 +19,12 @@ schedule:
     time: 8：30 ～ 17：00
     description: 練習試合　VS.知立サウス
     location_text: 高嶺小学校
-  - date: 2022-09-10 00:00:00 +0000
+  - date: 2022-09-17 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
     description: 半日練習
     location_text: 上郷コミュニティセンター
-  - date: 2022-09-11 00:00:00 +0000
+  - date: 2022-09-18 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
     description: 半日練習
