@@ -8,27 +8,16 @@ blurb:
   gm_name: 代表　加藤松男
   gm_image: /images/mr-kato.jpg
 schedule:
-  - team: A
-    date: 2022-10-01 00:00:00 +0000
-    time: 7：00 ～ 16：30
-    description: ミズノワイズ杯　VS.吉良ジュニアクラブ
-    location_text: 佐屋川グランド
-    location_url: ""
-  - date: 2022-10-02 00:00:00 +0000
-    team: A
-    time: 8：30 ～ 17：00
-    description: 一日練習
-    location_text: 高嶺小学校
-  - date: 2022-10-01 00:00:00 +0000
+  - date: 2022-10-08 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
     description: 半日練習
     location_text: 高嶺小学校
-  - date: 2022-10-02 00:00:00 +0000
+  - date: 2022-10-09 00:00:00 +0000
     team: Jr.
-    time: 7：30～17：00
-    description: ふれあいカップ　VS.豊田サンボーイズ
-    location_text: 上原ふれあい広場
+    time: 8：00～12：30
+    description: 半日練習
+    location_text: 高嶺小学校
 info:
   heading: 仲間を募集中！！
   text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております！！
