@@ -8,12 +8,22 @@ blurb:
   gm_name: 代表　加藤松男
   gm_image: /images/mr-kato.jpg
 schedule:
-  - date: 2022-10-08 00:00:00 +0000
+  - date: 2022-10-15 00:00:00 +0000
+    team: B
+    time: 8：30 ～ 17：00
+    description: ふれあいカップ　vs. 岡崎タフィーズ
+    location_text: 高嶺小学校
+  - date: 2022-10-16 00:00:00 +0000
+    team: A
+    time: 8：30 ～ 17：00
+    description: ふれあいカップ　vs. 高橋ファイターズ
+    location_text: 東山体育センター
+  - date: 2022-10-15 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
     description: 半日練習
-    location_text: 高嶺小学校
-  - date: 2022-10-09 00:00:00 +0000
+    location_text: 上郷南グランド
+  - date: 2022-10-16 00:00:00 +0000
     team: Jr.
     time: 8：00～12：30
     description: 半日練習
