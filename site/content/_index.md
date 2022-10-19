@@ -29,9 +29,12 @@ schedule:
     description: 半日練習
     location_text: 高嶺小学校
 info:
-  heading: 仲間を募集中！！
-  text: 野球はとても楽しいスポーツです。随時、仲間を募集してます。お待ちしております！！
-  image: /images/img_6418.jpg
+  heading: 体験会やります！！
+  text: |-
+    10/22(土)9：00～　高嶺小学校にて！！
+    飛び込み大歓迎！！！！！
+    ぜひお待ちしています♪
+  image: /images/20221022体験会.jpg
   link_text: お申し込み・お問い合わせ
   link_url: mailto:knbbaseball@gmail.com?subject=お問い合わせ&body=名前%20%3A%0D%0Aふりがな%20%3A%0D%0A電話%20%3A%0D%0A学校名%20%3A%0D%0A学年%20%3A%0D%0Aお問い合せ内容%20%3A（例、体験・見学・入団希望）
 ---
