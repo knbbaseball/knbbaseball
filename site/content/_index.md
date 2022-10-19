@@ -22,7 +22,7 @@ schedule:
     team: Jr.
     time: 8：00～12：30
     description: 体験会
-    location_text: 上郷南グランド
+    location_text: 高嶺小学校
   - date: 2022-10-23 00:00:00 +0000
     team: Jr.
     time: 8：30～16：30
