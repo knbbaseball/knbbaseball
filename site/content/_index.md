@@ -20,12 +20,12 @@ schedule:
     location_text: 柳川瀬野球場
   - date: 2022-10-22 00:00:00 +0000
     team: Jr.
-    time: 8：00～12：30
+    time: 8：00 ～ 12：30
     description: 体験会
     location_text: 高嶺小学校
   - date: 2022-10-23 00:00:00 +0000
     team: Jr.
-    time: 8：30～16：30
+    time: 8：30 ～ 16：30
     description: 一日練習
     location_text: 高嶺小学校
 info:
