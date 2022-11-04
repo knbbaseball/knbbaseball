@@ -25,7 +25,7 @@ schedule:
     location_text: 畝部小学校
   - date: 2022-11-06 00:00:00 +0000
     team: Jr.
-    time: 8：30 ～ 12：30
+    time: 8：00 ～ 12：30
     description: 半日練習
     location_text: 畝部小学校
 info:
@@ -82,7 +82,5 @@ info:
 **野崎流凰斗くん　3年生　若林東小学校**
 
 **【10/6】**
-
-
 
 **k﻿a**
