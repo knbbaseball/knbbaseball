@@ -8,25 +8,25 @@ blurb:
   gm_name: 代表　加藤松男
   gm_image: /images/mr-kato.jpg
 schedule:
-  - date: 2022-10-29 00:00:00 +0000
+  - date: 2022-11-05 00:00:00 +0000
     team: A
-    time: 8：00 ～ 17：00
-    description: ふれあいカップ　VS.高橋ファイターズ
+    time: 8：30 ～ 17：00
+    description: 一日練習
     location_text: 上郷コミュニティセンター
-  - date: 2022-10-30 00:00:00 +0000
+  - date: 2022-11-06 00:00:00 +0000
     team: A
-    time: 7：30 ～ 17：00
-    description: 南部少年野球大会　VS.ウイングベースボールクラブ
+    time: 8：30 ～ 17：00
+    description: 一日練習
     location_text: 上郷南グランド
-  - date: 2022-10-29 00:00:00 +0000
+  - date: 2022-11-05 00:00:00 +0000
+    team: Jr.
+    time: 12：30 ～ 17：00
+    description: 半日練習
+    location_text: 畝部小学校
+  - date: 2022-11-06 00:00:00 +0000
     team: Jr.
     time: 8：00 ～ 12：30
     description: 半日練習
-    location_text: 畝部小学校
-  - date: 2022-10-30 00:00:00 +0000
-    team: Jr.
-    time: 8：30 ～ 16：30
-    description: ふれあいカップ　VS.西浦ガッツボーイズ
     location_text: 畝部小学校
 info:
   heading: 仲間を募集中！！
