@@ -12,7 +12,7 @@ schedule:
     team: A
     time: 8：30 ～ 17：00
     description: 一日練習
-    location_text: 高根小学校
+    location_text: 高嶺小学校
   - date: 2022-11-13 00:00:00 +0000
     team: A
     time: 7：30 ～ 17：00
