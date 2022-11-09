@@ -22,7 +22,7 @@ schedule:
     team: Jr.
     time: 8：00 ～ 12：30
     description: 半日練習
-    location_text: 畝部小学校
+    location_text: 上郷コミュニティセンター
   - date: 2022-11-13 00:00:00 +0000
     team: Jr.
     time: 8：30 ～ 16：30
