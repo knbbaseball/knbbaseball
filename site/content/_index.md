@@ -8,16 +8,16 @@ blurb:
   gm_name: 代表　加藤松男
   gm_image: /images/mr-kato.jpg
 schedule:
-  - date: 2022-11-05 00:00:00 +0000
+  - date: 2022-11-12 00:00:00 +0000
     team: A
     time: 8：30 ～ 17：00
     description: 一日練習
-    location_text: 上郷コミュニティセンター
-  - date: 2022-11-06 00:00:00 +0000
+    location_text: 高根小学校
+  - date: 2022-11-13 00:00:00 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 一日練習
-    location_text: 上郷南グランド
+    time: 7：30 ～ 17：00
+    description: ミズノワイズ杯　VS．ファイヤーボーイズ
+    location_text: 佐屋川グランド
   - date: 2022-11-05 00:00:00 +0000
     team: Jr.
     time: 12：30 ～ 17：00
