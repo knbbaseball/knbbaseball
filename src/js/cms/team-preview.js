@@ -21,18 +21,6 @@ export default function TeamPreview({ entry, widgetFor }) {
 
       <div className="container cms">
         <div className="py-4">{widgetFor('body')}</div>
-
-        <iframe
-          src={`${entry.getIn(['data', 'member_table_link'])}&widget=true&headers=false`}
-          width="100%"
-          className="mn-MemberTable"
-        ></iframe>
-
-        <iframe
-          src={`${entry.getIn(['data', 'score_table_link'])}&widget=true&headers=false`}
-          width="100%"
-          className="mn-ScoreTable"
-        ></iframe>
       </div>
     </>
   );
