@@ -1,53 +1,46 @@
 # https://gohugo.io/getting-started/configuration/#all-configuration-settings
-
-# Slash works for both development and production.
-baseurl: '/'
-title: 上郷ノーティボーイズ
+baseURL: '/'
 languageCode: ja
-defaultContentLanguage: ja
+title: 上郷ノーティボーイズ
+Copyright: 上郷ノーティボーイズ
 paginate: 30
 googleAnalytics: UA-177386393-1
 enableRobotsTXT: true
 hasCJKLanguage: true
 
+# https://gohugo.io/variables/site/#the-siteparams-variable
 params:
-  description: 愛知県豊田市南部にある少年軟式野球チーム・上郷ノーティボーイズです。
+  logoImage: 'img/logo.svg'
+  description: |
+    私達は、愛知県豊田市南部にある少年軟式野球チーム・上郷ノーティボーイズです。野球を愛する少年・少女達の夢を育み、軟式野球を正しく指導し、体力向上と礼儀を養成します。また、親友同士の友情と交歓の場を与え、規則正しい明朗な少年・少女を育成することを目的としています。
   # Specify sections to pull recent posts from.
   mainSections:
     - blog
   recentPostCount: 6
 
-# https://gohugo.io/content-management/menus/
+# https://gohugo.io/content-management/menus
 menu:
   main:
-    - identifier: team
-      name: チーム
-      url: '/team/'
+    - name: チーム
+      url: '/team'
       weight: 1
-    - identifier: blog
-      name: 記事
-      url: '/blog/'
+    - name: 記事
+      url: '/blog'
       weight: 2
-    - identifier: about
-      name: 活動
-      url: '/about/'
+    - name: リンク
+      url: '/links'
       weight: 3
-    - identifier: links
-      name: リンク
-      url: '/links/'
-      weight: 9
 
 # https://gohugo.io/content-management/image-processing/
 imaging:
-  quality: 100
+  quality: 50
 
 # https://gohugo.io/content-management/taxonomies/
 taxonomies:
   tag: tags
 
+# https://gohugo.io/news/0.60.0-relnotes/
 markup:
   goldmark:
     renderer:
-      # This is a workdown so that we can embed HTML tags in a markdown file.
-      # https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
       unsafe: true

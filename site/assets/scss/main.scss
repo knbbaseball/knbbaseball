@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+@import 'bulma_custom';
+@import 'hugo_internal_templates';
+
+body {
+  min-height: 50vh;
+  line-height: 1.75;
+}
+
+.hero--page-header * {
+  // https://bulma.io/documentation/overview/colors
+  background-color: $primary;
+  color: $white-ter;
+}
+
+// to avoid text content jumping around while image is loading
+.mn-ProgressiveImage {
+  picture,
+  img {
+    display: block;
+    min-height: 7rem;
+  }
+}
+
+// https://gist.github.com/unruthless/413930
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+.gmImage {
+  height: 120px;
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+}

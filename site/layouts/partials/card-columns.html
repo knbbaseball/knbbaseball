@@ -1,0 +1,19 @@
+<ul class="columns" style="overflow-x: auto;">
+  {{ range . }}
+    <li class="column">
+      {{ if .actionUrl }}<a href="{{.actionUrl}}">{{ end }}
+      <div class="card mb-4">
+        <div class="card-image">
+          <figure class="image">
+            <img src="{{ relURL .image }}">
+          </figure>
+        </div>
+        <div class="card-content">
+          <h4 class="title is-4">{{ .name }}</h4>
+          <div class="content">{{ .description | markdownify }}</div>
+        </div>
+      </div>
+      {{ if .actionUrl }}</a>{{ end }}
+    </li>
+  {{ end }}
+</ul>

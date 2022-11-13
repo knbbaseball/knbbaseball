@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+<section class="hero hero--page-header">
+  <div class="hero-body">
+    <p class="title">{{.Title}}</p>
+  </div>
+</section>
+<main class="container my-5 px-4">
+  {{ if .Params.image }}
+    <div class="mb-4">
+      {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
+    </div>
+  {{ end }}
+  <div class="content">
+    {{ .Content }}
+  </div>
+  <div style="overflow: auto">
+    <table class="table" style="width:100%">
+      {{ range .Paginator.Pages.ByPublishDate.Reverse }}
+        <tr>
+          <th class="has-text-grey">
+            <time datetime="{{ . }}">{{ dateFormat "2006/01/02" .Date }}</time>
+          </th>
+          <td>
+            <a href="{{ .RelPermalink }}">
+              <strong class="ml-3">{{ .Title }}</strong>
+            </a>
+            {{ if ne .Params.tags nil }}
+              <span class="ml-3">
+                {{/* Nested links wont work for some reason */}}
+                {{ range .Params.tags }}<span class="tag mr-1">{{- . -}}</span>{{ end }}
+              </span>
+            {{ end }}
+          </td>
+        </tr>
+      {{ end }}
+    </table>
+  </div>
+  {{- template "_internal/pagination.html" . -}}
+  {{ if ne (len .Site.Taxonomies.tags) 0 }}
+    <div class="tags">
+      {{ partial "site-tags" . }}
+    </div>
+  {{ end }}
+</main>
+
+{{ end }}

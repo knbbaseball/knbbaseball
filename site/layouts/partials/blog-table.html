@@ -1,0 +1,31 @@
+{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
+{{ $mainSections := .Site.Params.mainSections | default (slice "blog") }}
+
+{{/* Create a variable with that section to use in multiple places. */}}
+{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+
+{{ $n_posts := $.Param "recentPostCount" | default 3 }}
+
+<table class="table">
+  <tbody>
+    {{/* Range through the first $n_posts items of the section */}}
+    {{ range (first $n_posts $section) }}
+      <tr>
+        <td class="has-text-grey">
+          <time datetime="{{ . }}">{{ dateFormat "2006/01/02" .Date }}</time>
+        </td>
+        <td>
+          <a href="{{ .RelPermalink }}">
+            {{ .Title }}
+            {{ if ne .Params.tags nil }}
+              <span class="ml-3">
+                {{/* Nested links wont work for some reason */}}
+                {{ range .Params.tags }}<span class="tag mr-1">{{ . }}</span>{{ end }}
+              </span>
+            {{ end }}
+          </a>
+        </td>
+      </tr>
+    {{ end }}
+  </tbody>
+</table>

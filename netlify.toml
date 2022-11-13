@@ -1,9 +1,11 @@
 # https://gohugo.io/hosting-and-deployment/hosting-on-netlify/#configure-hugo-version-in-netlify
+# https://docs.netlify.com/configure-builds/overview/#definitions
 [build]
-command = "yarn build"
-publish = "dist"
+base    = "site"
+publish = "public"
+command = "npm install && hugo"
 
 [context.production.environment]
-HUGO_ENABLEGITINFO = "true"
+HUGO_VERSION = "0.104.3"
 HUGO_ENV = "production"
-HUGO_VERSION = "0.74.3"
+HUGO_ENABLEGITINFO = "true"

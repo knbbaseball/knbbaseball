@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo "===> Checking if hugo is available"
+hugo version
+
+echo "===> Checking if nodejs is available"
+node --version
+
+echo "===> Checking if npm is available"
+npm --version

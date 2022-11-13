@@ -1,0 +1,16 @@
+<a href="{{ .RelPermalink }}">
+  <article class="card mb-4">
+    <div class="card-content">
+      <p>
+        <span class="has-text-grey">{{- partial "date.html" .Date -}}</span>
+        <strong class="ml-3">{{ .Title }}</strong>
+        {{ if ne .Params.tags nil }}
+          <span class="ml-3">
+            {{/* Nested links wont work for some reason */}}
+            {{ range .Params.tags }}<span class="tag mr-1">{{- . -}}</span>{{ end }}
+          </span>
+        {{ end }}
+      </p>
+    </div>
+  </article>
+</a>
