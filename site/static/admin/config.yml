@@ -1,4 +1,5 @@
-# Docs: https://www.netlifycms.org/docs/configuration-options/
+# How to set up Netlify CMS for Hugo: https://www.netlifycms.org/docs/hugo
+# Available options: https://www.netlifycms.org/docs/configuration-options
 # Example: https://github.com/netlify/netlify-cms/blob/master/dev-test/config.yml
 backend:
   name: git-gateway
@@ -7,20 +8,20 @@ backend:
   repo: knbbaseball/website
   branch: master
   commit_messages:
-    create: 'Create {{collection}} “{{slug}}”'
-    update: 'Update {{collection}} “{{slug}}”'
-    delete: 'Delete {{collection}} “{{slug}}”'
-    uploadMedia: '[skip ci] Upload “{{path}}”'
-    deleteMedia: '[skip ci] Delete “{{path}}”'
+    create: 'Create {{collection}} "{{slug}}"'
+    update: 'Update {{collection}} "{{slug}}"'
+    delete: 'Delete {{collection}} "{{slug}}"'
+    uploadMedia: '[skip ci] Upload "{{path}}"'
+    deleteMedia: '[skip ci] Delete "{{path}}"'
 
 # https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 local_backend: true
 
-media_folder: 'site/content/images' # Folder where user uploaded files should go
-public_folder: '/images' # Folder where the files uploaded by the media library will be accessed
+media_folder: 'site/content/img' # Folder where user uploaded files should go
+public_folder: '/img' # Folder where the files uploaded by the media library will be accessed
 
 site_url: https://knbbaseball.netlify.app
-logo_url: https://knbbaseball.netlify.app/images/logo-32x32.png
+logo_url: https://user-images.githubusercontent.com/7563926/201543492-fac1a61c-9906-444c-a5d5-3dfdfb6d3568.png
 locale: 'ja'
 show_preview_links: false
 
@@ -60,14 +61,59 @@ collections: # A list of collections the CMS should be able to edit
         time_format: false,
         picker_utc: true, # so users in all timezones will see the same date in the datetime picker
       }
-      - { label: チーム名, name: 'title', widget: 'string' }
       - { label: スラッグ, name: 'slug', widget: 'string' }
-      - { label: 説明, name: 'description', widget: 'text', required: false }
+      - { label: チーム名, name: 'title', widget: 'string' }
       - { label: タグ, name: 'tags', widget: 'list', required: false }
       - { label: 写真, name: 'image', widget: 'image', required: false }
       - { label: 本文, name: 'body', widget: 'markdown', required: false }
-      - { label: メンバー表リンク, name: member_table_link, widget: string, required: false }
-      - { label: 成績表リンク, name: score_table_link, widget: string, required: false }
+      - {
+          label: 選手,
+          name: players,
+          widget: list,
+          required: false,
+          fields:
+            [
+              { label: 背番号, name: number, widget: string, required: false },
+              { label: 名前, name: name, widget: string },
+              { label: 学校, name: school, widget: string },
+              { label: 投, name: threw, widget: string },
+              { label: 打, name: batted, widget: string },
+            ],
+        }
+      - {
+          label: 監督・コーチ,
+          name: coaches,
+          widget: list,
+          required: false,
+          fields:
+            [
+              { label: 背番号, name: number, widget: string, required: false },
+              { label: 名前, name: name, widget: string },
+            ],
+        }
+      - {
+        label: 試合結果,
+        name: scores,
+        widget: list,
+        required: false,
+        fields:
+          [
+            {
+              label: 日付,
+              name: date,
+              widget: datetime,
+              format: 'YYYY-MM-DD HH:mm:ss ZZ', # Needed to avoid the following error in the CMS preview: "Objects are not valid as a React child"
+              date_format: true,
+              time_format: false,
+              picker_utc: true, # so users in all timezones will see the same date in the datetime picker
+            },
+            { label: 試合, name: name, widget: string, required: true },
+            { label: 対戦相手, name: opponent, widget: string, required: false },
+            { label: スコア, name: score, widget: string, required: false },
+            { label: 勝敗, name: win, widget: string, required: false },
+            { label: 備考, name: memo, widget: string, required: false },
+          ],
+      }
   - name: pages
     label: ページ
     files:
@@ -83,10 +129,9 @@ collections: # A list of collections the CMS should be able to edit
               widget: object,
               fields:
                 [
-                  { label: 題目, name: heading, widget: string },
                   { label: 本文, name: text, widget: text },
-                  { label: 代表写真, name: gm_image, widget: image },
-                  { label: 代表氏名, name: gm_name, widget: string },
+                  { label: 代表写真, name: gmImage, widget: image },
+                  { label: 代表氏名, name: gmName, widget: string },
                 ],
             }
           - {
@@ -113,27 +158,19 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - {
-              label: 情報１,
+              label: お知らせ,
               name: info,
               widget: object,
               required: false,
               fields:
                 [
-                  { label: 題目, name: heading, widget: string },
-                  { label: 本文, name: text, widget: text },
+                  { label: 題目, name: title, widget: string },
+                  { label: 本文, name: content, widget: text },
                   { label: 写真, name: image, widget: image },
-                  { label: リンク文, name: link_text, widget: string, required: false },
-                  { label: リンクURL, name: link_url, widget: string, required: false },
+                  { label: リンク文, name: actionText, widget: string, required: false },
+                  { label: リンクURL, name: actionUrl, widget: string, required: false },
                 ],
             }
-          - { label: 情報２, name: 'body', widget: 'markdown', required: false }
-      - file: 'site/content/about.md'
-        label: 活動
-        name: about
-        fields:
-          - { label: 'Hugo content type', name: 'type', widget: 'hidden', default: 'about' }
-          - { label: 本文, name: body, widget: markdown }
-          - { label: 年間活動計画リンク, name: annual_plan_table_link, widget: string, required: false }
       - file: 'site/content/links.md'
         label: リンク
         name: links

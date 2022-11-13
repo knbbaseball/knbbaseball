@@ -2,22 +2,11 @@
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
   {{ partial "head" . }}
 
-  <body>
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+  <body data-type="{{.Type}}" data-kind="{{.Kind}}" data-is-home="{{.IsHome}}">
+    {{ block "header" . }}{{ partial "site-header" . }}{{end}}
 
     {{ block "main" . }}{{ end }}
 
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
-    {{ partial "scripts.html" . }}
-
-    {{/* For debugging in development */}}
-    {{ if not (eq (getenv "HUGO_ENV") "production") }}
-      <div class="container my-4">
-        <div class="alert alert-secondary">
-          Type: {{ .Type }}
-        </div>
-      </div>
-    {{ end }}
+    {{ block "footer" . }}{{ partial "site-footer" . }}{{end}}
   </body>
 </html>

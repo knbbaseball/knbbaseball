@@ -1,9 +1,14 @@
 {{ define "main" }}
 
-<main class="container">
-  <h1 class="mn-PageTitle">Nothing Here...</h1>
+<!-- https://gohugo.io/templates/404/ -->
+<section class="hero">
+  <div class="hero-body">
+    <p class="title">{{ .Title }}</p>
+  </div>
+</section>
 
-  <a href="{{ "/" | relURL }}" class="btn btn-primary mn-raise">Go Home</a>
+<main class="content container my-5 px-4">
+  <p>Nothing here... Let's <a href="{{ "/" | relURL }}">go home</a>.</p>
 </main>
 
 {{ end }}

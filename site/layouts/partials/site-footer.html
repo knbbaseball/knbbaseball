@@ -1,0 +1,8 @@
+<footer class="footer has-text-centered">
+  <div class="mb-4">
+    <a href="#"><img src='{{ relURL .Site.Params.LogoImage }}' style="max-height: 80px"></a>
+  </div>
+  <div class="has-text-grey-dark">
+    &copy; {{ with .Site.Copyright | default .Site.Title }}{{ . | safeHTML }} {{ now.Format "2006"}}{{ end }}
+  </div>
+</footer>

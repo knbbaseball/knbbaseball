@@ -8,24 +8,34 @@
 
   */}}
 
-{{ $headless_bundle := .context.Site.GetPage "page" "images" }}
 {{/*
-  Use this snippet for inspecting accessible resouces:
-
-      {{ $headless_bundle.Resources }}
-
+  Do nothing for unsupported files to prevent Hugo from crashing
   */}}
+{{ $ext := index (split .src "." ) 1 }}
+{{ $supported_exts := slice "bmp" "gif" "jpeg" "jpg" "png" "tif" "tiff" "webp" }}
 
-{{ $original := $headless_bundle.Resources.GetMatch (strings.TrimPrefix "/images/" .src) }}
+{{ if (in $supported_exts $ext) }}
+  {{ $headless_bundle := .context.Site.GetPage "page" "img" }}
+  {{/*
+    Use this snippet for inspecting accessible resouces:
 
-<picture class="mn-ProgressiveImage">
-  {{ if $original }}
-    {{ $cropped := $original.Fill "1200x900 Center" }}{{/* Aspect ratio 4:3 */}}
-    {{ $small := $cropped.Resize "20x" }}
-    <a class="progressive replace" href="{{ $cropped.RelPermalink }}">
-      <img class="preview" src="{{ $small.RelPermalink }}">
-    </a>
-  {{ else }}
-    <img src="{{ .src }}" alt="{{ .alt }}">
-  {{ end }}
-</picture>
+        {{ $headless_bundle.Resources }}
+
+    */}}
+
+  {{ $original := $headless_bundle.Resources.GetMatch (strings.TrimPrefix "/img/" .src) }}
+
+  <picture class="mn-ProgressiveImage">
+    {{ if $original }}
+      {{ $cropped := $original.Fill "1200x900 Center" }}{{/* Aspect ratio 4:3 */}}
+      {{ $small := $cropped.Resize "20x" }}
+      <a class="progressive replace" href="{{ $cropped.RelPermalink }}">
+        <img class="preview" src="{{ $small.RelPermalink }}">
+      </a>
+    {{ else }}
+      <img src="{{ .src }}" alt="{{ .alt }}">
+    {{ end }}
+  </picture>
+{{ else }}
+  <img src="{{ .src }}" alt="{{ .alt }}">
+{{ end }}

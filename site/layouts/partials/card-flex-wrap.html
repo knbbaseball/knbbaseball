@@ -1,0 +1,19 @@
+<ul class="is-flex is-flex-wrap-wrap is-justify-content-center">
+  {{ range . }}
+    <li class="m-2">
+      {{ if .actionUrl }}<a href="{{.actionUrl}}">{{ end }}
+      <div class="card mb-4" style="max-width: 20rem">
+        <div class="card-image">
+          <figure class="image">
+            <img src="{{ relURL .image }}">
+          </figure>
+        </div>
+        <div class="card-content">
+          <h4 class="title is-4">{{ .name }}</h4>
+          <div class="content">{{ .description | markdownify }}</div>
+        </div>
+      </div>
+      {{ if .actionUrl }}</a>{{ end }}
+    </li>
+  {{ end }}
+</ul>

@@ -1,0 +1,88 @@
+{{ define "main" }}
+
+{{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
+<header class="hero is-link">
+  <div class="hero-body">
+    {{ with .Params.blurb }}
+      <div class="columns">
+        <div class="column is-three-quarters-desktop">
+          {{ .text | markdownify }}
+        </div>
+        {{ if .gmImage }}
+          <figure class="column">
+            <img src="{{ .gmImage }}" alt="{{ .gmName }}" class="gmImage">
+            <figcaption>{{ .gmName }}</figcaption>
+          </figure>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</header>
+{{ if .Params.banner }}
+  <marquee class="banner">
+    {{ .Params.banner }}
+  </marquee>
+{{ end }}
+<main class="container px-4 mb-6">
+  <section class="section py-4" id="schedule">
+    <h2 class="title is-4">予定表</h2>
+    {{ partial "schedule-table" .Params.schedule }}
+  </section>
+  {{ with .Params.info }}
+    <section class="section">
+      <div class="message is-link" >
+        <h2 class="message-header">{{ .title }}</h2>
+        <div class="message-body">
+          {{ .content | markdownify }}
+          {{ if .image }}
+            <img src="{{ .image }}" alt="{{ .title }}" class="mt-2">
+          {{ end }}
+          {{ if .actionText }}
+            <a href="{{ .actionUrl }}" class="button mt-2">{{ .actionText }}</a>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <section class="section py-4">
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </section>
+  <section class="section py-4">
+    <h2 class="title is-4">最新記事</h2>
+    {{ if .Params.News }}
+      <div class="notification is-info is-light" >
+        <div class="content">
+          {{ .Params.News | markdownify }}
+        </div>
+      </div>
+    {{ end }}
+    <div class="mb-5">
+      {{ partial "blog-table" . }}
+      <div class="tags">
+        {{ $blogPostCount := len (where .Site.RegularPages "Section" "!=" "") }}
+        <a href="/blog" class="tag">全記事<sub>{{ $blogPostCount }}</sub></a>
+        {{ partial "site-tags" . }}
+      </div>
+    </div>
+  </section>
+
+  {{/*
+    Netlify CMS
+    - https://www.netlifycms.org/docs/add-to-your-site/#add-the-netlify-identity-widget
+  */}}
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+</main>
+
+{{ end }}

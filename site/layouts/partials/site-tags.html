@@ -2,11 +2,10 @@
 
 {{ range $name, $taxonomy := .Site.Taxonomies.tags }} {{ $cnt := .Count }}
 
-{{  with $.Site.GetPage (printf "/tags/%s" $name) }}
-  <a href="{{ .RelPermalink }}" class="btn btn-outline-primary btn-sm mb-1">
-    {{ $name }}
-    <sup>{{ $cnt }}</sup>
-  </a>
-{{ end }}
+  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+    <a href="{{ .RelPermalink }}" class="tag">
+      {{ $name }}<sub>{{ $cnt }}</sub>
+    </a>
+  {{ end }}
 
 {{ end }}

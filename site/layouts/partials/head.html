@@ -7,50 +7,47 @@
     {{- end -}}
   </title>
 
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
-  {{ end }}
-
-  {{ hugo.Generator }}
-  {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
-  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-  {{ else }}
-    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-  {{ end }}
-
-	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+  <meta name="theme-color" content="#42a7c6">
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ template "_internal/opengraph.html" . }}
 
-	<!-- Favicons -->
-	<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<meta name="theme-color" content="#fff">
+  <link rel="shortcut icon" type="image/png" href="{{ relURL "img/favicon.ico" }}">
 
-  {{/* NOTE: These Hugo Internal Templates https://gohugo.io/templates/internal/ */}}
-  {{- template "_internal/opengraph.html" . -}}
-  {{- template "_internal/schema.html" . -}}
-  {{- template "_internal/twitter_cards.html" . -}}
-
-  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-    {{ template "_internal/google_analytics_async.html" . }}
+  {{/* https://gohugo.io/hugo-pipes/scss-sass */}}
+  {{ if .Site.IsServer }}
+    {{ $cssOpts := (dict "targetPath" "css/main.css" "enableSourceMap" true ) }}
+    {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.css" . | toCSS $cssOpts }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+  {{ else }}
+    {{ $cssOpts := (dict "targetPath" "css/main.css" ) }}
+    {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.css" . | toCSS $cssOpts | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
   {{ end }}
 
+  {{/* https://gohugo.io/hugo-pipes/js */}}
+  {{ if .Site.IsServer }}
+    {{ $script := resources.Get "js/main.js" | js.Build }}
+    <script src="{{ $script.RelPermalink }}"></script>
+  {{ else }}
+    {{ $script := resources.Get "js/main.js" | js.Build | minify | fingerprint }}
+    <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+  {{ end }}
+
+  {{/*
+    Netlify CMS
+    - https://www.netlifycms.org/docs/add-to-your-site/#add-the-netlify-identity-widget
+  */}}
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
 
-  <link rel="stylesheet" href="progressive-image.css">
-
-  <style>
-    /* For embedded Google Docs */
-    iframe {
-      width: 100% !important;
-      min-height: 500px !important;
-    }
-  </style>
+  {{/*
+    progressive-image.js
+    - https://github.com/craigbuckler/progressive-image.js
+  */}}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/progressive-image.js/dist/progressive-image.css">
+  <script src="https://cdn.jsdelivr.net/npm/progressive-image.js/dist/progressive-image.js" async></script>
 </head>

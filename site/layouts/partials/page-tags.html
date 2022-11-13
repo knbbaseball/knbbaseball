@@ -1,8 +1,19 @@
-{{ range .Params.tags }}
+{{/* https://discourse.gohugo.io/t/list-all-tags-categories/17765 */}}
+{{/*
+  ## Examples
 
-<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"
-  class="btn btn-outline-primary btn-sm mb-1">
-  {{- . -}}
-</a>
+  In a page
+
+      {{ partial "page-tags.html" . }}
+
+  */}}
+
+{{ range $name := .Params.Tags }}
+
+  {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+    <a href="{{ .RelPermalink }}" class="tag">
+      {{ $name }}
+    </a>
+  {{ end }}
 
 {{ end }}

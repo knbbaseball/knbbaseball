@@ -1,34 +1,37 @@
 {{ define "main" }}
 
-<main>
-  <div class="bg-primary bg-gradient text-white py-4">
-    <div class="container">
-      <h1 class="h2">{{.Title}}</h1>
-      <p class="mb-0">{{ .Description }}</p>
-
-      {{ if .Params.image }}
-        <div style="margin-top:1rem">
-          {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
-        </div>
-      {{ end }}
+<section class="hero hero--page-header">
+  <div class="hero-body">
+    <p class="title">{{.Title}}</p>
+  </div>
+</section>
+<main class="container my-5 px-4">
+  {{ if .Params.image }}
+    <div class="mb-4">
+      {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
     </div>
+  {{ end }}
+  <div class="content">
+    {{ .Content }}
   </div>
-
-  <div class="container cms">
-    {{ with .Content }}
-      <div class="py-4">
-        {{ . }}
-      </div>
-    {{ end }}
-
-    {{ with .Params.member_table_link }}
-      {{ partial "gdoc-link" (dict "src" . "class" "mn-MemberTable") }}
-    {{ end }}
-
-    {{ with .Params.score_table_link }}
-      {{ partial "gdoc-link" (dict "src" . "class" "mn-ScoreTable") }}
-    {{ end }}
-  </div>
+  {{ if .Params.players }}
+    <section class="section py-4">
+      <h2 class="title is-4">選手</h2>
+      {{ partial "players" .Params.players }}
+    </section>
+  {{ end }}
+  {{ if .Params.coaches }}
+    <section class="section py-4">
+      <h2 class="title is-4">監督・コーチ</h2>
+      {{ partial "coaches" .Params.coaches }}
+    </section>
+  {{ end }}
+  {{ if .Params.scores }}
+    <section class="section py-4">
+      <h2 class="title is-4">試合結果</h2>
+      {{ partial "scores" .Params.scores }}
+    </section>
+  {{ end }}
 </main>
 
 {{ end }}
