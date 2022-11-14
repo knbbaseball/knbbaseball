@@ -17,7 +17,7 @@
     <tbody>
       {{ range . }}
         <tr>
-          <td>{{ .date }}</td>
+          <td>{{ dateFormat "2006/01/02" .date }}</td>
           <td>{{ .name }}</td>
           <td>{{ .opponent }}</td>
           <td>{{ .score }}</td>
