@@ -51,13 +51,6 @@
   </section>
   <section class="py-4">
     <h2 class="title is-4">最新記事</h2>
-    {{ if .Params.News }}
-      <div class="notification is-info is-light" >
-        <div class="content">
-          {{ .Params.News | markdownify }}
-        </div>
-      </div>
-    {{ end }}
     <div class="mb-5">
       {{ partial "blog-table" . }}
       <div class="tags">
