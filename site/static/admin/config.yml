@@ -125,7 +125,6 @@ collections: # A list of collections the CMS should be able to edit
         name: home
         fields:
           - { label: 写真, name: image, widget: image }
-          - { label: 動く文, name: banner, widget: string, required: false }
           - {
               label: 代表挨拶,
               name: blurb,
@@ -137,6 +136,7 @@ collections: # A list of collections the CMS should be able to edit
                   { label: 代表氏名, name: gmName, widget: string },
                 ],
             }
+          - { label: 動く文, name: banner, widget: string, required: false }
           - {
               label: スケジュール,
               name: schedule,
@@ -174,6 +174,7 @@ collections: # A list of collections the CMS should be able to edit
                   { label: リンクURL, name: actionUrl, widget: string, required: false },
                 ],
             }
+          - { label: 本文, name: 'body', widget: 'markdown', required: false }
       - file: 'site/content/links.md'
         label: リンク
         name: links
