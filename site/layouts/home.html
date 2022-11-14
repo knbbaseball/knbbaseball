@@ -52,7 +52,7 @@
   <section class="py-4">
     <h2 class="title is-4">最新記事</h2>
     <div class="mb-5">
-      {{ partial "blog-table" . }}
+      {{ partial "blog-table-recent" . }}
       <div class="tags">
         {{ $blogPostCount := len (where .Site.RegularPages "Section" "!=" "") }}
         <a href="/blog" class="tag">全記事<sub>{{ $blogPostCount }}</sub></a>
