@@ -23,13 +23,13 @@
     {{ .Params.banner }}
   </marquee>
 {{ end }}
-<main class="container px-4 mb-6">
-  <section class="section py-4" id="schedule">
+<main class="container px-2 mb-6">
+  <section class="py-4" id="schedule">
     <h2 class="title is-4">予定表</h2>
     {{ partial "schedule-table" .Params.schedule }}
   </section>
   {{ with .Params.info }}
-    <section class="section">
+    <section class="py-4">
       <div class="message is-link" >
         <h2 class="message-header">{{ .title }}</h2>
         <div class="message-body">
@@ -44,12 +44,12 @@
       </div>
     </section>
   {{ end }}
-  <section class="section py-4">
+  <section class="py-4">
     <div class="content">
       {{ .Content }}
     </div>
   </section>
-  <section class="section py-4">
+  <section class="py-4">
     <h2 class="title is-4">最新記事</h2>
     {{ if .Params.News }}
       <div class="notification is-info is-light" >
