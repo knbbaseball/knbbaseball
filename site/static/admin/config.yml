@@ -77,9 +77,9 @@ collections: # A list of collections the CMS should be able to edit
             [
               { label: 背番号, name: number, widget: string, required: false },
               { label: 名前, name: name, widget: string },
-              { label: 学校, name: school, widget: string },
-              { label: 投, name: threw, widget: string },
-              { label: 打, name: batted, widget: string },
+              { label: 学校, name: school, widget: string, required: false },
+              { label: 投, name: threw, widget: string, required: false },
+              { label: 打, name: batted, widget: string, required: false },
             ],
         }
       - {
