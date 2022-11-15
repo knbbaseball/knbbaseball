@@ -9,7 +9,7 @@
     <p class="title">{{.Title}}</p>
   </div>
 </section>
-<main class="container my-5 px-4">
+<main class="container my-5 px-2">
   <div class="content">{{ .Content }}</div>
   {{ range $key, $value := .Data.Terms }}
     <a href="{{ "/" | relLangURL }}{{ $.Data.Plural | urlize }}/{{ $key | urlize }}">

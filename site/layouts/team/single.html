@@ -5,7 +5,7 @@
     <p class="title">{{.Title}}</p>
   </div>
 </section>
-<main class="container my-5 px-4">
+<main class="container my-5 px-2">
   {{ if .Params.image }}
     <div class="mb-4">
       {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
@@ -15,19 +15,19 @@
     {{ .Content }}
   </div>
   {{ if .Params.players }}
-    <section class="section py-4">
+    <section class="py-4">
       <h2 class="title is-4">選手</h2>
       {{ partial "players" .Params.players }}
     </section>
   {{ end }}
   {{ if .Params.coaches }}
-    <section class="section py-4">
+    <section class="py-4">
       <h2 class="title is-4">監督・コーチ</h2>
       {{ partial "coaches" .Params.coaches }}
     </section>
   {{ end }}
   {{ if .Params.scores }}
-    <section class="section py-4">
+    <section class="py-4">
       <h2 class="title is-4">試合結果</h2>
       {{ partial "scores" .Params.scores }}
     </section>

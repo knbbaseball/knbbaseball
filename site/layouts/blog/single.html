@@ -11,7 +11,7 @@
     </p>
   </div>
 </section>
-<main class="container my-5 px-4">
+<main class="container my-5 px-2">
   {{ if .Params.image }}
     <div class="mb-4">
       {{ partial "progressive-image.html" (dict "context" . "src" .Params.image "alt" .Title) }}
