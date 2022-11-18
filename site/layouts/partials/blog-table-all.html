@@ -4,26 +4,28 @@
 {{/* Create a variable with that section to use in multiple places. */}}
 {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
 
-<table class="table">
-  <tbody>
-    {{/* Range through the first $n_posts items of the section */}}
-    {{ range $section }}
-      <tr>
-        <td class="has-text-grey">
-          <time datetime="{{ . }}">{{ dateFormat "2006/01/02" .Date }}</time>
-        </td>
-        <td>
-          <a href="{{ .RelPermalink }}">
-            {{ .Title }}
-            {{ if ne .Params.tags nil }}
-              <span class="ml-3">
-                {{/* Nested links wont work for some reason */}}
-                {{ range .Params.tags }}<span class="tag mr-1">{{ . }}</span>{{ end }}
-              </span>
-            {{ end }}
-          </a>
-        </td>
-      </tr>
-    {{ end }}
-  </tbody>
-</table>
+<div style="overflow: auto">
+  <table class="table">
+    <tbody>
+      {{/* Range through the first $n_posts items of the section */}}
+      {{ range $section }}
+        <tr>
+          <td class="has-text-grey">
+            <time datetime="{{ . }}">{{ dateFormat "2006/01/02" .Date }}</time>
+          </td>
+          <td>
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}
+              {{ if ne .Params.tags nil }}
+                <span class="ml-3">
+                  {{/* Nested links wont work for some reason */}}
+                  {{ range .Params.tags }}<span class="tag mr-1">{{ . }}</span>{{ end }}
+                </span>
+              {{ end }}
+            </a>
+          </td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
