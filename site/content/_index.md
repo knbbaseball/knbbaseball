@@ -8,7 +8,7 @@ blurb:
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
   - date: 2023-01-21 00:00:00 +0000
-    team: A ＆ Jr.（合同）
+    team: A ＆ Jr.(合同)
     time: 8：30 ～ 12：00
     description: トヨタ自動車硬式野球部の皆さんと交流会
     locationText: 高嶺小学校
