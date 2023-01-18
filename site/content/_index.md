@@ -27,7 +27,7 @@ schedule:
   - date: 2023-01-22 00:00:00 +0000
     team: Jr.
     time: 8：00 ～ 12：30
-    description: ふれあいカップ　VS．逢妻ファイターズ
+    description: 練習
     locationText: 畝部小学校
     location_text: 畝部小学校
 info:
