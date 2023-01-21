@@ -1,6 +1,5 @@
 ---
-# The section index page for posts
-# See https://gohugo.io/templates/section-templates/
-title: チーム
-date: 2022-04-04T00:00:00-04:00
+date: 2023-01-21 18:25:42 +0900
+slug: 29ki
+title: 第29期生
 ---
