@@ -7,24 +7,24 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-01-21 00:00:00 +0000
-    team: A ＆ Jr.(合同)
-    time: 8：30 ～ 12：00
-    description: トヨタ自動車硬式野球部の皆さんと交流会
+  - date: 2023-01-28 00:00:00 +0000
+    team: A
+    time: 8：30 ～ 17：00
+    description: 練習
     locationText: 高嶺小学校
     location_text: 高嶺小学校
-  - date: 2023-01-21 00:00:00 +0000
-    team: A
-    time: 13：00 ～ 17：00
-    description: 練習
-    locationText: 佐屋川グランド
-    location_text: 高嶺小学校
-  - date: 2023-01-22 04:02:19 +0000
+  - date: 2023-01-29 00:00:00 +0000
     team: A
     time: 8：30 ～ 17：00
     description: 練習試合　VS.知立ベアーズ
-    location_text: 高嶺小学校
-  - date: 2023-01-22 00:00:00 +0000
+    locationText: 佐屋川グランド
+    location_text: 知立小学校
+  - date: 2023-01-28 04:02:19 +0000
+    team: Jr.
+    time: 8：00 ～ 12：30
+    description: 練習
+    location_text: 上郷コミュニティセンター
+  - date: 2023-01-29 00:00:00 +0000
     team: Jr.
     time: 8：00 ～ 12：30
     description: 練習
