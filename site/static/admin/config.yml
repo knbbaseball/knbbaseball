@@ -46,7 +46,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: 説明, name: 'description', widget: 'text', required: false }
       - { label: タグ, name: 'tags', widget: 'list', required: false }
       - { label: 写真, name: 'image', widget: 'image', required: false }
-      - { label: 本文, name: 'body', widget: 'markdown', required: false }
+      - { label: 本文, name: 'body', widget: 'text', required: false }
   - name: 'team' # Used in routes, ie.: /admin/collections/:slug/edit
     label: チーム # Used in the UI, ie.: "New Team"
     folder: 'site/content/team' # The path to the folder where the documents are stored
@@ -67,7 +67,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: チーム名, name: 'title', widget: 'string' }
       - { label: タグ, name: 'tags', widget: 'list', required: false }
       - { label: 写真, name: 'image', widget: 'image', required: false }
-      - { label: 本文, name: 'body', widget: 'markdown', required: false }
+      - { label: 本文, name: 'body', widget: 'text', required: false }
       - {
           label: 選手,
           name: players,
@@ -174,10 +174,10 @@ collections: # A list of collections the CMS should be able to edit
                   { label: リンクURL, name: actionUrl, widget: string, required: false },
                 ],
             }
-          - { label: 本文, name: 'body', widget: 'markdown', required: false }
+          - { label: 本文, name: 'body', widget: 'text', required: false }
       - file: 'site/content/links.md'
         label: リンク
         name: links
         fields:
           - { label: 'Hugo content type', name: 'type', widget: 'hidden', default: 'page' }
-          - { label: 本文, name: body, widget: markdown }
+          - { label: 本文, name: body, widget: text }
