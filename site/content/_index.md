@@ -7,19 +7,19 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-02-18 00:00:00 +0000
+  - date: 2023-02-25 00:00:00 +0000
     team: A
     time: 8：30 ～ 17：00
     description: 練習
     locationText: 高嶺小学校
     location_text: 高嶺小学校
-  - date: 2023-02-19 00:00:00 +0000
+  - date: 2023-02-26 00:00:00 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 練習
+    time: 7：00 ～ 17：00
+    description: 第47回春季大会　　VS. 水源パイレーツ
     locationText: 佐屋川グランド
-    location_text: 高嶺小学校
-  - date: 2023-02-18 04:02:19 +0000
+    location_text: 柳川瀬公園
+  - date: 2023-02-25 04:02:19 +0000
     team: Jr.
     time: 8：00 ～ 12：30
     description: 練習
