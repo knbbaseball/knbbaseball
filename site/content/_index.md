@@ -16,7 +16,7 @@ schedule:
   - date: 2023-03-05 00:00:00 +0000
     team: A
     time: 7：00 ～ 17：00
-    description: 総合開会式　　　　　　　　　　　　　第47回春季大会　　VS. 松平ニューボーイズ
+    description: 総合開会式　　　　　　　　　　　　　　　第47回春季大会　　VS. 松平ニューボーイズ
     locationText: 佐屋川グランド
     location_text: 豊田市運動公園　　　　　　　　　　　　　　　　新生公園
   - date: 2023-03-04 04:02:19 +0000
