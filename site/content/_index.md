@@ -7,37 +7,37 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-03-18 00:00:00 +0000
+  - date: 2023-03-25 00:00:00 +0000
     team: A
-    time: 7：00 ～ 17：00
+    time: 8：00 ～ 17：30
     description: ゲオ杯少年野球大会　　VS.ツースリー大府
     locationText: 高嶺小学校
-    location_text: 城山公園（尾張旭市）
-  - date: 2023-03-19 00:00:00 +0000
+    location_text: 旭丘公園グラウンド（尾張旭市）
+  - date: 2023-03-26 00:00:00 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 東海団地春季大会　　VS.名東ヒーローズ
+    time: 6：30 ～ 17：00
+    description: 豊田市スポーツ少年団大会　　VS.平山フレンダーズ
     locationText: 佐屋川グランド
-    location_text: 南グラウンド
-  - date: 2023-03-18 04:02:19 +0000
+    location_text: 新生公園グラウンド
+  - date: 2023-03-25 04:02:19 +0000
     team: Jr.
     time: 8：00 ～ 12：30
     description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2023-03-19 00:00:00 +0000
+  - date: 2023-03-26 00:00:00 +0000
     team: Jr.
     time: 8：30 ～ 16：00
     description: 練習
     locationText: 畝部小学校
     location_text: 畝部小学校
 info:
-  title: 頑張れ暖士！！
+  title: おめでとう～～～暖士！！
   content: |-
     ノーティ第２７期生の真崎暖士くんが所属する 豊田南クラブ が、3月18日(土)～開催される
-    コントリビュートカップ第２４回全国中学生軟式野球大会に出場します！！
-    暖士くんの活躍を期待しています！！
-
-    頑張れ暖士⚾ノーティは全力で応援してます😊
+    コントリビュートカップ第２４回全国中学生軟式野球大会に出場し、見事準優勝！！
+    そして暖士くんは、優秀選手に選ばれました🎊
+    おめでとう暖士くん！！
+    そしてお疲れさまでした✨✨
   image: /img/コントリビュートカップ.jpg
   actionText: お申し込み・お問い合わせ
   actionUrl: mailto:knbbaseball@gmail.com?subject=お問い合わせ&body=名前%20%3A%0D%0Aふりがな%20%3A%0D%0A電話%20%3A%0D%0A学校名%20%3A%0D%0A学年%20%3A%0D%0Aお問い合せ内容%20%3A（例、体験・見学・入団希望）
