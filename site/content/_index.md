@@ -7,24 +7,19 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-03-25 00:00:00 +0000
+  - date: 2023-04-01 00:00:00 +0000
     team: A
-    time: 8：00 ～ 17：30
-    description: ゲオ杯少年野球大会　　VS.ツースリー大府
+    time: 8：00 ～ 17：00
+    description: 豊田市スポーツ少年団野球大会　　　　　　　　　　VS.平山フレンダーズ
     locationText: 高嶺小学校
-    location_text: 旭丘公園グラウンド（尾張旭市）
-  - date: 2023-03-26 00:00:00 +0000
+    location_text: 柳川瀬公園グランド
+  - date: 2023-04-02 05:12:24 +0000
     team: A
     time: 6：30 ～ 17：00
-    description: 豊田市スポーツ少年団大会　　VS.平山フレンダーズ
+    description: 豊田市スポーツ少年団大会　　　　　　　　　　　　VS.保見ケ丘少年野球クラブ
     locationText: 佐屋川グランド
-    location_text: 新生公園グラウンド
-  - date: 2023-03-25 04:02:19 +0000
-    team: Jr.
-    time: 8：00 ～ 12：30
-    description: 練習
-    location_text: 上郷コミュニティセンター
-  - date: 2023-03-26 00:00:00 +0000
+    location_text: 柳川瀬公園グランド
+  - date: 2023-04-02 00:00:00 +0000
     team: Jr.
     time: 8：30 ～ 16：00
     description: 練習
