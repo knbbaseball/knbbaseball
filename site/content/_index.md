@@ -7,24 +7,29 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-04-01 00:00:00 +0000
+  - date: 2023-04-08 00:00:00 +0000
     team: A
-    time: 8：00 ～ 17：00
-    description: 豊田市スポーツ少年団野球大会　　　　　　　　　　VS.平山フレンダーズ
+    time: 8：30 ～ 17：00
+    description: 体験会
     locationText: 高嶺小学校
-    location_text: 柳川瀬公園グランド
-  - date: 2023-04-02 05:12:24 +0000
+    location_text: 高嶺小学校
+  - date: 2023-04-09 05:12:24 +0000
     team: A
-    time: 6：30 ～ 17：00
-    description: 豊田市スポーツ少年団大会　　　　　　　　　　　　VS.保見ケ丘少年野球クラブ
+    time: 7：30 ～ 17：00
+    description: 練習試合　　　　　　　　　　　　　　　　　VS. 美里チャレンジ
     locationText: 佐屋川グランド
-    location_text: 柳川瀬公園グランド
-  - date: 2023-04-02 00:00:00 +0000
+    location_text: 高嶺小学校
+  - date: 2023-04-08 00:00:00 +0000
     team: Jr.
-    time: 8：30 ～ 16：00
-    description: 練習
+    time: 7：30 ～ 16：30
+    description: AM：練習試合　VS. 市木フェニックス　　　　　　　　　　　　PM：体験会
     locationText: 畝部小学校
-    location_text: 畝部小学校
+    location_text: AM：上郷コミュニティセンター　　　　　　　　　　　　　　PM：高嶺小学校
+  - date: 2023-04-09 01:30:11 +0000
+    team: Jr.
+    time: 8：00～16：00
+    description: 練習
+    location_text: 東グランド
 info:
   title: たくさんのご参加お待ちしています！！
   content: |-
