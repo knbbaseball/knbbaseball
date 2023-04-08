@@ -21,14 +21,14 @@ schedule:
     location_text: 高嶺小学校
   - date: 2023-04-08 00:00:00 +0000
     team: Jr.
-    time: 7：30 ～ 16：30
-    description: AM：練習試合　VS. 市木フェニックス　　　　　　　　　　　　PM：体験会
+    time: 13：30 ～ 17：00
+    description: 体験会
     locationText: 畝部小学校
-    location_text: AM：上郷コミュニティセンター　　　　　　　　　　　　　　PM：高嶺小学校
+    location_text: 高嶺小学校
   - date: 2023-04-09 01:30:11 +0000
     team: Jr.
     time: 8：00～16：00
-    description: 練習
+    description: 練習試合　VS. 市木フェニックス
     location_text: 東グランド
 info:
   title: たくさんのご参加お待ちしています！！
