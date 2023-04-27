@@ -7,29 +7,29 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-04-22 00:00:00 +0000
+  - date: 2023-04-29 00:00:00 +0000
     team: A
     time: 8：30 ～ 17：00
     description: 練習
     locationText: 高嶺小学校
     location_text: 高嶺小学校
-  - date: 2023-04-23 05:12:24 +0000
+  - date: 2023-04-30 05:12:24 +0000
     team: A
-    time: 7：30 ～ 17：00
-    description: 試合　＆　ノーティOB試合応援
+    time: 8：30 ～ 17：00
+    description: 試合
     locationText: 佐屋川グランド
-    location_text: 高嶺小学校　　　　　　　　　　　　　　　　　　　　　　　毘森公園
-  - date: 2023-04-22 00:00:00 +0000
+    location_text: 高嶺小学校
+  - date: 2023-04-29 00:00:00 +0000
     team: Jr.
-    time: 12：30 ～ 16：00
+    time: 8：00 ～ 12：30
     description: 練習
     locationText: 畝部小学校
     location_text: 上郷コミュニティセンター
-  - date: 2023-04-23 01:41:52 +0000
+  - date: 2023-04-30 01:41:52 +0000
     team: Jr.
     time: 8：30～16：00
     description: 練習
-    location_text: 東グランド
+    location_text: 畝部小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
