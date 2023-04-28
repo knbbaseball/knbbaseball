@@ -16,7 +16,7 @@ schedule:
   - date: 2023-04-30 05:12:24 +0000
     team: A
     time: 8：30 ～ 17：00
-    description: 試合
+    description: 練習
     locationText: 佐屋川グランド
     location_text: 高嶺小学校
   - date: 2023-04-29 00:00:00 +0000
