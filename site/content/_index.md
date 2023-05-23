@@ -7,34 +7,34 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-05-20 00:00:00 +0000
-    team: A
-    time: 8：30 ～ 17：00
-    description: 練習
-    locationText: 高嶺小学校
-    location_text: 高嶺小学校
-  - date: 2023-05-21 05:12:24 +0000
+  - date: 2023-05-27 00:00:00 +0000
     team: A
     time: 7：00 ～ 17：00
     description: 夏季中日大会　VS.高橋ファイターズ
-    locationText: 佐屋川グランド
+    locationText: 高嶺小学校
     location_text: 柳川瀬公園
-  - date: 2023-05-20 04:08:37 +0000
+  - date: 2023-05-28 05:12:24 +0000
+    team: A
+    time: 7：00 ～ 17：00
+    description: 夏季中日大会　VS.崇化館JBC
+    locationText: 佐屋川グランド
+    location_text: 新生公園
+  - date: 2023-05-27 04:08:37 +0000
     team: C
     time: 8：30 ～ 17：00
     description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2023-05-21 04:08:49 +0000
+  - date: 2023-05-28 04:08:49 +0000
     team: C
     time: 8：30 ～ 16：00
     description: 練習
     location_text: 畝部小学校
-  - date: 2023-05-20 06:58:03 +0000
+  - date: 2023-05-27 06:58:03 +0000
     team: Jr.
     time: 8：00 ～ 12：30
     description: 練習
     location_text: 高嶺小学校
-  - date: 2023-05-21 06:58:05 +0000
+  - date: 2023-05-28 06:58:05 +0000
     team: Jr.
     time: 8：30 ～ 16：00
     description: 練習
