@@ -7,43 +7,38 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-07-08 00:12:04 +0000
+  - date: 2023-07-15 00:12:04 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 練習
+    time: 7：00 ～ 17：00
+    description: ポップアスリート杯
     locationText: 高嶺小学校
     location_text: 高嶺小学校
-  - date: 2023-07-09 05:12:24 +0000
+  - date: 2023-07-16 05:12:24 +0000
     team: A
     time: 7：00 ～ 17：00
     description: 小幡旗大会
     locationText: 佐屋川グランド
-    location_text: 新生公園グラウンド
-  - date: 2023-07-08 00:14:43 +0000
-    team: B
-    time: 7：00 ～ 17：00
-    description: ふれあいカップ
-    location_text: 平和小学校
-  - date: 2023-07-08 04:08:37 +0000
+    location_text: 柳川瀬公園
+  - date: 2023-07-15 04:08:37 +0000
     team: C
-    time: 8：30 ～ 17：00
+    time: 8：30 ～ 16：00
     description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2023-07-09 04:08:49 +0000
+  - date: 2023-07-16 04:08:49 +0000
     team: C
-    time: 8：30 ～ 16：00
-    description: 練習
+    time: 7：30 ～ 13：30
+    description: 練習試合
     location_text: 畝部小学校
-  - date: 2023-07-08 06:58:03 +0000
+  - date: 2023-07-15 06:58:03 +0000
     team: Jr.
-    time: 8：00 ～ 12：30
+    time: 8：00 ～ 11：30
     description: 練習
     location_text: 高嶺小学校
-  - date: 2023-07-09 06:58:05 +0000
+  - date: 2023-07-16 06:58:05 +0000
     team: Jr.
-    time: 8：30 ～ 16：00
-    description: 練習
-    location_text: 高嶺小学校
+    time: 7：30 ～ 13：30
+    description: 練習試合
+    location_text: 畝部小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
