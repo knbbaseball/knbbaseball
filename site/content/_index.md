@@ -51,7 +51,7 @@ schedule:
     location_text: 高嶺小学校
   - date: 2023-07-23 06:58:05 +0000
     team: Jr.
-    time: 7：30 ～ 11：30
+    time: 8：00 ～ 11：30
     description: 練習
     location_text: 高嶺小学校
 info:
