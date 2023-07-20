@@ -7,38 +7,53 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-07-15 00:12:04 +0000
+  - date: 2023-07-22 00:12:04 +0000
     team: A
     time: 7：00 ～ 17：00
-    description: ポップアスリート杯
+    description: 試合 ＆ 練習
     locationText: 高嶺小学校
-    location_text: 高嶺小学校
-  - date: 2023-07-16 05:12:24 +0000
+    location_text: 柳川瀬公園　高嶺小学校
+  - date: 2023-07-22 05:09:37 +0000
     team: A
-    time: 7：00 ～ 17：00
+    time: 11：00 ～ 12：30
     description: 小幡旗大会
-    locationText: 佐屋川グランド
     location_text: 柳川瀬公園
-  - date: 2023-07-15 04:08:37 +0000
-    team: C
-    time: 8：30 ～ 16：00
-    description: 練習
-    location_text: 上郷コミュニティセンター
-  - date: 2023-07-16 04:08:49 +0000
+  - date: 2023-07-23 05:12:24 +0000
+    team: A
+    time: 7：00 ～ 17：30
+    description: 試合
+    locationText: 佐屋川グランド
+    location_text: 高嶺小学校　旭丘グランド
+  - date: 2023-07-23 05:09:56 +0000
+    team: A
+    time: 10：00 ～ 11：30
+    description: ふれあいカップ
+    location_text: 高嶺小学校
+  - date: 2023-07-23 05:09:57 +0000
+    team: A
+    time: 14：30 ～ 16：00
+    description: スポーツデポ杯
+    location_text: 旭丘グラウンド
+  - date: 2023-07-22 04:08:37 +0000
     team: C
     time: 7：30 ～ 13：30
-    description: 練習試合
+    description: 練習
+    location_text: 上郷コミュニティセンター
+  - date: 2023-07-23 04:08:49 +0000
+    team: C
+    time: 7：30 ～ 13：30
+    description: 練習
     location_text: 畝部小学校
-  - date: 2023-07-15 06:58:03 +0000
+  - date: 2023-07-22 06:58:03 +0000
     team: Jr.
     time: 8：00 ～ 11：30
     description: 練習
     location_text: 高嶺小学校
-  - date: 2023-07-16 06:58:05 +0000
+  - date: 2023-07-23 06:58:05 +0000
     team: Jr.
-    time: 7：30 ～ 13：30
-    description: 練習試合
-    location_text: 畝部小学校
+    time: 7：30 ～ 11：30
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
@@ -83,3 +98,13 @@ info:
 #### 【6/25】
 
 * 谷澤聖也くん　5年生　高嶺小学校
+
+#### 【7/15】
+
+* 松浦遼空くん　3年生　若林西小学校
+
+#### 【7/16】
+
+* 山口慶人くん　1年生　土橋小学校
+
+* 山口湊矢くん　3年生　土橋小学校
