@@ -7,41 +7,41 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-07-29 00:12:04 +0000
+  - date: 2023-08-05 00:12:04 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 練習
+    time: 7：00 ～ 13：00
+    description: ふれあいカップ　練習
     locationText: 高嶺小学校
     location_text: 高嶺小学校
-  - date: 2023-07-30 05:09:37 +0000
+  - date: 2023-08-05 05:09:37 +0000
     team: A
-    time: 7：30 ～ 13：00
-    description: 小幡旗大会
-    location_text: 新生公園
-  - date: 2023-07-30 05:12:24 +0000
-    team: A
-    time: 11：00 ～ 12：30
-    description: 試合
-    locationText: 佐屋川グランド
-    location_text: 新生公園
-  - date: 2023-07-29 04:08:37 +0000
-    team: C
-    time: 7：30 ～ 13：00
-    description: ふれあいカップ
-    location_text: 柳川瀬公園
-  - date: 2023-07-29 04:08:49 +0000
-    team: C
-    time: 9：00 ～ 10：30
-    description: 試合
-    location_text: 柳川瀬公園
-  - date: 2023-07-29 06:58:03 +0000
-    team: Jr.
-    time: 7：30 ～ 11：30
-    description: 練習
+    time: 10：00 ～
+    description: 試合開始
     location_text: 高嶺小学校
-  - date: 2023-07-30 06:58:05 +0000
+  - date: 2023-08-06 05:12:24 +0000
+    team: A
+    time: 6：30 ～ 14：00
+    description: スポーツデポ杯
+    locationText: 佐屋川グランド
+    location_text: 旭丘グランド
+  - date: 2023-08-06 07:45:20 +0000
+    team: A
+    time: 10 ： 45 ～
+    description: 試合開始
+    location_text: 旭丘グランド
+  - date: 2023-08-05 04:08:37 +0000
+    team: D ＆ Jr.
+    time: 7：30 ～ 13：30
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2023-08-06 04:08:49 +0000
+    team: D
+    time: 7：30 ～ 13：30
+    description: 練習試合
+    location_text: 畝部小学校
+  - date: 2023-08-06 06:58:03 +0000
     team: Jr.
-    time: 7：30 ～ 11：30
+    time: 8：00 ～ 11：30
     description: 練習
     location_text: 高嶺小学校
 info:
