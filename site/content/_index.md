@@ -7,17 +7,37 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-08-12 00:12:04 +0000
+  - date: 2023-08-19 00:12:04 +0000
     team: A
     time: 7：00 ～ 13：00
     description: 練習
     locationText: 高嶺小学校
     location_text: 高嶺小学校
-  - date: 2023-08-13 05:09:37 +0000
+  - date: 2023-08-20 05:09:37 +0000
     team: A
-    time: 7：00 ～ 13：00
+    time: 7：00 ～ 12：00
+    description: 体験会参加
+    location_text: 上郷中学校
+  - date: 2023-08-20 07:53:42 +0000
+    team: B
+    time: 9：00 ～
+    description: 新人戦開会式
+    location_text: 豊田市運動公園
+  - date: 2023-08-20 07:53:44 +0000
+    team: B
+    time: 18：00 ～
+    description: 新人戦
+    location_text: 豊田市運動公園ソフトボール場
+  - date: 2023-08-19 07:53:51 +0000
+    team: D
+    time: 7：30 ～ 13：30
     description: 練習
-    location_text: 高嶺小学校
+    location_text: 上郷コミュニティセンター
+  - date: 2023-08-20 07:53:54 +0000
+    team: D
+    time: 7：30 ～ 13：30
+    description: 練習
+    location_text: 畝部小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
