@@ -7,62 +7,57 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-08-26 00:12:04 +0000
+  - date: 2023-09-02 00:12:04 +0000
     team: A
-    time: 11：30 ～ 17：30
-    description: 体験会参加
+    time: 7：00 ～ 17：00
+    description: ふれあいカップ
     locationText: 高嶺小学校
-    location_text: 高岡中学校
-  - date: 2023-08-27 05:09:37 +0000
+    location_text: 高嶺小学校
+  - date: 2023-09-02 05:09:37 +0000
     team: A
-    time: 11：30 ～ 17：30
-    description: 体験会参加
-    location_text: 高岡中学校
-  - date: 2023-08-26 07:53:42 +0000
-    team: B
-    time: 7：00 ～ 13：00
-    description: ふれあいカップ
-    location_text: 高嶺小学校
-  - date: 2023-08-26 00:23:42 +0000
-    team: B
-    time: 10：30～
+    time: "10：00 ～ "
     description: 試合開始
     location_text: 高嶺小学校
-  - date: 2023-08-27 07:53:44 +0000
-    team: B
-    time: 7：00 ～ 13：00
-    description: ふれあいカップ
-    location_text: 高嶺小学校
-  - date: 2023-08-27 00:23:44 +0000
-    team: B
-    time: 10：30 ～
-    description: 試合開始
-    location_text: 高嶺小学校
-  - date: 2023-08-26 07:53:51 +0000
-    team: D
-    time: 7：30 ～ 13：30
+  - date: 2023-09-03 07:53:42 +0000
+    team: A
+    time: 8：30 ～ 12：30
     description: 練習
-    location_text: 上郷コミュニティセンター
-  - date: 2023-08-27 07:53:54 +0000
+    location_text: 高嶺小学校
+  - date: 2023-09-03 00:23:42 +0000
+    team: B
+    time: 13：00 ～ 18：30
+    description: 新人戦
+    location_text: 高嶺小学校　柳川瀬公園
+  - date: 2023-09-03 07:53:44 +0000
+    team: B
+    time: 16：00 ～
+    description: 試合開始
+    location_text: 柳川瀬公園
+  - date: 2023-09-02 07:53:51 +0000
     team: D
     time: 7：30 ～ 13：30
     description: 練習
     location_text: 畝部小学校
-  - date: 2023-08-26 00:27:12 +0000
+  - date: 2023-09-03 07:53:54 +0000
+    team: D
+    time: 12：00 ～ 16：30
+    description: 練習試合
+    location_text: 畝部小学校
+  - date: 2023-09-03 00:27:12 +0000
+    team: D
+    time: 14：30 ～
+    description: 試合開始
+    location_text: 畝部小学校
+  - date: 2023-09-02 00:27:13 +0000
     team: Jr.
-    time: 8：00 ～ 12：00
+    time: 8：30 ～ 13：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2023-08-27 00:27:13 +0000
+  - date: 2023-09-03 00:32:20 +0000
     team: Jr.
-    time: 8：00 ～ 13：00
-    description: 練習試合
-    location_text: 越戸公園
-  - date: 2023-08-27 00:32:20 +0000
-    team: Jr.
-    time: 10：00 ～
-    description: 試合開始
-    location_text: 越戸公園
+    time: 8：30 ～ 13：00
+    description: 試合
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
