@@ -7,63 +7,53 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-09-23 00:12:04 +0000
+  - date: 2023-09-30 00:12:04 +0000
     team: A
     time: 8：30 ～ 17：00
-    description: 豊田軟式少年野球クラブ オールスター2023野球教室
+    description: 練習
     locationText: 高嶺小学校
-    location_text: トヨタスポーツセンター
-  - date: 2023-09-24 05:09:37 +0000
+    location_text: 寿恵野小学校
+  - date: 2023-10-01 05:09:37 +0000
     team: A
-    time: 7：00 ～ 17：00
-    description: ふれあいカップ
-    location_text: 高嶺小学校
-  - date: 2023-09-24 07:53:42 +0000
+    time: 7：30 ～ 17：30
+    description: 東海団地秋季大会
+    location_text: 高嶺小学校、焼山公園（春日井市）
+  - date: 2023-10-01 07:53:42 +0000
     team: A
-    time: 10：00 ～
-    description: 試合開始
-    location_text: 高嶺小学校
-  - date: 2023-09-23 00:23:42 +0000
-    team: B
-    time: 7：30 ～ 17：00
-    description: 愛球リーグ
-    location_text: 高嶺小学校
-  - date: 2023-09-23 07:53:44 +0000
-    team: B
-    time: 10：30 ～
-    description: 試合開始
-    location_text: 高嶺小学校
-  - date: 2023-09-24 05:07:53 +0000
-    team: B
-    time: 7：00 ～ 17：00
-    description: ふれあいカップ
-    location_text: 高嶺小学校
-  - date: 2023-09-24 05:06:06 +0000
-    team: B
     time: 14：00 ～
     description: 試合開始
-    location_text: 高嶺小学校
-  - date: 2023-09-23 07:53:51 +0000
-    team: D
-    time: 8：30 ～ 16：00
-    description: 練習
-    location_text: 上郷コミュニティセンター
-  - date: 2023-09-24 07:53:54 +0000
-    team: D
-    time: 7：30 ～ 12：30
-    description: 練習試合
-    location_text: 上郷南グラウンド
-  - date: 2023-09-24 06:20:06 +0000
-    team: D
+    location_text: 焼山公園（春日井市）
+  - date: 2023-09-30 00:23:42 +0000
+    team: B
+    time: 7：00 ～ 17：00
+    description: 愛球リーグ
+    location_text: 高嶺小学校、寿恵野小学校
+  - date: 2023-09-30 07:53:44 +0000
+    team: B
     time: 10：00 ～
     description: 試合開始
-    location_text: 上郷南グラウンド
-  - date: 2023-09-23 00:27:13 +0000
-    team: Jr.
-    time: 8：30 ～ 13：00
-    description: 練習
     location_text: 高嶺小学校
-  - date: 2023-09-24 00:32:20 +0000
+  - date: 2023-09-30 07:53:51 +0000
+    team: D
+    time: 7：30 ～ 13：30
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2023-10-01 07:53:54 +0000
+    team: D
+    time: 7：30 ～ 16：30
+    description: ふれあいカップ
+    location_text: 畝部小学校
+  - date: 2023-10-01 06:20:06 +0000
+    team: D
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 畝部小学校
+  - date: 2023-09-30 00:27:13 +0000
+    team: Jr.
+    time: 7：30 ～ 13：30
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2023-10-01 00:32:20 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
