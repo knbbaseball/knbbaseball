@@ -7,47 +7,52 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-10-28 00:12:04 +0000
+  - date: 2023-11-04 00:12:04 +0000
     team: A
     time: 7：00 ～ 17：00
-    description: ふれあいカップ
+    description: ミズノワイズ杯
     locationText: 高嶺小学校
-    location_text: 南グランド
-  - date: 2023-10-28 07:39:04 +0000
+    location_text: 高嶺小学校　晴丘グラウンド
+  - date: 2023-11-04 07:39:04 +0000
     team: A
-    time: 10：00 ～
+    time: 12：45 ～
     description: 試合開始
-    location_text: 南グランド
-  - date: 2023-10-29 05:09:37 +0000
+    location_text: 晴丘グラウンド
+  - date: 2023-11-05 05:09:37 +0000
     team: A
-    time: 7：00 ～ 17：00
-    description: AM：豊田市秋季大会　　　　　　　　　　　　　　　　　　　　　　　　　PM：東海団地秋季大会
-    location_text: 新生公園　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　南グランド
-  - date: 2023-10-29 07:44:17 +0000
+    time: 6：30 ～ 17：00
+    description: AM：豊田市秋季大会　　　　　　　　　　　　　　　　　　　　　　　　　PM：ミズノワイズ杯
+    location_text: 柳川瀬公園　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　旭丘グラウンド
+  - date: 2023-11-05 07:44:17 +0000
     team: A
-    time: 10：50 ～
+    time: 9：00 ～
     description: 試合開始
-    location_text: 新生公園
-  - date: 2023-10-29 07:53:42 +0000
+    location_text: 柳川瀬公園
+  - date: 2023-11-05 07:53:42 +0000
     team: A
     time: 14：30 ～
     description: 試合開始
-    location_text: 南グランド
-  - date: 2023-10-28 07:53:54 +0000
-    team: D ＆ Jr.
-    time: 7：30 ～ 14：00
-    description: 練習 ＆ 芋掘り🍠
-    location_text: 畝部小学校
-  - date: 2023-10-29 06:03:28 +0000
+    location_text: 旭丘グラウンド
+  - date: 2023-11-04 07:53:54 +0000
+    team: D
+    time: 7：30 ～ 13：30
+    description: 練習
+    location_text: 上郷コミュニティセンター
+  - date: 2023-11-05 06:03:28 +0000
     team: D
     time: 8：30 ～ 16：30
     description: 練習
-    location_text: 畝部小学校
-  - date: 2023-10-29 06:03:29 +0000
+    location_text: 南グランド
+  - date: 2023-11-04 06:03:29 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
-    location_text: 寿恵野小学校
+    location_text: 高嶺小学校
+  - date: 2023-11-05 07:59:18 +0000
+    team: Jr.
+    time: 8：30 ～ 13：00
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
