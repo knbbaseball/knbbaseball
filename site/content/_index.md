@@ -7,36 +7,46 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-11-11 00:12:04 +0000
+  - date: 2023-11-18 00:12:04 +0000
     team: A
     time: 8：30 ～ 17：00
     description: 練習
     locationText: 高嶺小学校
     location_text: 高嶺小学校
-  - date: 2023-11-05 05:09:37 +0000
+  - date: 2023-11-19 05:09:37 +0000
     team: A
     time: 7：00 ～ 17：00
+    description: 南部大会
+    location_text: 高嶺小学校
+  - date: 2023-11-19 01:12:54 +0000
+    team: A
+    time: "9：45 ～ "
+    description: 試合開始
+    location_text: 高嶺小学校
+  - date: 2023-11-18 01:11:16 +0000
+    team: D
+    time: 7：30 ～ 13：30
     description: 練習
-    location_text: 新生公園　高嶺小学校
-  - date: 2023-11-12 01:12:54 +0000
-    team: B
-    time: 7：00 ～ 17：00
-    description: ふれあいカップ
-    location_text: 新生公園
-  - date: 2023-11-12 01:11:16 +0000
-    team: B
+    location_text: 上郷コミュニティーセンター
+  - date: 2023-11-19 06:03:28 +0000
+    team: D
+    time: 7：45 ～ 16：30
+    description: 練習試合
+    location_text: 畝部小学校
+  - date: 2023-11-19 00:44:42 +0000
+    team: D
     time: 10：00 ～
     description: 試合開始
-    location_text: 新生公園
-  - date: 2023-11-12 06:03:28 +0000
-    team: D
-    time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 南グランド
-  - date: 2023-11-12 06:03:29 +0000
+    location_text: 畝部小学校
+  - date: 2023-11-18 06:03:29 +0000
     team: Jr.
-    time: 7：30 ～ 13：00
-    description: 練習 ＆ 芋掘り
+    time: 8：30 ～ 13：00
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2023-11-19 00:44:46 +0000
+    team: Jr.
+    time: 8：30 ～ 13：00
+    description: 練習
     location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
