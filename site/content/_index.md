@@ -7,52 +7,41 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-12-09 04:22:03 +0000
+  - date: 2023-12-16 04:22:03 +0000
     team: A
-    time: 7：00 ～ 17：00
-    description: ふれあいカップ
+    time: 8：30 ～ 17：00
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2023-12-09 00:12:04 +0000
+  - date: 2023-12-17 00:26:50 +0000
     team: A
-    time: "10：00 ～ "
-    description: 試合開始
-    locationText: 高嶺小学校
+    time: 8：30 ～ 17：00
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2023-12-10 00:26:50 +0000
-    team: A
-    time: 7：00 ～ 15：00
-    description: ひまわりネットワーク杯
-    location_text: 豊田市運動公園多目的広場B
-  - date: 2023-12-10 05:10:46 +0000
-    team: A
-    time: 12：20 ～
-    description: 試合開始
-    location_text: 豊田市運動公園多目的広場B
-  - date: 2023-12-09 06:03:28 +0000
+  - date: 2023-12-16 06:03:28 +0000
     team: D
     time: 8：30 ～ 16：00
     description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2023-12-10 00:44:42 +0000
+  - date: 2023-12-17 00:44:42 +0000
     team: D
-    time: 7：30 ～ 13：30
-    description: 練習
+    time: 8：00 ～ 16：00
+    description: ふれあいカップ
     location_text: 畝部小学校
-  - date: 2023-12-09 06:03:29 +0000
+  - date: 2023-12-17 06:03:29 +0000
+    team: D
+    time: "14：00 ～ "
+    description: 試合開始
+    location_text: 畝部小学校
+  - date: 2023-12-16 00:29:25 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2023-12-10 00:29:25 +0000
+  - date: 2023-12-17 05:13:19 +0000
     team: Jr.
     time: 8：30 ～ 13：00
-    description: 練習試合
-    location_text: 寿恵野小学校
-  - date: 2023-12-10 05:13:19 +0000
-    team: Jr.
-    time: 11：00 ～
-    description: 試合開始
-    location_text: 寿恵野小学校
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
