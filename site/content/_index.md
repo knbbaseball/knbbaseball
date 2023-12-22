@@ -14,7 +14,7 @@ schedule:
     location_text: 高嶺小学校
   - date: 2023-12-24 00:26:50 +0000
     team: A
-    time: 8：30 ～ 16：00
+    time: 8：30 ～ 12：30🎄
     description: 練習
     location_text: 高嶺小学校
   - date: 2023-12-23 06:03:28 +0000
