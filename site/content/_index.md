@@ -1,38 +1,43 @@
 ---
 title: 上郷ノーティボーイズ
-image: /img/23-01-18-13-51-24-587_deco.jpg
+image: /img/dsc_0571-2-.jpg
 blurb:
   text: 私達は、愛知県豊田市南部にある少年軟式野球チーム・上郷ノーティボーイズです。野球を愛する少年・少女達の夢を育み、軟式野球を正しく指導し、体力向上と礼儀を養成します。また、親友同士の友情と交歓の場を与え、規則正しい明朗な少年・少女を育成することを目的としています。
   gmName: 代表 加藤松男
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2023-12-23 04:22:03 +0000
+  - date: 2024-01-05 23:33:52 +0000
+    team: A B D Jr.
+    description: 初会🎍
+    time: 9：00 ～ 12：00
+    location_text: 高嶺小学校
+  - date: 2024-01-06 04:22:03 +0000
     team: A
-    time: 8：30 ～ 16：00
+    time: 8：30 ～ 15：30
     description: 練習
     location_text: 高嶺小学校
-  - date: 2023-12-24 00:26:50 +0000
+  - date: 2024-01-07 00:26:50 +0000
     team: A
-    time: 8：30 ～ 12：30🎄
+    time: 8：30 ～ 15：30
     description: 練習
     location_text: 高嶺小学校
-  - date: 2023-12-23 06:03:28 +0000
+  - date: 2024-01-06 06:03:28 +0000
     team: D
     time: 7：30 ～ 13：30
     description: 練習
-    location_text: 上郷コミュニティセンター
-  - date: 2023-12-24 00:44:42 +0000
+    location_text: 畝部小学校
+  - date: 2024-01-07 00:44:42 +0000
     team: D
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 畝部小学校
-  - date: 2023-12-23 00:29:25 +0000
+  - date: 2024-01-06 00:29:25 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2023-12-24 05:13:19 +0000
+  - date: 2024-01-07 05:13:19 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
