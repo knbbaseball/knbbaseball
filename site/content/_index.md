@@ -7,52 +7,37 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-01-13 04:22:03 +0000
+  - date: 2024-01-20 04:22:03 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2024-01-07 00:26:50 +0000
-    team: A
-    time: 13：00 ～ 16：30
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2024-01-13 04:36:21 +0000
-    team: B
-    time: 8：30 ～ 17：00
-    description: 愛球リーグ
-    location_text: 高嶺小　知立市昭和グラウンド
-  - date: 2024-01-13 04:36:22 +0000
-    team: B
-    time: 14：15 ～
-    description: 試合開始
-    location_text: 知立市昭和グラウンド
-  - date: 2024-01-14 04:38:09 +0000
-    team: B
     time: 8：30 ～ 16：30
-    description: 愛球リーグ
-    location_text: 高嶺小　知立市昭和グラウンド
-  - date: 2024-01-14 04:38:10 +0000
-    team: B
-    time: 10 ： 45 ～
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2024-01-21 00:26:50 +0000
+    team: A
+    time: 8：00 ～ 16：30
+    description: 卒団記念試合
+    location_text: 高嶺小学校　豊田市運動公園ソフトボール場
+  - date: 2024-01-21 04:36:21 +0000
+    team: A
+    time: "11：30 ～ "
     description: 試合開始
-    location_text: 知立市昭和グラウンド
-  - date: 2024-01-13 06:03:28 +0000
+    location_text: 豊田市運動公園ソフトボール場
+  - date: 2024-01-20 06:03:28 +0000
     team: D
-    time: 7：30 ～ 13：30
+    time: 7：30 ～ 13：00
     description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2024-01-14 00:44:42 +0000
+  - date: 2024-01-21 00:44:42 +0000
     team: D
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 南グランド
-  - date: 2024-01-13 00:29:25 +0000
+  - date: 2024-01-20 00:29:25 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2024-01-14 05:13:19 +0000
+  - date: 2024-01-21 05:13:19 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
