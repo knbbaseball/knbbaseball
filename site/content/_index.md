@@ -7,32 +7,37 @@ blurb:
   gmImage: /img/mr-kato.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-02-10 00:26:50 +0000
+  - date: 2024-02-17 00:26:50 +0000
     team: A
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-02-11 04:36:21 +0000
+  - date: 2024-02-18 04:36:21 +0000
     team: A
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-02-10 06:03:28 +0000
+  - date: 2024-02-17 06:03:28 +0000
     team: C
     time: 7：30 ～ 13：00
-    description: 練習
+    description: 練習試合
     location_text: 上郷コミュニティセンター
-  - date: 2024-02-11 00:44:42 +0000
+  - date: 2024-02-17 07:50:48 +0000
+    team: C
+    time: 10：00 ～
+    description: 試合開始
+    location_text: 上郷コミュニティセンター
+  - date: 2024-02-18 00:44:42 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
-    location_text: 南グランド
-  - date: 2024-02-10 00:29:25 +0000
+    location_text: 畝部小
+  - date: 2024-02-17 00:29:25 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-02-11 05:13:19 +0000
+  - date: 2024-02-18 05:13:19 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
