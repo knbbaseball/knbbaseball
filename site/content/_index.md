@@ -7,42 +7,37 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-03-02 00:26:50 +0000
+  - date: 2024-03-09 00:26:50 +0000
     team: A
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-03-03 04:36:21 +0000
+  - date: 2024-03-10 04:36:21 +0000
     team: A
-    time: 7：00 ～ 16：30
-    description: 総合開会式　春季大会
-    location_text: 豊田市運動公園　新生グランド
-  - date: 2024-03-03 02:45:21 +0000
-    team: A
-    time: 13：50 ～
-    description: 試合開始
-    location_text: 新生グランド
-  - date: 2024-03-02 06:03:28 +0000
-    team: C
-    time: 7：30 ～ 13：00
-    description: 練習
-    location_text: 上郷コミュニティセンター
-  - date: 2024-03-03 00:44:42 +0000
-    team: C
-    time: 8：30 ～ 16：30
-    description: 練習試合
+    time: 8：00 ～ 16：30
+    description: 東海団地春季大会
     location_text: 高嶺小学校
-  - date: 2024-03-03 07:17:00 +0000
-    team: C
+  - date: 2024-03-10 02:45:21 +0000
+    team: A
     time: 10：30 ～
     description: 試合開始
     location_text: 高嶺小学校
-  - date: 2024-03-02 00:29:25 +0000
+  - date: 2024-03-09 06:03:28 +0000
+    team: C
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 上郷コミュニティセンター
+  - date: 2024-03-10 00:44:42 +0000
+    team: C
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 南グラウンド
+  - date: 2024-03-09 00:29:25 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-03-03 05:13:19 +0000
+  - date: 2024-03-10 05:13:19 +0000
     team: Jr.
     time: 8：30 ～ 13：00
     description: 練習
