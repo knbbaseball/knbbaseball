@@ -7,44 +7,39 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-03-16 00:26:50 +0000
+  - date: 2024-03-23 00:26:50 +0000
     team: A
-    time: 8：30 ～ 16：30
-    description: 練習　トヨタレッドクルーザーズより今井脩斗選手が監督として参加！！
-    location_text: 高嶺小学校
-  - date: 2024-03-17 04:36:21 +0000
-    team: A
-    time: 7：00 ～ 16：30
-    description: 豊田市春季大会
-    location_text: 柳川瀬グラウンド
-  - date: 2024-03-10 02:45:21 +0000
-    team: A
-    time: 9：00 ～
-    description: 試合開始
-    location_text: 柳川瀬グラウンド
-  - date: 2024-03-16 06:03:28 +0000
-    team: C
     time: 8：30 ～ 16：30
     description: 練習
+    location_text: 高嶺小学校
+  - date: 2024-03-24 04:36:21 +0000
+    team: A
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2024-03-23 06:03:28 +0000
+    team: C
+    time: 8：00 ～ 16：30
+    description: 練習試合
+    location_text: 上郷コミュニティセンター
+  - date: 2024-03-23 06:38:16 +0000
+    team: C
+    time: 10：30 ～
+    description: 試合開始
     location_text: 上郷コミュニティセンター
   - date: 2024-03-17 00:44:42 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
-    location_text: 南グラウンド
-  - date: 2024-03-16 00:29:25 +0000
+    location_text: 畝部小学校
+  - date: 2024-03-23 00:29:25 +0000
     team: Jr.
-    time: 8：30 ～ 12：30
-    description: 練習試合
-    location_text: 前山小学校
-  - date: 2024-03-16 05:13:49 +0000
+    time: 8：30 ～ 14：00
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2024-03-24 05:13:19 +0000
     team: Jr.
-    time: 10：00 ～
-    description: 試合開始
-    location_text: 前山小学校
-  - date: 2024-03-17 05:13:19 +0000
-    team: Jr.
-    time: 8：30 ～ 13：00
+    time: 8：30 ～ 14：00
     description: 練習
     location_text: 高嶺小学校
 info:
