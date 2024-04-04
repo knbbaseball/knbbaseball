@@ -7,41 +7,46 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-03-23 00:26:50 +0000
+  - date: 2024-04-06 00:26:50 +0000
     team: A
-    time: 8：30 ～ 16：30
+    time: 8：30 ～ 17：00
     description: 練習
     location_text: 高嶺小学校
   - date: 2024-03-24 04:36:21 +0000
     team: A
+    time: 8：30 ～ 17：00
+    description: ふれあいカップ
+    location_text: 高嶺小学校
+  - date: 2024-04-07 11:52:12 +0000
+    team: A
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 高嶺小学校
+  - date: 2024-04-06 06:03:28 +0000
+    team: C
     time: 8：30 ～ 16：30
     description: 練習
-    location_text: 高嶺小学校
-  - date: 2024-03-23 06:03:28 +0000
-    team: C
-    time: 8：00 ～ 16：30
-    description: 練習試合
     location_text: 上郷コミュニティセンター
-  - date: 2024-03-23 06:38:16 +0000
-    team: C
-    time: 10：30 ～
-    description: 試合開始
-    location_text: 上郷コミュニティセンター
-  - date: 2024-03-17 00:44:42 +0000
+  - date: 2024-04-07 00:44:42 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 畝部小学校
-  - date: 2024-03-23 00:29:25 +0000
+  - date: 2024-04-06 00:29:25 +0000
     team: Jr.
     time: 8：30 ～ 14：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-03-24 05:13:19 +0000
+  - date: 2024-04-07 05:13:19 +0000
     team: Jr.
-    time: 8：30 ～ 14：00
-    description: 練習
-    location_text: 高嶺小学校
+    time: 9：00 ～ 16：30
+    description: 練習試合
+    location_text: 高嶺小学校　新生グラウンド
+  - date: 2024-04-07 11:56:29 +0000
+    team: Jr.
+    time: 13：30 ～
+    description: 試合開始
+    location_text: 新生グラウンド
 info:
   title: 一緒に野球やろうよ！！
   content: |-
@@ -63,36 +68,3 @@ info:
 
 * 加藤柚希くん　6年生　畝部小学校
 
-#### 【4/29】
-
-* 後藤颯志くん　3年生　若園小学校
-
-#### 【5/ 1】
-
-* 小林祐斗くん　1年生　若林東小学校
-
-#### 【5/21】
-
-* 鍛冶龍くん　3年生　高嶺小学校
-
-#### 【6/17】
-
-* 小久井悠真くん　4年生　高嶺小学校
-
-#### 【6/24】
-
-* 吉田壮真くん　1年生　北野小学校
-
-#### 【6/25】
-
-* 谷澤聖也くん　5年生　高嶺小学校
-
-#### 【7/15】
-
-* 松浦遼空くん　3年生　若林西小学校
-
-#### 【7/16】
-
-* 山口慶人くん　1年生　土橋小学校
-
-* 山口湊矢くん　3年生　土橋小学校
