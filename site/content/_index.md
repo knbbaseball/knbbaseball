@@ -7,32 +7,42 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-04-20 00:26:50 +0000
+  - date: 2024-04-27 00:26:50 +0000
     team: A
     time: 8：30 ～ 17：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-04-21 04:36:21 +0000
+  - date: 2024-04-28 04:36:21 +0000
     team: A
-    time: 7：00 ～ 17：00
-    description: ろうきん杯開会式　練習（トヨタレッドクルーザーズ今井選手コーチング）
-    location_text: バンテリンドーム　高嶺小学校
-  - date: 2024-04-20 06:03:28 +0000
+    time: 8：00 ～ 17：00
+    description: 練習試合
+    location_text: 高嶺小学校
+  - date: 2024-04-28 01:52:58 +0000
+    team: A
+    time: 10：00 ～
+    description: 試合開始
+    location_text: 高嶺小学校
+  - date: 2024-04-27 06:03:28 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2024-04-21 05:55:34 +0000
+  - date: 2024-04-28 05:55:34 +0000
     team: C
-    time: 7：00 ～ 16：30
-    description: ろうきん杯開会式　練習
-    location_text: バンテリンドーム　南グラウンド
-  - date: 2024-04-20 00:29:25 +0000
+    time: 8：30 ～ 16：30
+    description: ふれあいカップ
+    location_text: 南グラウンド
+  - date: 2024-04-28 01:54:41 +0000
+    team: C
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 南グラウンド
+  - date: 2024-04-27 00:29:25 +0000
     team: Jr.
-    time: 13：00 ～ 17：00
+    time: 8：30 ～ 14：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-04-21 05:57:13 +0000
+  - date: 2024-04-28 05:57:13 +0000
     team: Jr.
     time: 8：30 ～ 14：00
     description: 練習
