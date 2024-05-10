@@ -7,21 +7,51 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-05-04 00:26:50 +0000
+  - date: 2024-05-11 00:26:50 +0000
     team: A
-    time: 8：30 ～ 15：00
-    description: 練習
-    location_text: 柳川瀬児童球場
-  - date: 2024-05-05 04:36:21 +0000
+    time: 8：00 ～ 17：00
+    description: ふれあいカップ
+    location_text: 高嶺小学校
+  - date: 2024-05-11 00:41:14 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: ろうきん杯
-    location_text: 寿恵野小学校　白水公園
-  - date: 2024-05-05 01:52:58 +0000
-    team: A
-    time: 14：30 ～
+    time: 10：00 ～
     description: 試合開始
-    location_text: 白水公園
+    location_text: 矢作北小学校
+  - date: 2024-05-12 04:36:21 +0000
+    team: A
+    time: 7：30 ～ 16：30
+    description: 練習試合
+    location_text: 矢作北小学校　高嶺小学校
+  - date: 2024-05-12 01:52:58 +0000
+    team: A
+    time: 9：00 ～
+    description: 試合開始
+    location_text: 矢作北小学校
+  - date: 2024-05-12 00:41:13 +0000
+    team: A
+    time: 10：45 ～
+    description: 試合開始
+    location_text: 矢作北小学校
+  - date: 2024-05-11 00:46:30 +0000
+    team: C
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 上郷コミュニティセンター
+  - date: 2024-05-12 00:46:31 +0000
+    team: C
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2024-05-10 09:48:24 +0900
+    team: Jr.
+    time: 8：30 ～ 14：00
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2024-05-12 00:48:24 +0000
+    team: Jr.
+    time: 8：30 ～ 14：00
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
