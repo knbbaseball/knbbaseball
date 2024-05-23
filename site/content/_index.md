@@ -7,45 +7,50 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-05-19 23:20:48 +0000
-    time: 10：00 ～ 12：00
-    description: 本日の体験会は雨のため中止とさせていただきます
-    location_text: 高嶺小学校
-    team: ノーティボーイズ
-  - date: 2024-05-18 00:26:50 +0000
+  - date: 2024-05-25 00:26:50 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2024-05-19 04:36:21 +0000
+    time: 8：00 ～ 17：00
+    description: 練習試合
+    location_text: 広川台小学校　高嶺小学校
+  - date: 2024-05-25 06:08:37 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 練習
+    time: "9：45 ～ "
+    description: 試合開始
+    location_text: 広川台小学校
+  - date: 2024-05-26 04:36:21 +0000
+    team: A
+    time: 7：00 ～ 17：00
+    description: 夏季中日大会
     location_text: 新生公園
-  - date: 2024-05-18 00:46:30 +0000
+  - date: 2024-05-26 06:09:41 +0000
+    team: A
+    time: 9：00 ～
+    description: 試合開始
+    location_text: 新生グラウンド
+  - date: 2024-05-25 00:46:30 +0000
+    team: C
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2024-05-26 00:46:31 +0000
     team: C
     time: 7：30 ～ 16：30
     description: ふれあいカップ
-    location_text: 上郷コミュニティセンター
-  - date: 2024-05-18 03:00:40 +0000
+    location_text: 畝部小学校
+  - date: 2024-05-26 06:12:42 +0000
     team: C
-    time: 10：00 ～
+    time: "10：00 ～ "
     description: 試合開始
-    location_text: 上郷コミュニティーセンター
-  - date: 2024-05-19 00:46:31 +0000
-    team: C
-    time: 8：30 ～ 16：30
-    description: 体験会・練習
+    location_text: 畝部小学校
+  - date: 2024-05-25 00:48:24 +0000
+    team: Jr.
+    time: 12：30 ～ 17：00
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2024-05-18 00:48:24 +0000
+  - date: 2024-05-26 00:48:24 +0000
     team: Jr.
     time: 8：30 ～ 14：00
     description: 練習
-    location_text: 高嶺小学校
-  - date: 2024-05-19 00:48:24 +0000
-    team: Jr.
-    time: 8：30 ～ 16：00
-    description: 体験会・練習
     location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
