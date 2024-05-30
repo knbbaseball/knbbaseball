@@ -12,7 +12,7 @@ schedule:
     time: 10：00 ～ 12：00
     description: 体験会
     location_text: 高嶺小学校
-    location_url: "![](/img/20240601taiken.jpg)"
+    location_url: ""
   - date: 2024-06-01 00:26:50 +0000
     team: A
     time: 8：30 ～ 17：00
