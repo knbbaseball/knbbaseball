@@ -20,9 +20,9 @@ schedule:
     location_text: 上郷コミュニティーセンター
   - date: 2024-06-02 04:36:21 +0000
     team: A
-    time: 8：30 ～ 17：00
+    time: 8：00 ～ 10：30
     description: 練習
-    location_text: 高嶺小学校
+    location_text: 高架下
   - date: 2024-06-01 00:46:30 +0000
     team: C
     time: 8：30 ～ 16：30
