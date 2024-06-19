@@ -7,44 +7,24 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-06-15 00:26:50 +0000
-    team: A
+  - date: 2024-06-22 00:26:50 +0000
+    team: A　C　合同
     time: 8：30 ～ 17：00
-    description: ふれあいカップ
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2024-06-15 08:40:06 +0000
-    team: A
-    time: 14：30 ～
-    description: 試合開始
-    location_text: 高嶺小学校
-  - date: 2024-06-16 04:36:21 +0000
-    team: A
+  - date: 2024-06-23 00:46:30 +0000
+    team: A　C　合同
     time: 8：30 ～ 17：00
-    description: 双葉ドラゴンズ記念大会
-    location_text: 高嶺小学校　日高公園グランド
-  - date: 2024-06-16 08:51:22 +0000
-    team: A
-    time: 13：30 ～
-    description: 試合開始
-    location_text: 日高公園グランド
-  - date: 2024-06-15 00:46:30 +0000
-    team: C
-    time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 上郷コミュニティーセンター
-  - date: 2024-06-16 00:46:31 +0000
-    team: C
-    time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 畝部小学校
-  - date: 2024-06-15 00:48:24 +0000
-    team: Jr.
-    time: 8：30 ～ 14：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-06-16 00:48:24 +0000
+  - date: 2024-06-22 00:48:24 +0000
     team: Jr.
-    time: 8：30 ～ 14：00
+    time: 7：30 ～ 13：00
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2024-06-23 00:48:24 +0000
+    team: Jr.
+    time: 7：30 ～ 13：00
     description: 練習
     location_text: 高嶺小学校
 info:
