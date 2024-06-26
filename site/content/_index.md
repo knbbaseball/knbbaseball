@@ -7,22 +7,37 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-06-22 00:26:50 +0000
+  - date: 2024-06-29 00:26:50 +0000
     team: A　C　合同
     time: 8：30 ～ 17：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-06-23 00:46:30 +0000
-    team: A　C　合同
+  - date: 2024-06-29 05:30:14 +0000
+    team: B
+    time: 14：00～　試合開始
+    description: ふれあいカップ
+    location_text: 高嶺小学校
+  - date: 2024-06-30 00:46:30 +0000
+    team: A
+    time: 7：30 ～ 17：00
+    description: ろうきん杯
+    location_text: 白水公園
+  - date: 2024-06-26 14:30:14 +0900
+    team: A
+    time: 9：00 ～　試合開始
+    description: ろうきん杯
+    location_text: 白水公園
+  - date: 2024-06-30 05:33:18 +0000
+    team: C
     time: 8：30 ～ 17：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-06-22 00:48:24 +0000
+  - date: 2024-06-29 00:48:24 +0000
     team: Jr.
     time: 7：30 ～ 13：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-06-23 00:48:24 +0000
+  - date: 2024-06-30 00:48:24 +0000
     team: Jr.
     time: 7：30 ～ 13：00
     description: 練習
