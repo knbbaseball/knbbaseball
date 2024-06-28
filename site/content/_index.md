@@ -22,7 +22,7 @@ schedule:
     time: 7：30 ～ 17：00
     description: ろうきん杯
     location_text: 白水公園
-  - date: 2024-06-26 14:30:14 +0900
+  - date: 2024-06-30 05:30:14 +0000
     team: A
     time: 9：00 ～　試合開始
     description: ろうきん杯
