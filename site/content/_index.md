@@ -40,8 +40,18 @@ schedule:
   - date: 2024-06-30 00:48:24 +0000
     team: Jr.
     time: 7：30 ～ 13：00
-    description: 練習
-    location_text: 高嶺小学校
+    description: 練習　試合
+    location_text: 高嶺小学校　寿恵野小学校
+  - date: 2024-06-30 07:15:38 +0000
+    team: Jr.
+    time: 12：30 ～
+    description: 試合開始
+    location_text: 寿恵野小学校
+  - date: 2024-06-30 07:15:38 +0000
+    team: Jr.
+    time: 14：20 ～
+    description: 試合開始
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
