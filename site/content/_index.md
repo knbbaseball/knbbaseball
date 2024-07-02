@@ -7,31 +7,36 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-06-29 00:26:50 +0000
-    team: A　C　合同
-    time: 8：30 ～ 17：00
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2024-06-29 05:30:14 +0000
-    team: B
-    time: 14：00～　試合開始
-    description: ふれあいカップ
-    location_text: 高嶺小学校
-  - date: 2024-06-30 00:46:30 +0000
+  - date: 2024-07-06 00:46:30 +0000
     team: A
+    time: 8：30 ～ 17：00
+    description: ポップアスリート１回戦　ＶＳグレートブラザーズ
+    location_text: 高嶺小学校
+  - date: 2024-07-06 05:30:14 +0000
+    team: A
+    time: 14：00 ～　試合開始
+    description: ポップアスリート１回戦　ＶＳグレートブラザーズ
+    location_text: 高嶺小学校
+  - date: 2024-07-07 13:30:53 +0000
+    team: Ａ
     time: 7：30 ～ 17：00
-    description: ろうきん杯
-    location_text: 白水公園
-  - date: 2024-06-30 05:30:14 +0000
-    team: A
-    time: 9：00 ～　試合開始
-    description: ろうきん杯
-    location_text: 白水公園
-  - date: 2024-06-30 05:33:18 +0000
+    description: 小幡旗大会　１回戦　ＶＳ山之手少年野球クラブ
+    location_text: 柳ヶ瀬公園※練習は高嶺小学校
+  - date: 2024-07-07 13:34:12 +0000
+    team: Ａ
+    time: 10：20 ～　試合開始
+    description: 小幡旗大会　１回戦　ＶＳ山之手少年野球クラブ
+    location_text: 柳ヶ瀬公園
+  - date: 2024-07-06 05:33:18 +0000
     team: C
-    time: 8：30 ～ 17：00
+    time: 8：30 ～ 16：30
     description: 練習
-    location_text: 高嶺小学校
+    location_text: 上郷コミュニティ
+  - date: 2024-07-07 13:38:57 +0000
+    team: Ｃ
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 南グランド
   - date: 2024-07-06 00:48:24 +0000
     team: Jr.
     time: 7：30 ～ 13：00
