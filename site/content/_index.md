@@ -9,7 +9,7 @@ banner: ただいま新6年生～新1年生大募集中！！まずは体験か�
 schedule:
   - date: 2024-07-06 00:46:30 +0000
     team: A
-    time: 8：30 ～ 17：00
+    time: 11：30 ～ 17：00
     description: ポップアスリート１回戦　ＶＳグレートブラザーズ
     location_text: 高嶺小学校
   - date: 2024-07-06 05:30:14 +0000
@@ -19,7 +19,7 @@ schedule:
     location_text: 高嶺小学校
   - date: 2024-07-07 13:30:53 +0000
     team: Ａ
-    time: 7：30 ～ 17：00
+    time: 7：30 ～ 12：30
     description: 小幡旗大会　１回戦　ＶＳ山之手少年野球クラブ
     location_text: 柳ヶ瀬公園※練習は高嶺小学校
   - date: 2024-07-07 13:34:12 +0000
