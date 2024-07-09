@@ -27,24 +27,34 @@ schedule:
     time: 10：20 ～　試合開始
     description: 小幡旗大会　１回戦　ＶＳ山之手少年野球クラブ
     location_text: 柳ヶ瀬公園
-  - date: 2024-07-06 05:33:18 +0000
+  - date: 2024-07-13 05:33:18 +0000
     team: C
     time: 8：30 ～ 16：30
-    description: 練習
+    description: ふれあいカップ　予選　ＶＳ南部スターズ
     location_text: 上郷コミュニティ
-  - date: 2024-07-07 13:38:57 +0000
+  - date: 2024-07-13 13:38:57 +0000
     team: Ｃ
-    time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 南グランド
-  - date: 2024-07-06 00:48:24 +0000
+    time: "14：00 ～ "
+    description: ふれあいカップＣ　予選　ＶＳ南部スターズ
+    location_text: 上郷コミュニティ
+  - date: 2024-07-14 13:19:20 +0000
+    team: Ｃ
+    time: 8：00 ～ 16：30
+    description: 大島杯　ＶＳ旭丘スカイシャークス
+    location_text: 桜丘中　※練習は畝部小
+  - date: 2024-07-14 13:25:14 +0000
+    team: Ｃ
+    time: "14：00 ～ "
+    description: 大島杯　ＶＳ旭丘スカイシャークス
+    location_text: 桜丘中　※練習は畝部小
+  - date: 2024-07-13 00:48:24 +0000
     team: Jr.
-    time: 7：30 ～ 13：00
+    time: 7：30 ～ 12：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-07-07 00:48:24 +0000
+  - date: 2024-07-14 00:48:24 +0000
     team: Jr.
-    time: 7：30 ～ 13：00
+    time: 7：30 ～ 12：00
     description: 練習
     location_text: 高嶺小学校
 info:
