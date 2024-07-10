@@ -17,7 +17,7 @@ schedule:
     time: 7：30 ～ 17：00
     description: 小幡旗大会　2回戦　ＶＳドリームボーイズ
     location_text: 新生公園※練習は高嶺小学校
-  - date: 2024-07-07 13:34:12 +0000
+  - date: 2024-07-14 13:34:12 +0000
     team: Ａ
     time: 9：00 ～　試合開始
     description: 小幡旗大会　2回戦　ＶＳドリームボーイズ
