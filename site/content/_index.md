@@ -7,26 +7,21 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-07-06 00:46:30 +0000
+  - date: 2024-07-13 00:46:30 +0000
     team: A
-    time: 11：30 ～ 17：00
-    description: ポップアスリート１回戦　ＶＳグレートブラザーズ
+    time: 8：30 ～ 17：00
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2024-07-06 05:30:14 +0000
-    team: A
-    time: 14：00 ～　試合開始
-    description: ポップアスリート１回戦　ＶＳグレートブラザーズ
-    location_text: 高嶺小学校
-  - date: 2024-07-07 13:30:53 +0000
+  - date: 2024-07-14 13:30:53 +0000
     team: Ａ
-    time: 7：30 ～ 12：30
-    description: 小幡旗大会　１回戦　ＶＳ山之手少年野球クラブ
-    location_text: 柳ヶ瀬公園※練習は高嶺小学校
+    time: 7：30 ～ 17：00
+    description: 小幡旗大会　2回戦　ＶＳドリームボーイズ
+    location_text: 新生公園※練習は高嶺小学校
   - date: 2024-07-07 13:34:12 +0000
     team: Ａ
-    time: 10：20 ～　試合開始
-    description: 小幡旗大会　１回戦　ＶＳ山之手少年野球クラブ
-    location_text: 柳ヶ瀬公園
+    time: 9：00 ～　試合開始
+    description: 小幡旗大会　2回戦　ＶＳドリームボーイズ
+    location_text: 新生公園
   - date: 2024-07-13 05:33:18 +0000
     team: C
     time: 8：30 ～ 16：30
