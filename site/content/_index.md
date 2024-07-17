@@ -7,47 +7,42 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-07-13 00:46:30 +0000
+  - date: 2024-07-20 00:46:30 +0000
     team: A
     time: 8：30 ～ 17：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-07-14 13:30:53 +0000
+  - date: 2024-07-21 13:30:53 +0000
     team: Ａ
-    time: 7：30 ～ 17：00
-    description: 小幡旗大会　2回戦　ＶＳドリームボーイズ
-    location_text: 新生公園※練習は高嶺小学校
-  - date: 2024-07-14 13:34:12 +0000
+    time: 8：00 ～ 17：00
+    description: 練習試合　ＶＳサンボーイズ
+    location_text: 高嶺小学校
+  - date: 2024-07-21 13:34:12 +0000
     team: Ａ
-    time: 9：00 ～　試合開始
-    description: 小幡旗大会　2回戦　ＶＳドリームボーイズ
-    location_text: 新生公園
-  - date: 2024-07-13 05:33:18 +0000
+    time: 10：00 ～　１試合目　　13：30～　2試合目
+    description: 練習試合　ＶＳサンボーイズ
+    location_text: 高嶺小学校
+  - date: 2024-07-20 05:33:18 +0000
     team: C
     time: 8：30 ～ 16：30
-    description: ふれあいカップ　予選　ＶＳ南部スターズ
+    description: 練習
     location_text: 上郷コミュニティ
-  - date: 2024-07-13 13:38:57 +0000
+  - date: 2024-07-21 13:19:20 +0000
     team: Ｃ
-    time: "14：00 ～ "
-    description: ふれあいカップＣ　予選　ＶＳ南部スターズ
-    location_text: 上郷コミュニティ
-  - date: 2024-07-14 13:19:20 +0000
+    time: 7：30 ～ 16：30
+    description: チャレンジカップ　ＶＳ松平ニューボーイズ
+    location_text: 地域文化広場　※練習は南グランド
+  - date: 2024-07-21 13:25:14 +0000
     team: Ｃ
-    time: 8：00 ～ 16：30
-    description: 大島杯　ＶＳ旭丘スカイシャークス
-    location_text: 桜丘中　※練習は畝部小
-  - date: 2024-07-14 13:25:14 +0000
-    team: Ｃ
-    time: "14：00 ～ "
-    description: 大島杯　ＶＳ旭丘スカイシャークス
-    location_text: 桜丘中　※練習は畝部小
-  - date: 2024-07-13 00:48:24 +0000
+    time: "10：50 ～ "
+    description: チャレンジカップ　ＶＳ松平ニューボーイズ
+    location_text: 地域文化広場Ａグランド　※練習は南グランド
+  - date: 2024-07-20 00:48:24 +0000
     team: Jr.
     time: 7：30 ～ 12：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-07-14 00:48:24 +0000
+  - date: 2024-07-21 00:48:24 +0000
     team: Jr.
     time: 7：30 ～ 12：00
     description: 練習
