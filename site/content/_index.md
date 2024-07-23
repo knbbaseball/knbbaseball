@@ -37,12 +37,12 @@ schedule:
     time: "10：50 ～ "
     description: チャレンジカップ　ＶＳ松平ニューボーイズ
     location_text: 地域文化広場Ａグランド　※練習は南グランド
-  - date: 2024-07-20 00:48:24 +0000
+  - date: 2024-07-27 00:48:24 +0000
     team: Jr.
     time: 7：30 ～ 12：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-07-21 00:48:24 +0000
+  - date: 2024-07-28 00:48:24 +0000
     team: Jr.
     time: 7：30 ～ 12：00
     description: 練習
