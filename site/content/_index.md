@@ -7,36 +7,41 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-07-20 00:46:30 +0000
+  - date: 2024-07-27 00:46:30 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2024-07-21 13:30:53 +0000
+    time: 8：00 ～ 13：00
+    description: 練習試合　ＶＳ逢妻ファイターズ
+    location_text: 新生公園Ａ
+  - date: 2024-07-27 09:50:40 +0000
     team: Ａ
-    time: 8：00 ～ 17：00
-    description: 練習試合　ＶＳサンボーイズ
-    location_text: 高嶺小学校
-  - date: 2024-07-21 13:34:12 +0000
+    time: 10：30　～
+    description: 練習試合　ＶＳ逢妻ファイターズ
+    location_text: 新生公園Ａ
+  - date: 2024-07-28 13:30:53 +0000
     team: Ａ
-    time: 10：00 ～　１試合目　　13：30～　2試合目
-    description: 練習試合　ＶＳサンボーイズ
+    time: 12：00 ～ 17：00
+    description: 練習試合　ＶＳ南部スターズ
+    location_text: 高嶺小学校
+  - date: 2024-07-28 13:34:12 +0000
+    team: Ａ
+    time: 14：00 ～　
+    description: 練習試合　ＶＳ南部スターズ
     location_text: 高嶺小学校
   - date: 2024-07-20 05:33:18 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 上郷コミュニティ
-  - date: 2024-07-21 13:19:20 +0000
+  - date: 2024-07-27 13:19:20 +0000
     team: Ｃ
-    time: 7：30 ～ 16：30
-    description: チャレンジカップ　ＶＳ松平ニューボーイズ
-    location_text: 地域文化広場　※練習は南グランド
-  - date: 2024-07-21 13:25:14 +0000
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 上郷コミュニティ
+  - date: 2024-07-28 13:25:14 +0000
     team: Ｃ
-    time: "10：50 ～ "
-    description: チャレンジカップ　ＶＳ松平ニューボーイズ
-    location_text: 地域文化広場Ａグランド　※練習は南グランド
+    time: "7：30 ～ 13：00 "
+    description: 練習
+    location_text: 畝部小学校
   - date: 2024-07-27 00:48:24 +0000
     team: Jr.
     time: 7：30 ～ 12：00
