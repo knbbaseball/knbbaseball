@@ -27,11 +27,6 @@ schedule:
     time: 14：00 ～　
     description: 練習試合　ＶＳ南部スターズ
     location_text: 高嶺小学校
-  - date: 2024-07-20 05:33:18 +0000
-    team: C
-    time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 上郷コミュニティ
   - date: 2024-07-27 13:19:20 +0000
     team: Ｃ
     time: 8：30 ～ 16：30
