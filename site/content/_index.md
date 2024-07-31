@@ -12,29 +12,24 @@ schedule:
     time: 6：30 ～ 12：00
     description: 練習
     location_text: 上郷中学校
-  - date: 2024-08-03 09:50:40 +0000
-    team: Ｂ
-    time: 7：00　～　13：00
-    description: ふれあいカップＢチーム　ＶＳ青木グレード
-    location_text: 高嶺小学校
-  - date: 2024-08-03 13:30:53 +0000
-    team: Ｂ
-    time: "9：00 ～ "
-    description: ふれあいカップＢチーム　ＶＳ青木グレード
-    location_text: 高嶺小学校
   - date: 2024-08-04 13:34:12 +0000
     team: Ａ
     time: 7：30　～　13：00　　
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-07-27 13:19:20 +0000
+  - date: 2024-08-03 09:50:40 +0000
+    team: Ｂ（5年生、4年生）
+    time: 7：00　～　13：00
+    description: ふれあいカップＢチーム　ＶＳ青木グレード
+    location_text: 高嶺小学校
+  - date: 2024-08-03 13:30:53 +0000
+    team: Ｂ（5年生、4年生）
+    time: "9：00 ～ "
+    description: ふれあいカップＢチーム　ＶＳ青木グレード
+    location_text: 高嶺小学校
+  - date: 2024-08-04 13:19:20 +0000
     team: Ｃ
-    time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 上郷コミュニティ
-  - date: 2024-07-28 13:25:14 +0000
-    team: Ｃ
-    time: "7：30 ～ 13：00 "
+    time: 7：30 ～ 13：00
     description: 練習
     location_text: 畝部小学校
   - date: 2024-08-03 00:48:24 +0000
