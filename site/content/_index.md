@@ -36,7 +36,7 @@ schedule:
     team: Jr.
     time: 7：30 ～ 12：00
     description: 練習
-    location_text: 高嶺小学校
+    location_text: 上郷コミュニティ
   - date: 2024-08-04 00:48:24 +0000
     team: Jr.
     time: 7：20 ～ 12：30
