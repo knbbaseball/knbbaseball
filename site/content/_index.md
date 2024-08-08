@@ -7,46 +7,21 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-08-03 00:46:30 +0000
-    team: A（6年生）
-    time: 6：30 ～ 12：00
-    description: 練習
-    location_text: 上郷中学校
-  - date: 2024-08-04 13:34:12 +0000
-    team: Ａ
-    time: 7：30　～　13：00　　
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2024-08-03 09:50:40 +0000
-    team: Ｂ（5年生、4年生）
-    time: 7：00　～　13：00
-    description: ふれあいカップＢチーム　ＶＳ青木グレード
-    location_text: 高嶺小学校
-  - date: 2024-08-03 13:30:53 +0000
-    team: Ｂ（5年生、4年生）
-    time: "9：00 ～ "
-    description: ふれあいカップＢチーム　ＶＳ青木グレード
-    location_text: 高嶺小学校
-  - date: 2024-08-04 13:19:20 +0000
-    team: Ｃ
+  - date: 2024-08-10 00:46:30 +0000
+    team: A
     time: 7：30 ～ 13：00
     description: 練習
-    location_text: 畝部小学校
-  - date: 2024-08-03 00:48:24 +0000
-    team: Jr.
-    time: 7：30 ～ 12：00
-    description: 練習
-    location_text: 上郷コミュニティ
-  - date: 2024-08-04 00:48:24 +0000
-    team: Jr.
-    time: 7：20 ～ 12：30
-    description: 練習試合
-    location_text: 愛宕小学校
-  - date: 2024-08-04 09:56:45 +0000
-    team: Jr.
-    time: 10：15　～
-    description: 練習試合
-    location_text: 愛宕小学校
+    location_text: 南グラウンド
+  - date: 2024-08-10 13:19:20 +0000
+    team: Ｃ
+    time: 11：00 ～ 16：20
+    description: 大島杯　ＶＳ　效範少年
+    location_text: 效範小学校
+  - date: 2024-08-10 00:48:24 +0000
+    team: Ｃ
+    time: "14：00 ～ "
+    description: 大島杯　ＶＳ效範少年
+    location_text: 效範小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
