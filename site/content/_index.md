@@ -7,21 +7,41 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-08-10 00:46:30 +0000
+  - date: 2024-08-17 00:46:30 +0000
     team: A
     time: 7：30 ～ 13：00
     description: 練習
-    location_text: 南グラウンド
-  - date: 2024-08-10 13:19:20 +0000
+    location_text: 高嶺小学校
+  - date: 2024-08-18 07:16:04 +0000
+    team: Ａ
+    time: 7：30 ～ 13：00
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2024-08-17 13:19:20 +0000
     team: Ｃ
-    time: 11：00 ～ 16：20
-    description: 大島杯　ＶＳ　效範少年
-    location_text: 效範小学校
-  - date: 2024-08-10 00:48:24 +0000
+    time: 7：30 ～ 13：00
+    description: 練習
+    location_text: 上郷コミュニティ
+  - date: 2024-08-18 00:48:24 +0000
     team: Ｃ
-    time: "14：00 ～ "
-    description: 大島杯　ＶＳ效範少年
-    location_text: 效範小学校
+    time: 7：30 ～ 13：00
+    description: 大島杯　ＶＳ　平針ＨＢＣ
+    location_text: 南グランド
+  - date: 2024-08-18 07:19:36 +0000
+    team: Ｃ
+    time: 10：00　～
+    description: 大島杯　ＶＳ　平針ＨＢＣ
+    location_text: 南グランド
+  - date: 2024-08-17 07:20:38 +0000
+    team: Ｊｒ
+    time: 7：30　～　12：00
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2024-08-18 07:21:39 +0000
+    team: Ｊｒ
+    time: 7：30　～　12：00
+    description: 練習
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
