@@ -35,12 +35,12 @@ schedule:
   - date: 2024-08-25 08:40:28 +0000
     team: Ｃ
     time: 7：00　～　13：00
-    description: 練習試合　ＶＳレッドスターズ
+    description: チャレンジカップ　ＶＳレッドスターズ
     location_text: 新生グランド　Ａ面
   - date: 2024-08-25 08:46:17 +0000
     team: Ｃ
     time: 9：00　～
-    description: 練習試合　ＶＳレッドスターズ
+    description: チャレンジカップ　ＶＳレッドスターズ
     location_text: 新生グランド　Ａ面
   - date: 2024-08-24 07:20:38 +0000
     team: Ｊｒ
