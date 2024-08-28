@@ -7,47 +7,37 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-08-24 08:34:53 +0000
+  - date: 2024-08-31 08:34:53 +0000
     team: Ａ
-    time: 8：00　～　12：30
-    description: 豊田ヤング体験会
-    location_text: 勘八グランド
-  - date: 2024-08-25 08:37:23 +0000
+    time: 7：30　～　12：00
+    description: 練習※レッドクルーザーズ今井選手参加予定
+    location_text: 高嶺小学校
+  - date: 2024-09-01 08:37:23 +0000
     team: Ａ
     time: 7：30　～　13：00
-    description: ふれあいカップＡチーム予選ＶＳ竜神ＪＢＣ
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2024-08-25 08:39:23 +0000
-    team: Ａ
-    time: 10：00 ～　試合開始
-    description: ふれあいカップＡチーム予選ＶＳ竜神ＪＢＣ
-    location_text: 高嶺小学校
-  - date: 2024-08-24 13:19:20 +0000
+  - date: 2024-09-01 13:19:20 +0000
     team: B
-    time: 7：30 ～ 13：00
-    description: ふれあいカップＢチーム予選　ＶＳ沓掛イーグルス
-    location_text: 高嶺小学校
-  - date: 2024-08-24 00:48:24 +0000
+    time: 7：45 ～ 16：30
+    description: 新人戦開会式及び　１回戦ＶＳ豊田サンボーイズ
+    location_text: 豊田市運動公園　開会式：ソフトボール場　試合会場：多目的広場Ｃ面
+  - date: 2024-09-01 00:48:24 +0000
     team: Ｂ
-    time: "9：30 ～ "
-    description: ふれあいカップＢチーム予選　ＶＳ沓掛イーグルス
-    location_text: 高嶺小学校
-  - date: 2024-08-25 08:40:28 +0000
+    time: "13：00 ～ "
+    description: 新人戦　ＶＳ豊田サンボーイズ
+    location_text: 豊田市運動公園多目的広場Ｃ面
+  - date: 2024-08-31 08:40:28 +0000
     team: Ｃ
-    time: 7：00　～　13：00
-    description: チャレンジカップ　ＶＳレッドスターズ
-    location_text: 新生グランド　Ａ面
-  - date: 2024-08-25 08:46:17 +0000
-    team: Ｃ
-    time: 9：00　～
-    description: チャレンジカップ　ＶＳレッドスターズ
-    location_text: 新生グランド　Ａ面
-  - date: 2024-08-24 07:20:38 +0000
+    time: 7：30　～　13：00
+    description: 練習
+    location_text: 上郷コミュニティ
+  - date: 2024-08-31 07:20:38 +0000
     team: Ｊｒ
     time: 7：30　～　12：00
     description: 練習
-    location_text: 上郷コミュニティ
-  - date: 2024-08-25 07:21:39 +0000
+    location_text: 高嶺小学校
+  - date: 2024-09-01 07:21:39 +0000
     team: Ｊｒ
     time: 7：30　～　12：00
     description: 練習
