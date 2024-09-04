@@ -7,31 +7,51 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-08-31 08:34:53 +0000
-    team: Ａ
-    time: 7：30　～　12：00
-    description: 練習※レッドクルーザーズ今井選手参加予定
-    location_text: 高嶺小学校
-  - date: 2024-09-01 08:37:23 +0000
+  - date: 2024-09-07 08:34:53 +0000
     team: Ａ
     time: 7：30　～　13：00
-    description: 練習
+    description: 東海団地　秋季大会　ＶＳ篠木スターズ
     location_text: 高嶺小学校
-  - date: 2024-09-01 13:19:20 +0000
-    team: B
-    time: 7：45 ～ 16：30
-    description: 新人戦開会式及び　１回戦ＶＳ豊田サンボーイズ
-    location_text: 豊田市運動公園　開会式：ソフトボール場　試合会場：多目的広場Ｃ面
-  - date: 2024-09-01 00:48:24 +0000
+  - date: 2024-09-07 08:37:23 +0000
+    team: Ａ
+    time: 9：00　～　
+    description: 東海団地　秋季大会　ＶＳ篠木スターズ
+    location_text: 高嶺小学校
+  - date: 2024-09-08 13:19:20 +0000
+    team: Ａ
+    time: 8：30 ～ 16：00
+    description: Ｂチーム新人戦試合観戦～ふれあいカップＡチーム予選ＶＳ竜神ＪＢＣ
+    location_text: ふれあいカップ　高嶺小学校
+  - date: 2024-09-08 00:48:24 +0000
+    team: Ａ
+    time: "14：00 ～ "
+    description: ふれあいカップＡチーム予選　ＶＳ竜神ＪＢＣ
+    location_text: 高嶺小学校
+  - date: 2024-09-08 09:51:28 +0000
     team: Ｂ
-    time: "13：00 ～ "
-    description: 新人戦　ＶＳ豊田サンボーイズ
-    location_text: 豊田市運動公園多目的広場Ｃ面
-  - date: 2024-08-31 08:40:28 +0000
+    time: 7：00　～　
+    description: 新人戦　一回戦　ＶＳ　豊田サンボーイズ
+    location_text: 地域文化広場Ａ面　※7：00高嶺小集合
+  - date: 2024-09-08 09:53:12 +0000
+    team: Ｂ
+    time: 9：00　～
+    description: 新人戦　一回戦　ＶＳ　豊田サンボーイズ
+    location_text: 地域文化広場Ａ面
+  - date: 2024-09-07 08:40:28 +0000
     team: Ｃ
-    time: 7：30　～　13：00
-    description: 練習
-    location_text: 上郷コミュニティ
+    time: 8：30　～　16：30
+    description: 大島洋平杯　ＶＳ富士シャーク
+    location_text: 幸心グランド
+  - date: 2024-09-07 09:55:54 +0000
+    team: Ｃ
+    time: 14：00　～
+    description: 大島洋平杯　ＶＳ富士シャーク
+    location_text: 幸心グランド
+  - date: 2024-09-08 09:58:56 +0000
+    team: Ｃ
+    time: 7：00　～　16：30
+    description: Ｂチーム新人戦　～　練習
+    location_text: 練習は畝部小学校　※7：00高嶺小集合
   - date: 2024-08-31 07:20:38 +0000
     team: Ｊｒ
     time: 7：30　～　12：00
