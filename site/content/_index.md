@@ -54,7 +54,7 @@ schedule:
     location_text: 練習は畝部小学校　※7：00高嶺小集合
   - date: 2024-09-07 07:20:38 +0000
     team: Ｊｒ
-    time: 7：30　～　12：00
+    time: 11：30　～　16：30
     description: 練習
     location_text: 高嶺小学校
   - date: 2024-09-08 07:21:39 +0000
