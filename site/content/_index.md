@@ -7,59 +7,59 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-09-07 08:34:53 +0000
+  - date: 2024-09-14 08:34:53 +0000
     team: Ａ
-    time: 7：30　～　13：00
-    description: 東海団地　秋季大会　ＶＳ篠木スターズ
+    time: 8：30　～　17：00
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2024-09-07 08:37:23 +0000
+  - date: 2024-09-15 08:37:23 +0000
     team: Ａ
-    time: 9：00　～　
-    description: 東海団地　秋季大会　ＶＳ篠木スターズ
+    time: 8：00　～　17：00
+    description: ふれあいカップＡチーム予選　ＶＳ隼ガーディアンズ
     location_text: 高嶺小学校
-  - date: 2024-09-08 13:19:20 +0000
+  - date: 2024-09-15 13:19:20 +0000
     team: Ａ
-    time: 8：30 ～ 16：00
-    description: Ｂチーム新人戦試合観戦～ふれあいカップＡチーム予選ＶＳ竜神ＪＢＣ
-    location_text: ふれあいカップ　高嶺小学校
-  - date: 2024-09-08 00:48:24 +0000
-    team: Ａ
-    time: "14：00 ～ "
-    description: ふれあいカップＡチーム予選　ＶＳ竜神ＪＢＣ
+    time: "10：00 ～ "
+    description: ふれあいカップＡチーム予選　ＶＳ隼ガーディアンズ
     location_text: 高嶺小学校
-  - date: 2024-09-08 09:51:28 +0000
+  - date: 2024-09-15 09:51:28 +0000
     team: Ｂ
-    time: 7：00　～　
-    description: 新人戦　一回戦　ＶＳ　豊田サンボーイズ
-    location_text: 地域文化広場Ａ面　※7：00高嶺小集合
-  - date: 2024-09-08 09:53:12 +0000
-    team: Ｂ
-    time: 9：00　～
-    description: 新人戦　一回戦　ＶＳ　豊田サンボーイズ
-    location_text: 地域文化広場Ａ面
-  - date: 2024-09-07 08:40:28 +0000
+    time: 14：00　～　
+    description: ふれあいカップＢチーム予選　ＶＳ矢南アローズ
+    location_text: 高嶺小学校
+  - date: 2024-09-14 08:40:28 +0000
     team: Ｃ
-    time: 8：30　～　16：30
-    description: 大島洋平杯　ＶＳ富士シャーク
-    location_text: 幸心グランド
-  - date: 2024-09-07 09:55:54 +0000
+    time: 7：30　～　16：30
+    description: 大島洋平杯　ＶＳ大須パンサーズ
+    location_text: 上郷コミュニティ
+  - date: 2024-09-15 09:55:54 +0000
     team: Ｃ
-    time: 14：00　～
-    description: 大島洋平杯　ＶＳ富士シャーク
-    location_text: 幸心グランド
-  - date: 2024-09-08 09:58:56 +0000
+    time: 10：30　～
+    description: 大島洋平杯　ＶＳ大須パンサーズ
+    location_text: 上郷コミュニティ
+  - date: 2024-09-15 09:58:56 +0000
     team: Ｃ
-    time: 7：00　～　16：30
-    description: Ｂチーム新人戦　～　練習
-    location_text: 練習は畝部小学校　※7：00高嶺小集合
-  - date: 2024-09-07 07:20:38 +0000
+    time: 8：00　～　16：30
+    description: 練習　～　ふれあいカップＢチーム予選　ＶＳ矢南アローズ
+    location_text: 練習は畝部小学校　ふれあいカップＢは高嶺小学校へ移動
+  - date: 2024-09-14 07:20:38 +0000
     team: Ｊｒ
     time: 11：30　～　16：30
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-09-08 07:21:39 +0000
+  - date: 2024-09-15 07:21:39 +0000
     team: Ｊｒ
-    time: 7：30　～　12：00
+    time: 11：00　～　16：00
+    description: ふれあいカップＤチーム予選　ＶＳ日進ベストドリーム
+    location_text: 寿恵野小学校
+  - date: 2024-09-15 08:55:06 +0000
+    team: Ｊｒ
+    time: 14：00　～
+    description: ふれあいカップＤチーム予選　ＶＳ日進ベストドリーム
+    location_text: 寿恵野小学校
+  - date: 2024-09-15 08:56:22 +0000
+    team: Ｊｒ育成
+    time: 9：00　～　12：00
     description: 練習
     location_text: 寿恵野小学校
 info:
