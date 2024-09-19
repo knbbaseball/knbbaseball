@@ -7,59 +7,54 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-09-14 08:34:53 +0000
+  - date: 2024-09-21 08:34:53 +0000
     team: Ａ
     time: 8：30　～　17：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-09-15 08:37:23 +0000
+  - date: 2024-09-22 08:37:23 +0000
     team: Ａ
-    time: 8：00　～　17：00
-    description: ふれあいカップＡチーム予選　ＶＳ隼ガーディアンズ
-    location_text: 高嶺小学校
+    time: 8：30　～　17：00
+    description: ミズノワイズ杯　ＶＳ衣浦クラブ　※ＡＭは練習
+    location_text: 旭丘グランド　※練習は高嶺小学校
   - date: 2024-09-15 13:19:20 +0000
     team: Ａ
-    time: "10：00 ～ "
-    description: ふれあいカップＡチーム予選　ＶＳ隼ガーディアンズ
-    location_text: 高嶺小学校
-  - date: 2024-09-15 09:51:28 +0000
-    team: Ｂ
-    time: 14：00　～　
-    description: ふれあいカップＢチーム予選　ＶＳ矢南アローズ
-    location_text: 高嶺小学校
-  - date: 2024-09-14 08:40:28 +0000
-    team: Ｃ
-    time: 7：30　～　16：30
-    description: 大島洋平杯　ＶＳ大須パンサーズ
-    location_text: 上郷コミュニティ
-  - date: 2024-09-15 09:55:54 +0000
-    team: Ｃ
-    time: 10：30　～
-    description: 大島洋平杯　ＶＳ大須パンサーズ
-    location_text: 上郷コミュニティ
-  - date: 2024-09-15 09:58:56 +0000
+    time: "14：30 ～ "
+    description: ミズノワイズ杯　ＶＳ衣浦クラブ
+    location_text: 旭丘グランド
+  - date: 2024-09-21 08:40:28 +0000
     team: Ｃ
     time: 8：00　～　16：30
-    description: 練習　～　ふれあいカップＢチーム予選　ＶＳ矢南アローズ
-    location_text: 練習は畝部小学校　ふれあいカップＢは高嶺小学校へ移動
-  - date: 2024-09-14 07:20:38 +0000
+    description: ＡＭ：大島洋平杯　ＶＳ春日井オルティーズ　　ＰＭ：練習試合ＶＳ市木フェニックス
+    location_text: ＡＭ：熊野グランド　　ＰＭ：上郷コミュニティ
+  - date: 2024-09-21 09:55:54 +0000
+    team: Ｃ
+    time: 10：30　～
+    description: 大島洋平杯　ＶＳ春日井オルティーズ
+    location_text: 熊野グランド
+  - date: 2024-09-21 09:58:56 +0000
+    team: Ｃ
+    time: 14：30　～　
+    description: 練習試合　ＶＳ　市木フェニックス
+    location_text: 上郷コミュニティ
+  - date: 2024-09-22 10:03:24 +0000
+    team: Ｃ
+    time: 7：00　～　16：30
+    description: チャレンジカップ　　　ＶＳ　藤岡ＪＢＣ・豊田スピリッツ合同チーム
+    location_text: 足助グランド
+  - date: 2024-09-22 10:06:58 +0000
+    team: Ｃ
+    time: 10：30　～
+    description: チャレンジカップ　　　ＶＳ　藤岡ＪＢＣ・豊田スピリッツ合同チーム
+    location_text: 足助グランド
+  - date: 2024-09-21 07:20:38 +0000
     team: Ｊｒ
-    time: 11：30　～　16：30
+    time: 7：30　～　12：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-09-15 07:21:39 +0000
+  - date: 2024-09-22 07:21:39 +0000
     team: Ｊｒ
-    time: 11：00　～　16：00
-    description: ふれあいカップＤチーム予選　ＶＳ日進ベストドリーム
-    location_text: 寿恵野小学校
-  - date: 2024-09-15 08:55:06 +0000
-    team: Ｊｒ
-    time: 14：00　～
-    description: ふれあいカップＤチーム予選　ＶＳ日進ベストドリーム
-    location_text: 寿恵野小学校
-  - date: 2024-09-15 08:56:22 +0000
-    team: Ｊｒ育成
-    time: 9：00　～　12：00
+    time: 7：30　～　12：00
     description: 練習
     location_text: 寿恵野小学校
 info:
