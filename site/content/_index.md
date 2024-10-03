@@ -7,49 +7,79 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-09-28 08:34:53 +0000
+  - date: 2024-10-05 08:34:53 +0000
     team: Ａ
     time: 8：30　～　17：00
-    description: 練習  ※ＡＭトヨタレッドクルーザーズ今井さん参加
+    description: 東海団地秋季大会　ＶＳ高蔵寺ユナイテッドＢＣ
     location_text: 高嶺小学校
-  - date: 2024-09-29 08:37:23 +0000
+  - date: 2024-10-05 08:37:23 +0000
     team: Ａ
-    time: 8：00　～　17：00
-    description: 練習
+    time: 14：00　～　
+    description: 東海団地秋季大会　ＶＳ高蔵寺ユナイテッドＢＣ
     location_text: 高嶺小学校
-  - date: 2024-09-29 13:50:38 +0000
+  - date: 2024-10-06 13:50:38 +0000
+    team: Ａ
+    time: 7：20　～　17：00
+    description: ＡＭ：ＪＢＬＡミズノワイズ杯　ＶＳ衣浦クラブ
+    location_text: 旭丘グランド
+  - date: 2024-10-06 13:19:20 +0000
+    team: Ａ
+    time: 9：00 ～　
+    description: ＪＢＬＡミズノワイズ杯　ＶＳ衣浦クラブ
+    location_text: 旭丘グランド
+  - date: 2024-10-06 13:57:17 +0000
     team: Ｂ
-    time: 8：00　～　12：00
-    description: ふれあいカップＢチーム予選　ＶＳ矢南アローズ
-    location_text: 高嶺小学校
-  - date: 2024-09-29 13:19:20 +0000
+    time: 11：30　～　17：00
+    description: ふれあいカップ　予選　ＶＳ高橋ファイターズ
+    location_text: 東山小学校
+  - date: 2024-10-06 08:40:28 +0000
     team: Ｂ
-    time: 10：00 ～　
-    description: ふれあいカップＢチーム予選　ＶＳ矢南アローズ
-    location_text: 高嶺小学校
-  - date: 2024-09-28 13:57:17 +0000
+    time: 14：15　～　
+    description: ＰＭふれあいカップ　予選　ＶＳ高橋ファイターズ
+    location_text: 東山小学校　
+  - date: 2024-10-05 07:20:38 +0000
     team: Ｃ
-    time: 8：30　～　16：30
-    description: 練習
-    location_text: 上郷コミュニティ
-  - date: 2024-09-29 08:40:28 +0000
+    time: 7：30　～　16：30
+    description: ふれあいカップ予選　ＶＳ　山之手少年野球クラブ
+    location_text: 南グランド
+  - date: 2024-10-05 07:21:39 +0000
     team: Ｃ
-    time: 12：00　～　16：30
-    description: 練習
-    location_text: 畝部小学校　※ＡＭはＢチームで活動
-  - date: 2024-09-28 07:20:38 +0000
-    team: Ｊｒ
-    time: 7：30　～　12：00
-    description: 練習試合　ＶＳ　逢妻ファイターズ
-    location_text: 寿恵野小学校
-  - date: 2024-09-28 07:21:39 +0000
-    team: Ｊｒ
     time: 10：00　～　
-    description: 練習試合　ＶＳ　逢妻ファイターズ
-    location_text: 寿恵野小学校
-  - date: 2024-09-29 13:55:08 +0000
+    description: ふれあいカップ予選　ＶＳ　山之手少年野球クラブ
+    location_text: 南グランド
+  - date: 2024-10-06 13:55:08 +0000
+    team: Ｃ
+    time: 8：30　～　12：30
+    description: 練習　※12：30よりＢチームで活動
+    location_text: 南グランド
+  - date: 2024-10-05 08:12:06 +0000
     team: Ｊｒ
-    time: 8：00　～　12：30
+    time: 7：30　～　12：30
+    description: ふれあいカップ予選　ＶＳ青木グレード
+    location_text: 寿恵野小学校
+  - date: 2024-10-05 08:12:17 +0000
+    team: Ｊｒ
+    time: 10：30　～
+    description: ふれあいカップ予選　ＶＳ青木グレード
+    location_text: 寿恵野小学校
+  - date: 2024-10-06 08:12:17 +0000
+    team: Ｊｒ
+    time: 7：30　～　12：30
+    description: ふれあいカップ予選　ＶＳ日進ベストドリーム
+    location_text: 寿恵野小学校
+  - date: 2024-10-06 08:12:18 +0000
+    team: Ｊｒ
+    time: 10：30　～
+    description: ふれあいカップ予選　ＶＳ日進ベストドリーム
+    location_text: 寿恵野小学校
+  - date: 2024-10-05 08:17:41 +0000
+    team: 育成
+    time: 9：00　～　12：00
+    description: 練習
+    location_text: 寿恵野小学校
+  - date: 2024-10-06 08:17:42 +0000
+    team: 育成
+    time: 9：00　～　12：00
     description: 練習
     location_text: 寿恵野小学校
 info:
