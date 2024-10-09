@@ -37,41 +37,41 @@ schedule:
     time: 14：15　～　
     description: ＰＭふれあいカップ　予選　ＶＳ高橋ファイターズ
     location_text: 東山小学校　
-  - date: 2024-10-05 07:20:38 +0000
+  - date: 2024-10-12 07:20:38 +0000
     team: Ｃ
-    time: 7：30　～　16：30
-    description: ふれあいカップ予選　ＶＳ　山之手少年野球クラブ
+    time: 8：30　～　13：00
+    description: 練習
     location_text: 南グランド
-  - date: 2024-10-05 07:21:39 +0000
+  - date: 2024-10-13 07:21:39 +0000
     team: Ｃ
-    time: 10：00　～　
-    description: ふれあいカップ予選　ＶＳ　山之手少年野球クラブ
-    location_text: 南グランド
-  - date: 2024-10-06 13:55:08 +0000
+    time: 8：30　～　16：30　
+    description: ふれあいカップ予選　ＶＳ　逢妻ファイターズ
+    location_text: 寿恵野小学校
+  - date: 2024-10-13 13:55:08 +0000
     team: Ｃ
-    time: 8：30　～　12：30
-    description: 練習　※12：30よりＢチームで活動
-    location_text: 南グランド
-  - date: 2024-10-05 08:12:06 +0000
-    team: Ｊｒ
-    time: 7：30　～　12：30
-    description: ふれあいカップ予選　ＶＳ青木グレード
+    time: 14：30　～　
+    description: ふれあいカップ予選　ＶＳ　逢妻ファイターズ
     location_text: 寿恵野小学校
-  - date: 2024-10-05 08:12:17 +0000
+  - date: 2024-10-12 08:12:06 +0000
     team: Ｊｒ
-    time: 10：30　～
-    description: ふれあいカップ予選　ＶＳ青木グレード
-    location_text: 寿恵野小学校
-  - date: 2024-10-06 08:12:17 +0000
+    time: 7：30　～　12：00
+    description: ふれあいカップ予選　ＶＳ豊田レッドスターズ
+    location_text: 上郷コミュニティ
+  - date: 2024-10-12 08:12:17 +0000
     team: Ｊｒ
-    time: 7：30　～　12：30
-    description: ふれあいカップ予選　ＶＳ日進ベストドリーム
-    location_text: 寿恵野小学校
-  - date: 2024-10-06 08:12:18 +0000
+    time: 10：00　～
+    description: ふれあいカップ予選　ＶＳ豊田レッドスターズ
+    location_text: 上郷コミュニティ
+  - date: 2024-10-13 08:12:17 +0000
     team: Ｊｒ
-    time: 10：30　～
-    description: ふれあいカップ予選　ＶＳ日進ベストドリーム
-    location_text: 寿恵野小学校
+    time: 11：30　～　16：30
+    description: ふれあいカップ予選　ＶＳ東郷ファイヤーズ
+    location_text: 東グランド
+  - date: 2024-10-13 08:12:18 +0000
+    team: Ｊｒ
+    time: 14：30　～
+    description: ふれあいカップ予選　ＶＳ東郷ファイヤーズ
+    location_text: 東グランド
   - date: 2024-10-05 08:17:41 +0000
     team: 育成
     time: 9：00　～　12：00
