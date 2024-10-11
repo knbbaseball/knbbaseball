@@ -7,36 +7,26 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-10-05 08:34:53 +0000
+  - date: 2024-10-12 08:34:53 +0000
+    team: Ａ
+    time: 7：30　～　12：30
+    description: ふれあいカップ予選　ＶＳ隼ガーディアンズ
+    location_text: 高嶺小学校
+  - date: 2024-10-12 08:37:23 +0000
+    team: Ａ
+    time: 9：30　～　
+    description: ふれあいカップ予選　ＶＳ隼ガーディアンズ
+    location_text: 高嶺小学校
+  - date: 2024-10-13 13:50:38 +0000
     team: Ａ
     time: 8：30　～　17：00
-    description: 東海団地秋季大会　ＶＳ高蔵寺ユナイテッドＢＣ
-    location_text: 高嶺小学校
-  - date: 2024-10-05 08:37:23 +0000
+    description: ＪＢＬＡミズノワイズ杯　ＶＳ衣浦クラブ
+    location_text: 晴丘グランド
+  - date: 2024-10-13 13:19:20 +0000
     team: Ａ
-    time: 14：00　～　
-    description: 東海団地秋季大会　ＶＳ高蔵寺ユナイテッドＢＣ
-    location_text: 高嶺小学校
-  - date: 2024-10-06 13:50:38 +0000
-    team: Ａ
-    time: 7：20　～　17：00
-    description: ＡＭ：ＪＢＬＡミズノワイズ杯　ＶＳ衣浦クラブ
-    location_text: 旭丘グランド
-  - date: 2024-10-06 13:19:20 +0000
-    team: Ａ
-    time: 9：00 ～　
+    time: 14：30 ～　
     description: ＪＢＬＡミズノワイズ杯　ＶＳ衣浦クラブ
     location_text: 旭丘グランド
-  - date: 2024-10-06 13:57:17 +0000
-    team: Ｂ
-    time: 11：30　～　17：00
-    description: ふれあいカップ　予選　ＶＳ高橋ファイターズ
-    location_text: 東山小学校
-  - date: 2024-10-06 08:40:28 +0000
-    team: Ｂ
-    time: 14：15　～　
-    description: ＰＭふれあいカップ　予選　ＶＳ高橋ファイターズ
-    location_text: 東山小学校　
   - date: 2024-10-12 07:20:38 +0000
     team: Ｃ
     time: 8：30　～　13：00
