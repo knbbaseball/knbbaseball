@@ -7,71 +7,61 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-10-19 08:34:53 +0000
+  - date: 2024-10-26 08:34:53 +0000
     team: Ａ
     time: 8：30　～　17：00
-    description: 南部大会　1回戦　ＶＳファイヤーボーイズ
-    location_text: 柳ヶ瀬公園　※練習は上郷コミュニティ
-  - date: 2024-10-19 08:37:23 +0000
+    description: 練習
+    location_text: 上郷コミュニティ
+  - date: 2024-10-27 13:50:38 +0000
     team: Ａ
-    time: 14：30　～　
-    description: 南部大会　1回戦　ＶＳファイヤーボーイズ
-    location_text: 柳ヶ瀬公園
-  - date: 2024-10-20 13:50:38 +0000
+    time: 8：30　～　17：00
+    description: 秋季大会　1回戦　ＶＳ飯野ファイターズ
+    location_text: 柳ヶ瀬公園　※練習は南グランド
+  - date: 2024-10-27 13:19:20 +0000
     team: Ａ
-    time: 7：15　～　17：00
-    description: ＪＢＬＡミズノワイズ杯2回戦　ＶＳ東海中央ジュニア
-    location_text: 旭丘グランド　※練習は南グランド
-  - date: 2024-10-20 13:19:20 +0000
-    team: Ａ
-    time: 10：45 ～　
-    description: ＪＢＬＡミズノワイズ杯2回戦　ＶＳ東海中央ジュニア
-    location_text: 旭丘グランド
-  - date: 2024-10-20 07:20:38 +0000
-    team: Ｂ
-    time: 13：30　～　17：00
-    description: ふれあいカップ予選　ＶＳ崇化館ＪＢＣ
-    location_text: 南グランド
-  - date: 2024-10-20 07:21:39 +0000
-    team: Ｂ
-    time: 15：00　～　　
-    description: ふれあいカップ予選　ＶＳ崇化館ＪＢＣ
-    location_text: 南グランド
-  - date: 2024-10-19 13:55:08 +0000
+    time: 12：40～　
+    description: 秋季大会　1回戦　ＶＳ飯野ファイターズ
+    location_text: 柳ヶ瀬公園　※練習は南グランド
+  - date: 2024-10-26 07:21:39 +0000
+    team: Ｃ
+    time: 8：30　～　16：30
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2024-10-27 13:55:08 +0000
     team: Ｃ
     time: 8：30　～　16：30　
-    description: 練習
-    location_text: 寿恵野小学校
-  - date: 2024-10-20 08:12:06 +0000
+    description: チャレンジカップ　ＶＳ逢妻ファイターズ
+    location_text: 柳ヶ瀬児童球場
+  - date: 2024-10-27 08:12:06 +0000
     team: Ｃ
-    time: 8：30　～　12：00
-    description: 練習　※午後～Ｂチームで活動
-    location_text: 南グランド
-  - date: 2024-10-19 08:12:17 +0000
+    time: 14：30　～　
+    description: チャレンジカップ　ＶＳ逢妻ファイターズ
+    location_text: 柳ヶ瀬児童球場
+  - date: 2024-10-26 08:12:17 +0000
     team: Ｊｒ
-    time: 7：30　～　12：00
+    time: 12：00　～　16：30
     description: 練習
-    location_text: 東グランド
-  - date: 2024-10-20 08:12:17 +0000
-    team: Ｊｒ
-    time: 7：30　～　13：00
-    description: ふれあいカップ予選　ＶＳ南部スターズ
     location_text: 寿恵野小学校
-  - date: 2024-10-13 08:12:18 +0000
+  - date: 2024-10-27 08:12:17 +0000
+    team: Ｊｒ
+    time: 7：15　～　13：00
+    description: 練習試合　ＶＳ堤スターズ
+    location_text: 西岡ふれあい公園
+  - date: 2024-10-27 08:12:18 +0000
     team: Ｊｒ
     time: 10：30　～
-    description: ふれあいカップ予選　ＶＳ南部スターズ
-    location_text: 寿恵野小学校
-  - date: 2024-10-19 08:17:41 +0000
+    description: 練習試合　ＶＳ堤スターズ
+    location_text: 西岡ふれあい公園
+  - date: 2024-10-26 08:17:41 +0000
     team: 育成
-    time: 7：30　～　12：00
-    description: 練習
-    location_text: 東グランド
-  - date: 2024-10-20 08:17:42 +0000
-    team: 育成
-    time: 12：00　～　16：00
+    time: 12：00　～　16：30
     description: 練習
     location_text: 寿恵野小学校
+  - date: 2024-10-27 08:17:42 +0000
+    team: 育成
+    time: 14：00　～　16：30
+    description: 練習
+    location_text: 上和会ふれあい広場
 info:
   title: 一緒に野球やろうよ！！
   content: |-
