@@ -7,61 +7,56 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-10-26 08:34:53 +0000
+  - date: 2024-11-02 08:34:53 +0000
     team: Ａ
     time: 8：30　～　17：00
     description: 練習
     location_text: 上郷コミュニティ
-  - date: 2024-10-27 13:50:38 +0000
+  - date: 2024-11-03 13:50:38 +0000
     team: Ａ
     time: 8：30　～　17：00
-    description: 秋季大会　1回戦　ＶＳ飯野ファイターズ
-    location_text: 柳ヶ瀬公園　※練習は南グランド
-  - date: 2024-10-27 13:19:20 +0000
+    description: 秋季大会　2回戦　ＶＳ青木グレード
+    location_text: 柳ヶ瀬公園　※練習は高嶺小学校
+  - date: 2024-11-03 13:19:20 +0000
     team: Ａ
     time: 12：40～　
-    description: 秋季大会　1回戦　ＶＳ飯野ファイターズ
-    location_text: 柳ヶ瀬公園　※練習は南グランド
-  - date: 2024-10-26 07:21:39 +0000
+    description: 秋季大会　2回戦　ＶＳ青木グレード
+    location_text: 柳ヶ瀬公園　※練習は高嶺小学校
+  - date: 2024-11-02 07:21:39 +0000
     team: Ｃ
-    time: 8：30　～　16：30
+    time: 8：00　～　16：30
+    description: 練習　10時～野球体験会
+    location_text: 高嶺小学校
+  - date: 2024-11-03 13:55:08 +0000
+    team: Ｃ
+    time: 8：00　～　16：30　
     description: 練習
     location_text: 畝部小学校
-  - date: 2024-10-27 13:55:08 +0000
-    team: Ｃ
-    time: 8：30　～　16：30　
-    description: チャレンジカップ　ＶＳ逢妻ファイターズ
-    location_text: 柳ヶ瀬児童球場
   - date: 2024-10-27 08:12:06 +0000
     team: Ｃ
     time: 14：30　～　
     description: チャレンジカップ　ＶＳ逢妻ファイターズ
     location_text: 柳ヶ瀬児童球場
-  - date: 2024-10-26 08:12:17 +0000
+  - date: 2024-11-02 08:12:17 +0000
     team: Ｊｒ
-    time: 12：00　～　16：30
+    time: 8：00　～　13：00
+    description: 練習　　10時～野球体験会
+    location_text: 高嶺小学校
+  - date: 2024-11-03 08:12:17 +0000
+    team: Ｊｒ
+    time: 8：00　～　12：00
     description: 練習
-    location_text: 寿恵野小学校
-  - date: 2024-10-27 08:12:17 +0000
-    team: Ｊｒ
-    time: 7：15　～　13：00
-    description: 練習試合　ＶＳ堤スターズ
-    location_text: 西岡ふれあい公園
+    location_text: 高嶺小学校
   - date: 2024-10-27 08:12:18 +0000
     team: Ｊｒ
     time: 10：30　～
     description: 練習試合　ＶＳ堤スターズ
     location_text: 西岡ふれあい公園
-  - date: 2024-10-26 08:17:41 +0000
+  - date: 2024-11-03 08:17:42 +0000
     team: 育成
-    time: 12：00　～　16：30
+    time: 8：00　～　12：00
     description: 練習
-    location_text: 寿恵野小学校
-  - date: 2024-10-27 08:17:42 +0000
-    team: 育成
-    time: 14：00　～　16：30
-    description: 練習
-    location_text: 上和会ふれあい広場
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
