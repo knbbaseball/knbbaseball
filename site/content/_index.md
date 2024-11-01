@@ -32,11 +32,6 @@ schedule:
     time: 8：00　～　16：30　
     description: 練習
     location_text: 畝部小学校
-  - date: 2024-10-27 08:12:06 +0000
-    team: Ｃ
-    time: 14：30　～　
-    description: チャレンジカップ　ＶＳ逢妻ファイターズ
-    location_text: 柳ヶ瀬児童球場
   - date: 2024-11-02 08:12:17 +0000
     team: Ｊｒ
     time: 8：00　～　13：00
@@ -47,11 +42,6 @@ schedule:
     time: 8：00　～　12：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2024-10-27 08:12:18 +0000
-    team: Ｊｒ
-    time: 10：30　～
-    description: 練習試合　ＶＳ堤スターズ
-    location_text: 西岡ふれあい公園
   - date: 2024-11-03 08:17:42 +0000
     team: 育成
     time: 8：00　～　12：00
