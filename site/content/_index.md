@@ -7,46 +7,41 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-11-02 08:34:53 +0000
+  - date: 2024-11-09 08:34:53 +0000
     team: Ａ
     time: 8：30　～　17：00
-    description: 練習
-    location_text: 上郷コミュニティ
-  - date: 2024-11-03 13:50:38 +0000
-    team: Ａ
-    time: 8：30　～　17：00
-    description: 秋季大会　2回戦　ＶＳ青木グレード
-    location_text: 柳ヶ瀬公園　※練習は高嶺小学校
-  - date: 2024-11-03 13:19:20 +0000
-    team: Ａ
-    time: 12：40～　
-    description: 秋季大会　2回戦　ＶＳ青木グレード
-    location_text: 柳ヶ瀬公園　※練習は高嶺小学校
-  - date: 2024-11-02 07:21:39 +0000
-    team: Ｃ
-    time: 8：00　～　16：30
-    description: 練習　10時～野球体験会
+    description: 練習　午前中Ｃチーム合同
     location_text: 高嶺小学校
-  - date: 2024-11-03 13:55:08 +0000
+  - date: 2024-11-10 13:50:38 +0000
+    team: Ａ
+    time: 8：30　～　17：00
+    description: 練習　※野球体験希望者　大歓迎！
+    location_text: 高嶺小学校
+  - date: 2024-11-09 07:21:39 +0000
+    team: Ｃ
+    time: 13：00　～　16：30
+    description: 練習　午前中、運動会の無い団員はＡチームと合同
+    location_text: 高嶺小学校
+  - date: 2024-11-10 13:55:08 +0000
     team: Ｃ
     time: 8：00　～　16：30　
-    description: 練習
-    location_text: 畝部小学校
-  - date: 2024-11-02 08:12:17 +0000
+    description: チャレンジカップ準決勝　ＶＳドリームボーイズ
+    location_text: 柳ヶ瀬公園　※練習は畝部小学校
+  - date: 2024-11-10 08:12:17 +0000
+    team: Ｃ
+    time: 12：40　～　
+    description: チャレンジカップ準決勝　ＶＳドリームボーイズ
+    location_text: 柳ヶ瀬公園
+  - date: 2024-11-09 08:12:17 +0000
     team: Ｊｒ
-    time: 8：00　～　13：00
-    description: 練習　　10時～野球体験会
-    location_text: 高嶺小学校
-  - date: 2024-11-03 08:12:17 +0000
+    time: 12：00　～　16：30
+    description: 練習　　※野球体験希望者　大歓迎！
+    location_text: 寿恵野小学校
+  - date: 2024-11-10 08:17:42 +0000
     team: Ｊｒ
-    time: 8：00　～　12：00
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2024-11-03 08:17:42 +0000
-    team: 育成
-    time: 8：00　～　12：00
-    description: 練習
-    location_text: 高嶺小学校
+    time: 8：00　～　12：30
+    description: 練習　※11：00より代表宅にて芋掘り
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
