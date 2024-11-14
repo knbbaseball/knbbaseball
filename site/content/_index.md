@@ -7,41 +7,51 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-11-09 08:34:53 +0000
+  - date: 2024-11-16 08:34:53 +0000
     team: Ａ
     time: 8：30　～　17：00
-    description: 練習　午前中Ｃチーム合同
+    description: 練習　※５年生体験大歓迎！！
     location_text: 高嶺小学校
-  - date: 2024-11-10 13:50:38 +0000
+  - date: 2024-11-17 13:50:38 +0000
     team: Ａ
     time: 8：30　～　17：00
-    description: 練習　※野球体験希望者　大歓迎！
+    description: 練習　※５年生体験大歓迎！！
     location_text: 高嶺小学校
-  - date: 2024-11-09 07:21:39 +0000
+  - date: 2024-11-16 07:21:39 +0000
     team: Ｃ
-    time: 13：00　～　16：30
-    description: 練習　午前中、運動会の無い団員はＡチームと合同
-    location_text: 高嶺小学校
-  - date: 2024-11-10 13:55:08 +0000
+    time: 8：00　～　16：30
+    description: 練習　※野球体験者　大歓迎！！　１５時より芋掘り。
+    location_text: 上郷コミュニティ
+  - date: 2024-11-17 13:55:08 +0000
     team: Ｃ
     time: 8：00　～　16：30　
-    description: チャレンジカップ準決勝　ＶＳドリームボーイズ
-    location_text: 柳ヶ瀬公園　※練習は畝部小学校
-  - date: 2024-11-10 08:12:17 +0000
-    team: Ｃ
-    time: 12：40　～　
-    description: チャレンジカップ準決勝　ＶＳドリームボーイズ
-    location_text: 柳ヶ瀬公園
-  - date: 2024-11-09 08:12:17 +0000
+    description: 練習　※野球体験者　大歓迎！！
+    location_text: 畝部小学校
+  - date: 2024-11-16 08:12:17 +0000
     team: Ｊｒ
     time: 12：00　～　16：30
-    description: 練習　　※野球体験希望者　大歓迎！
+    description: ふれあいカップ予選　ＶＳ市木フェニックス
     location_text: 寿恵野小学校
-  - date: 2024-11-10 08:17:42 +0000
+  - date: 2024-11-16 10:04:50 +0000
     team: Ｊｒ
-    time: 8：00　～　12：30
-    description: 練習　※11：00より代表宅にて芋掘り
+    time: 14：30　～　
+    description: ふれあいカップ予選　ＶＳ市木フェニックス
     location_text: 寿恵野小学校
+  - date: 2024-11-17 08:17:42 +0000
+    team: Ｊｒ
+    time: 8：30　～　12：30
+    description: 練習　※野球体験者　大歓迎！！
+    location_text: 寿恵野小学校
+  - date: 2024-11-17 09:56:29 +0000
+    team: Ｊｒ　※２年生以下
+    time: １試合目　9：30～　　2試合目　11：10～　
+    description: 練習試合　ＶＳ北名古屋ホークス
+    location_text: 寿恵野小学校
+  - date: 2024-11-16 10:03:10 +0000
+    team: 育成
+    time: ９：００　～　１２：００
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
