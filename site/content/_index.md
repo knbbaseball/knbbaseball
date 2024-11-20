@@ -7,51 +7,56 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-11-16 08:34:53 +0000
+  - date: 2024-11-23 08:34:53 +0000
     team: Ａ
-    time: 8：30　～　17：00
-    description: 練習　※５年生体験大歓迎！！
+    time: 8：30　～　12：00
+    description: 練習　※５年生はふれあいカップの為６年生のみ
     location_text: 高嶺小学校
-  - date: 2024-11-17 13:50:38 +0000
+  - date: 2024-11-24 13:50:38 +0000
     team: Ａ
-    time: 8：30　～　17：00
+    time: 8：30　～　17：00　※14：30～芋掘り
     description: 練習　※５年生体験大歓迎！！
-    location_text: 高嶺小学校
-  - date: 2024-11-16 07:21:39 +0000
+    location_text: 寿恵野小学校
+  - date: 2024-11-23 07:21:39 +0000
+    team: Ｂ
+    time: 8：30　～　16：30
+    description: ふれあいカップＢ　決勝トーナメント　ＶＳ三河スターズ
+    location_text: 三百田公園　※練習・集合は上郷コミュニティ
+  - date: 2024-11-23 13:55:08 +0000
+    team: Ｂ
+    time: 14：00　～　　
+    description: ふれあいカップＢ　決勝トーナメント　ＶＳ三河スターズ
+    location_text: 三百田公園　※練習・集合は上郷コミュニティ
+  - date: 2024-11-24 08:12:17 +0000
     team: Ｃ
-    time: 8：00　～　16：30
-    description: 練習　※野球体験者　大歓迎！！　１５時より芋掘り。
-    location_text: 上郷コミュニティ
-  - date: 2024-11-17 13:55:08 +0000
-    team: Ｃ
-    time: 8：00　～　16：30　
-    description: 練習　※野球体験者　大歓迎！！
+    time: 8：00　～　15：30
+    description: 練習試合　ＶＳ安城少年ドラゴンズ
     location_text: 畝部小学校
-  - date: 2024-11-16 08:12:17 +0000
-    team: Ｊｒ
-    time: 12：00　～　16：30
-    description: ふれあいカップ予選　ＶＳ市木フェニックス
-    location_text: 寿恵野小学校
-  - date: 2024-11-16 10:04:50 +0000
-    team: Ｊｒ
-    time: 14：30　～　
-    description: ふれあいカップ予選　ＶＳ市木フェニックス
-    location_text: 寿恵野小学校
-  - date: 2024-11-17 08:17:42 +0000
-    team: Ｊｒ
+  - date: 2024-11-24 10:04:50 +0000
+    team: Ｃ
+    time: 13：00　～　
+    description: 練習試合　ＶＳ安城少年ドラゴンズ
+    location_text: 畝部小学校
+  - date: 2024-11-23 08:17:42 +0000
+    team: Ｊｒ育成合同
     time: 8：30　～　12：30
     description: 練習　※野球体験者　大歓迎！！
-    location_text: 寿恵野小学校
-  - date: 2024-11-17 09:56:29 +0000
-    team: Ｊｒ　※２年生以下
-    time: １試合目　9：30～　　2試合目　11：10～　
-    description: 練習試合　ＶＳ北名古屋ホークス
-    location_text: 寿恵野小学校
-  - date: 2024-11-16 10:03:10 +0000
+    location_text: 畝部小学校
+  - date: 2024-11-24 09:56:29 +0000
+    team: Ｊｒ　
+    time: 8：30　～　12：30
+    description: 練習試合　ＶＳ松平ニューボーイズ
+    location_text: 寿恵野小学校北側
+  - date: 2024-11-24 10:03:10 +0000
+    team: Ｊｒ
+    time: １０：３０　～　
+    description: 練習試合　ＶＳ松平ニューボーイズ
+    location_text: 寿恵野小学校北側
+  - date: 2024-11-24 09:44:29 +0000
     team: 育成
-    time: ９：００　～　１２：００
+    time: １２：１５　～　１６：００
     description: 練習
-    location_text: 高嶺小学校
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
