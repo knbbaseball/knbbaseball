@@ -22,46 +22,41 @@ schedule:
     time: 8：30　～　17：00
     description: 練習　※野球体験者　大歓迎！！
     location_text: 高嶺小学校
-  - date: 2024-11-30 13:55:08 +0000
+  - date: 2024-12-07 13:55:08 +0000
     team: Ｃ
-    time: 8：30　～　16：30　　
-    description: 練習試合　ＶＳ青木グレード
-    location_text: 青木台ふれあい広場
-  - date: 2024-11-30 08:12:17 +0000
+    time: 8：00　～　16：30　　
+    description: ふれあいカップ決勝トーナメント１回戦　ＶＳ市木フェニックス
+    location_text: 上郷コミュニティ
+  - date: 2024-12-07 08:12:17 +0000
     team: Ｃ
-    time: 10：30　～　
-    description: 練習試合　ＶＳ青木グレード
-    location_text: 青木台ふれあい広場
-  - date: 2024-12-01 10:04:50 +0000
+    time: 12：00　～　
+    description: ふれあいカップ決勝トーナメント１回戦　ＶＳ市木フェニックス
+    location_text: 上郷コミュニティ
+  - date: 2024-12-08 10:04:50 +0000
     team: Ｃ
     time: 8：30　～　16：30　
     description: 練習　※野球体験者大歓迎！！
-    location_text: 南グランド
-  - date: 2024-11-30 08:17:42 +0000
+    location_text: 畝部小学校
+  - date: 2024-12-07 08:17:42 +0000
     team: Ｊｒ育成合同
     time: 8：30　～　12：30
     description: 練習　※野球体験者　大歓迎！！
     location_text: 寿恵野小学校
-  - date: 2024-12-01 09:56:29 +0000
+  - date: 2024-12-08 09:56:29 +0000
     team: Ｊｒ　
-    time: 7：45　～　13：00
-    description: 練習試合　ＶＳドリームボーイズ
+    time: 8：30　～　12：30
+    description: ふれあいカップ決勝トーナメント１回戦　ＶＳ矢南アローズ
     location_text: 寿恵野小学校
-  - date: 2024-12-01 10:03:10 +0000
+  - date: 2024-12-08 10:03:10 +0000
     team: Ｊｒ
-    time: 9：３０　～　※２年生
-    description: 練習試合　ＶＳドリームボーイズ
+    time: 10：３０　～　
+    description: ふれあいカップ決勝トーナメント１回戦　ＶＳ矢南アローズ
     location_text: 寿恵野小学校
-  - date: 2024-12-01 21:31:01 +0000
-    team: Ｊｒ
-    time: 11：10　～　※３年生
-    description: 練習試合　ＶＳドリームボーイズ
-    location_text: 寿恵野小学校
-  - date: 2024-12-01 09:44:29 +0000
+  - date: 2024-12-08 09:44:29 +0000
     team: 育成
-    time: 8：4５　～　１2：3０
+    time: 8：30　～　１2：3０
     description: 練習
-    location_text: 高嶺小学校
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
