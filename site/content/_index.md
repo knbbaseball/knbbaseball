@@ -7,21 +7,16 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-11-30 08:34:53 +0000
+  - date: 2024-12-07 08:34:53 +0000
     team: Ａ
     time: 8：30　～　17：00
     description: 練習   ※５年生体験大歓迎！！
     location_text: 高嶺小学校
-  - date: 2024-12-01 13:50:38 +0000
-    team: Ａ　※６年生のみ
-    time: 8：00　～　17：00　
-    description: スポーツフェスティバル　※６年生のみ参加
-    location_text: 柳ヶ瀬公園
-  - date: 2024-12-01 07:21:39 +0000
-    team: Ａ　※５年生
-    time: 8：30　～　17：00
-    description: 練習　※野球体験者　大歓迎！！
-    location_text: 高嶺小学校
+  - date: 2024-12-08 13:50:38 +0000
+    team: Ａ　
+    time: 6：50　～　17：00　
+    description: ひまわりネットワーク杯開会式
+    location_text: 豊田市運動公園野球場　※練習は高嶺小学校
   - date: 2024-12-07 13:55:08 +0000
     team: Ｃ
     time: 8：00　～　16：30　　
