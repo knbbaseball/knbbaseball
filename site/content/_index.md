@@ -7,45 +7,45 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-12-07 08:34:53 +0000
+  - date: 2024-12-14 08:34:53 +0000
     team: Ａ
-    time: 8：30　～　17：00
-    description: 練習   ※５年生体験大歓迎！！
-    location_text: 高嶺小学校
-  - date: 2024-12-08 13:50:38 +0000
+    time: 8：30　～　16：00
+    description: ふれあいカップ決勝トーナメント　１回戦　ＶＳ市木フェニックス
+    location_text: 市木小学校
+  - date: 2024-12-14 13:50:38 +0000
     team: Ａ　
-    time: 6：50　～　17：00　
-    description: ひまわりネットワーク杯開会式
-    location_text: 豊田市運動公園野球場　※練習は高嶺小学校
-  - date: 2024-12-07 13:55:08 +0000
+    time: 13：30　～　　
+    description: ふれあいカップ決勝トーナメント　１回戦　ＶＳ市木フェニックス
+    location_text: 市木小学校
+  - date: 2024-12-15 13:55:08 +0000
+    team: Ａ
+    time: 8：30　～　17：00　　
+    description: 練習　※野球体験者　大歓迎！！
+    location_text: 高嶺小学校
+  - date: 2024-12-14 08:12:17 +0000
     team: Ｃ
-    time: 8：00　～　16：30　　
-    description: ふれあいカップ決勝トーナメント１回戦　ＶＳ市木フェニックス
-    location_text: 上郷コミュニティ
-  - date: 2024-12-07 08:12:17 +0000
-    team: Ｃ
-    time: 12：00　～　
-    description: ふれあいカップ決勝トーナメント１回戦　ＶＳ市木フェニックス
-    location_text: 上郷コミュニティ
-  - date: 2024-12-08 10:04:50 +0000
-    team: Ｃ
-    time: 8：30　～　16：30　
-    description: 練習　※野球体験者大歓迎！！
+    time: 8：00　～　16：00　
+    description: ふれあいカップ決勝トーナメント2回戦　ＶＳ三河スターズ
     location_text: 畝部小学校
-  - date: 2024-12-07 08:17:42 +0000
-    team: Ｊｒ育成合同
+  - date: 2024-12-14 10:04:50 +0000
+    team: Ｃ
+    time: 10：00　～　　
+    description: ふれあいカップ決勝トーナメント2回戦　ＶＳ三河スターズ
+    location_text: 畝部小学校
+  - date: 2024-12-15 08:17:42 +0000
+    team: Ｃ
+    time: 8：30　～　16：30
+    description: 練習　※野球体験者　大歓迎！！
+    location_text: 南グランド
+  - date: 2024-12-14 09:56:29 +0000
+    team: Ｊｒ　合同
     time: 8：30　～　12：30
     description: 練習　※野球体験者　大歓迎！！
     location_text: 寿恵野小学校
-  - date: 2024-12-08 09:56:29 +0000
-    team: Ｊｒ　
+  - date: 2024-12-15 10:03:10 +0000
+    team: Ｊｒ合同
     time: 8：30　～　12：30
-    description: ふれあいカップ決勝トーナメント１回戦　ＶＳ矢南アローズ
-    location_text: 寿恵野小学校
-  - date: 2024-12-08 10:03:10 +0000
-    team: Ｊｒ
-    time: 10：３０　～　
-    description: ふれあいカップ決勝トーナメント１回戦　ＶＳ矢南アローズ
+    description: 練習　※野球体験者　大歓迎！！
     location_text: 寿恵野小学校
   - date: 2024-12-08 09:44:29 +0000
     team: 育成
