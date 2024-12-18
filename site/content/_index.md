@@ -7,51 +7,76 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-12-14 08:34:53 +0000
+  - date: 2024-12-21 08:34:53 +0000
     team: Ａ
     time: 8：30　～　16：00
-    description: ふれあいカップ決勝トーナメント　１回戦　ＶＳ市木フェニックス
-    location_text: 市木小学校
-  - date: 2024-12-14 13:50:38 +0000
-    team: Ａ　
-    time: 13：30　～　　
-    description: ふれあいカップ決勝トーナメント　１回戦　ＶＳ市木フェニックス
-    location_text: 市木小学校
-  - date: 2024-12-15 13:55:08 +0000
-    team: Ａ
-    time: 8：30　～　17：00　　
     description: 練習　※野球体験者　大歓迎！！
     location_text: 高嶺小学校
-  - date: 2024-12-14 08:12:17 +0000
+  - date: 2024-12-22 13:50:38 +0000
+    team: Ａ　
+    time: 6：40　～　16：00　　
+    description: ひまわりネットワーク杯１回戦　ＶＳドリームボーイズ
+    location_text: 柳ヶ瀬公園
+  - date: 2024-12-22 13:55:08 +0000
+    team: Ａ
+    time: 9：00　～　　
+    description: ひまわりネットワーク杯１回戦　ＶＳドリームボーイズ
+    location_text: 柳ヶ瀬公園
+  - date: 2024-12-21 08:12:17 +0000
     team: Ｃ
-    time: 8：00　～　16：00　
-    description: ふれあいカップ決勝トーナメント2回戦　ＶＳ三河スターズ
-    location_text: 畝部小学校
-  - date: 2024-12-14 10:04:50 +0000
+    time: 7：00　～　16：30　
+    description: スギモト杯　ＶＳ名古屋ドジャース　　ふれあいカップ決勝トーナメント３回戦ＶＳ長久手少年野球クラブ
+    location_text: 志段味スポーツランド　上郷コミュニティ
+  - date: 2024-12-21 10:04:50 +0000
     team: Ｃ
-    time: 10：00　～　　
-    description: ふれあいカップ決勝トーナメント2回戦　ＶＳ三河スターズ
-    location_text: 畝部小学校
-  - date: 2024-12-15 08:17:42 +0000
+    time: 9：00　～　　
+    description: スギモト杯　ＶＳ名古屋ドジャース
+    location_text: 志段味スポーツランド第二
+  - date: 2024-12-21 08:17:42 +0000
+    team: Ｃ
+    time: 13：00　～　
+    description: ふれあいカップ決勝トーナメント３回戦ＶＳ長久手少年野球クラブ
+    location_text: 上郷コミュニティ
+  - date: 2024-12-22 09:56:29 +0000
     team: Ｃ
     time: 8：30　～　16：30
     description: 練習　※野球体験者　大歓迎！！
-    location_text: 南グランド
-  - date: 2024-12-14 09:56:29 +0000
-    team: Ｊｒ　合同
+    location_text: 畝部小学校
+  - date: 2024-12-21 10:03:10 +0000
+    team: Ｊｒ
     time: 8：30　～　12：30
-    description: 練習　※野球体験者　大歓迎！！
+    description: ふれあいカップ決勝トーナメント2回戦ＶＳ保見・竜神合同チーム
+    location_text: 畝部小学校
+  - date: 2024-12-21 09:44:29 +0000
+    team: Ｊｒ
+    time: 10：30　～　
+    description: ふれあいカップ決勝トーナメント2回戦ＶＳ保見・竜神合同チーム
+    location_text: 畝部小学校
+  - date: 2024-12-22 08:59:08 +0000
+    team: Ｊｒ　土曜日勝利の場合
+    time: 11：00　～　14：50
+    description: ふれあいカップ決勝トーナメント3回戦ＶＳ市木フェニックス
     location_text: 寿恵野小学校
-  - date: 2024-12-15 10:03:10 +0000
-    team: Ｊｒ合同
+  - date: 2024-12-22 08:59:08 +0000
+    team: Ｊｒ　土曜日勝利の場合
+    time: 13：00　～
+    description: ふれあいカップ決勝トーナメント3回戦ＶＳ市木フェニックス
+    location_text: 寿恵野小学校
+  - date: 2024-12-22 08:59:09 +0000
+    team: Ｊｒ　土曜日敗戦の場合
     time: 8：30　～　12：30
-    description: 練習　※野球体験者　大歓迎！！
-    location_text: 寿恵野小学校
-  - date: 2024-12-08 09:44:29 +0000
-    team: 育成
-    time: 8：30　～　１2：3０
     description: 練習
     location_text: 寿恵野小学校
+  - date: 2024-12-21 08:59:09 +0000
+    team: 育成
+    time: 8：45　～　12：30
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2024-12-22 09:04:43 +0000
+    team: 育成
+    time: 8：45　～　12：30
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
