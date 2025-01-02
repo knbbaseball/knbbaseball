@@ -7,21 +7,26 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2024-12-28 08:34:53 +0000
-    team: B
-    time: 8：30　～　16：00
-    description: 自主練習　
-    location_text: 上郷コミュニティ
-  - date: 2024-12-28 07:41:40 +0000
-    team: Ｃ
-    time: 8：30　～　13：00
-    description: 練習　親子試合
-    location_text: 高嶺小学校
   - date: 2025-01-04 13:50:38 +0000
     team: Ａ　Ｂ　Ｃ　Ｊｒ
     time: 9：20　～　12：00　　
     description: 初会
     location_text: 高嶺小学校
+  - date: 2025-01-04 08:34:53 +0000
+    team: A
+    time: 初会　～　15：00
+    description: 親子試合
+    location_text: 高嶺小学校
+  - date: 2025-01-05 07:41:40 +0000
+    team: Ａ
+    time: 8：30　～　17：00
+    description: 練習　
+    location_text: 高嶺小学校
+  - date: 2025-01-05 04:38:37 +0000
+    team: Ｃ
+    time: 8：30　～　16：30
+    description: 練習
+    location_text: 南グランド
   - date: 2025-01-05 07:38:08 +0000
     team: Ｊｒ　2年生以下
     time: 12：30　～　16：00
