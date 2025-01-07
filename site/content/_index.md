@@ -8,9 +8,9 @@ blurb:
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
   - date: 2025-01-04 13:50:38 +0000
-    team: Ａ　Ｂ　Ｃ　Ｊｒ
+    team: Ａ　
     time: 9：20　～　12：00　　
-    description: 初会
+    description: 練習
     location_text: 高嶺小学校
   - date: 2025-01-04 08:34:53 +0000
     team: A
@@ -22,17 +22,42 @@ schedule:
     time: 8：30　～　17：00
     description: 練習　
     location_text: 高嶺小学校
-  - date: 2025-01-05 04:38:37 +0000
+  - date: 2025-01-11 04:38:37 +0000
     team: Ｃ
-    time: 8：30　～　16：30
-    description: 練習
-    location_text: 南グランド
-  - date: 2025-01-05 07:38:08 +0000
+    time: 8：00　～　16：30
+    description: ふれあいカップＣ決勝トーナメント準決勝　ＶＳ堤スターズ
+    location_text: 運動公園多目的広場
+  - date: 2025-01-11 09:09:10 +0000
+    team: Ｃ
+    time: 13：00　～
+    description: ふれあいカップＣ決勝トーナメント準決勝　ＶＳ堤スターズ
+    location_text: 運動公園多目的広場
+  - date: 2025-01-12 09:09:12 +0000
+    team: Ｃ
+    time: 8：45　～　16：30
+    description: スギモト杯　2回戦　ＶＳファイヤーボーイズ
+    location_text: 志段味スポーツランド
+  - date: 2025-01-12 09:09:13 +0000
+    team: Ｃ
+    time: 10：45　～
+    description: スギモト杯　2回戦　ＶＳファイヤーボーイズ
+    location_text: 志段味スポーツランド
+  - date: 2025-01-11 07:38:08 +0000
     team: Ｊｒ　2年生以下
     time: 12：30　～　16：00
     description: 練習　
     location_text: 高嶺小学校
-  - date: 2025-01-05 07:39:32 +0000
+  - date: 2025-01-12 07:39:32 +0000
+    team: Ｊｒ　2年生以下
+    time: 8：30　～　12：30
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2025-01-11 09:03:58 +0000
+    team: ｊｒ　3年生
+    time: 8：30　～　12：30
+    description: 練習
+    location_text: 寿恵野小学校
+  - date: 2025-01-12 09:04:01 +0000
     team: Ｊｒ　3年生
     time: 8：30　～　12：30
     description: 練習
@@ -53,6 +78,14 @@ info:
 ※体験は随時可能です！お気軽にお越しください！！
 
 ## 本年度入団者
+
+#### 【1/5】
+
+*鳥居稜樹くん　2年生　寿恵野小学校
+
+#### 【1/5】
+
+*柴田遥仁くん　4年生　駒場小学校
 
 #### 【12/7】
 
