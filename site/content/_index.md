@@ -7,20 +7,20 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-01-04 13:50:38 +0000
+  - date: 2025-01-11 13:50:38 +0000
     team: Ａ　
-    time: 9：20　～　12：00　　
-    description: 練習
+    time: 8：30　～　17：00　　
+    description: 練習   ※５年生体験大歓迎！！
     location_text: 高嶺小学校
-  - date: 2025-01-04 08:34:53 +0000
+  - date: 2025-01-12 08:34:53 +0000
     team: A
-    time: 初会　～　15：00
-    description: 親子試合
+    time: 8：00　～　17：00
+    description: 練習試合　ＶＳ高橋ファイターズ　Ｂチーム　Ａチーム
     location_text: 高嶺小学校
-  - date: 2025-01-05 07:41:40 +0000
+  - date: 2025-01-12 07:41:40 +0000
     team: Ａ
-    time: 8：30　～　17：00
-    description: 練習　
+    time: 10：00　～　Ｂチーム　　　13：30　～　Ａチーム
+    description: 練習試合　ＶＳ高橋ファイターズ　Ｂチーム　Ａチーム　
     location_text: 高嶺小学校
   - date: 2025-01-11 04:38:37 +0000
     team: Ｃ
