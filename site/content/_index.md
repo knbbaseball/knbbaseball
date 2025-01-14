@@ -42,25 +42,25 @@ schedule:
     time: 10：45　～
     description: スギモト杯　2回戦　ＶＳファイヤーボーイズ
     location_text: 志段味スポーツランド
-  - date: 2025-01-11 07:38:08 +0000
+  - date: 2025-01-18 07:38:08 +0000
     team: Ｊｒ　2年生以下
     time: 12：30　～　16：00
-    description: 練習　
+    description: 練習　※野球体験者大歓迎
     location_text: 高嶺小学校
-  - date: 2025-01-12 07:39:32 +0000
+  - date: 2025-01-19 07:39:32 +0000
     team: Ｊｒ　2年生以下
-    time: 8：30　～　12：30
-    description: 練習
+    time: 8：30　～　12：00
+    description: 練習　※野球体験者大歓迎
     location_text: 高嶺小学校
-  - date: 2025-01-11 09:03:58 +0000
-    team: ｊｒ　3年生
-    time: 8：30　～　12：30
-    description: 練習
-    location_text: 寿恵野小学校
-  - date: 2025-01-12 09:04:01 +0000
+  - date: 2025-01-18 09:03:58 +0000
     team: Ｊｒ　3年生
     time: 8：30　～　12：30
-    description: 練習
+    description: 練習　※野球体験者大歓迎
+    location_text: 畝部小学校
+  - date: 2025-01-19 09:04:01 +0000
+    team: Ｊｒ　3年生
+    time: 8：30　～　12：30
+    description: 練習　※野球体験者大歓迎
     location_text: 畝部小学校
 info:
   title: 一緒に野球やろうよ！！
