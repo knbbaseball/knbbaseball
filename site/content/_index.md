@@ -17,41 +17,41 @@ schedule:
     time: 8：30　～　17：00
     description: 練習   ※５年生体験大歓迎！！
     location_text: 高嶺小学校
-  - date: 2025-01-18 04:38:37 +0000
+  - date: 2025-01-25 04:38:37 +0000
     team: Ｃ
-    time: 7：30　～　16：30
-    description: 練習試合　ＶＳ福地ファイターズ
-    location_text: 西尾善明市民運動広場
-  - date: 2025-01-18 09:09:10 +0000
+    time: 8：00　～　16：30
+    description: スギモト杯　準々決勝　VS守山ボーイズ
+    location_text: 志段味スポーツランド第２
+  - date: 2025-01-25 09:09:10 +0000
     team: Ｃ
-    time: １試合目10：00　～　　２試合目13：00～
-    description: 練習試合　ＶＳ福地ファイターズ
-    location_text: 西尾善明市民運動広場
-  - date: 2025-01-19 09:09:12 +0000
+    time: 12：45　～　
+    description: スギモト杯　準々決勝　VS守山ボーイズ
+    location_text: 志段味スポーツランド第２
+  - date: 2025-01-26 09:09:12 +0000
     team: Ｃ
     time: 8：30　～　16：30
     description: 練習　※野球体験者　大歓迎
-    location_text: 南グランド
-  - date: 2025-01-18 07:38:08 +0000
+    location_text: 畝部小学校
+  - date: 2025-01-25 07:38:08 +0000
     team: Ｊｒ　2年生以下
     time: 12：30　～　16：00
     description: 練習　※野球体験者大歓迎
-    location_text: 上郷コミュニティ
-  - date: 2025-01-19 07:39:32 +0000
+    location_text: 高嶺小学校
+  - date: 2025-01-26 07:39:32 +0000
     team: Ｊｒ　2年生以下
     time: 8：30　～　12：00
     description: 練習　※野球体験者大歓迎
     location_text: 高嶺小学校
-  - date: 2025-01-18 09:03:58 +0000
+  - date: 2025-01-25 09:03:58 +0000
     team: Ｊｒ　3年生
     time: 8：30　～　12：30
     description: 練習　※野球体験者大歓迎
     location_text: 畝部小学校
-  - date: 2025-01-19 09:04:01 +0000
+  - date: 2025-01-26 09:04:01 +0000
     team: Ｊｒ　3年生
     time: 8：30　～　12：30
     description: 練習　※野球体験者大歓迎
-    location_text: 畝部小学校
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
