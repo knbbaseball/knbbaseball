@@ -7,12 +7,17 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-01-18 13:50:38 +0000
+  - date: 2025-01-25 13:50:38 +0000
     team: Ａ　
-    time: 8：30　～　17：00　　
-    description: 練習   ※５年生体験大歓迎！！
-    location_text: 高嶺小学校
-  - date: 2025-01-19 08:34:53 +0000
+    time: 6：50　～　17：00　　
+    description: 卒団記念試合　VS水源パイレーツ
+    location_text: 豊田市運動公園ソフトボール場
+  - date: 2025-01-25 08:34:53 +0000
+    team: A
+    time: 9：30　～　
+    description: 卒団記念試合　VS水源パイレーツ
+    location_text: 豊田市運動公園ソフトボール場
+  - date: 2025-01-26 09:23:05 +0000
     team: A
     time: 8：30　～　17：00
     description: 練習   ※５年生体験大歓迎！！
