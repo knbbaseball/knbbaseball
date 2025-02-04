@@ -7,51 +7,56 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-02-01 13:50:38 +0000
+  - date: 2025-02-08 13:50:38 +0000
     team: Ａ　
-    time: 8：30　～　15：00   ※17時～第31期生卒団式　　
-    description: ＡチームＶＳスタッフ卒団試合
+    time: 8：30　～　16：00
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2025-02-01 08:34:53 +0000
+  - date: 2025-02-09 09:23:05 +0000
     team: A
-    time: 13：00　～　
-    description: ＡチームＶＳスタッフ卒団試合
+    time: 8：30　～　17：00
+    description: 練習   練習試合
     location_text: 高嶺小学校
-  - date: 2025-02-02 09:23:05 +0000
-    team: 新A
-    time: 12：30　～　17：00
-    description: "練習   "
+  - date: 2025-02-09 08:34:53 +0000
+    team: A
+    time: 14：00　～　
+    description: 試合開始
     location_text: 高嶺小学校
-  - date: 2025-02-01 04:38:37 +0000
-    team: Ｃ
+  - date: 2025-02-08 04:38:37 +0000
+    team: B
+    time: 8：00　～　16：30
+    description: 練習
+    location_text: 上郷コミュニティセンター
+  - date: 2025-02-09 09:09:12 +0000
+    team: B
+    time: 8：00　～　16：30
+    description: 走り方教室　練習試合
+    location_text: 畝部小学校　高嶺小学校
+  - date: 2025-02-09 23:44:57 +0000
+    team: B
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 高嶺小学校
+  - date: 2025-02-08 07:38:08 +0000
+    team: C
+    time: 8：30　～　13：00
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2025-02-09 07:39:32 +0000
+    team: C
+    time: 8：30　～　13：00
+    description: 練習
+    location_text: 寿恵野小学校
+  - date: 2025-02-08 09:03:58 +0000
+    team: D
+    time: 12：30　～　16：00
+    description: 練習
+    location_text: 寿恵野小学校
+  - date: 2025-02-02 09:04:01 +0000
+    team: D
     time: 8：30　～　12：00
     description: 練習
-    location_text: 上郷コミュニティ
-  - date: 2025-02-02 09:09:12 +0000
-    team: Ｃ
-    time: 8：30　～　16：30
-    description: 練習　
-    location_text: 南グランド
-  - date: 2025-02-01 07:38:08 +0000
-    team: Ｊｒ　2年生以下
-    time: 8：30　～　12：00
-    description: 練習　※野球体験者大歓迎
-    location_text: 寿恵野小学校
-  - date: 2025-02-02 07:39:32 +0000
-    team: Ｊｒ　2年生以下
-    time: 12：30　～　16：00
-    description: 練習　※野球体験者大歓迎
-    location_text: 寿恵野小学校
-  - date: 2025-02-01 09:03:58 +0000
-    team: Ｊｒ　3年生
-    time: 8：30　～　11：30
-    description: 練習　※野球体験者大歓迎
-    location_text: 畝部小学校
-  - date: 2025-02-02 09:04:01 +0000
-    team: Ｊｒ　3年生
-    time: 12：00　～　16：30
-    description: 練習　※野球体験者大歓迎
-    location_text: 畝部小学校
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
