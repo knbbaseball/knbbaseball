@@ -26,7 +26,7 @@ schedule:
     team: B
     time: 8：00 ～ 16：30
     description: スギモト杯決勝観戦　練習
-    location_text: 畝部小学校
+    location_text: パロマ瑞穂スタジアム　畝部小学校
   - date: 2025-02-16 09:09:12 +0000
     team: B
     time: 8：00 ～ 16：30
