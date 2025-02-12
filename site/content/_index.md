@@ -8,7 +8,7 @@ blurb:
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
   - date: 2025-02-15 13:50:38 +0000
-    team: Ａ　
+    team: A
     time: 8：00 ～ 16：00
     description: 練習　練習試合
     location_text: 高嶺小学校
