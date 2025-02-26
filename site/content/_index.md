@@ -46,17 +46,17 @@ schedule:
     team: C
     time: 8：30 ～ 16：30
     description: 練習
-    location_text: 畝部小学校
+    location_text: 南グランド
   - date: 2025-03-01 09:03:58 +0000
     team: D
     time: 12：30 ～ 16：00
     description: 練習
     location_text: 寿恵野小学校
-  - date: 2025-02-23 09:04:01 +0000
+  - date: 2025-03-02 09:04:01 +0000
     team: D
     time: 8：30 ～ 12：00
     description: 練習
-    location_text: 寿恵野小学校
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
