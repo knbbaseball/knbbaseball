@@ -7,21 +7,21 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-03-01 13:50:38 +0000
+  - date: 2025-03-08 13:50:38 +0000
     team: A
     time: 8：30 ～ 16：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2025-03-02 09:23:05 +0000
+  - date: 2025-03-09 09:23:05 +0000
     team: A
-    time: 6：30 ～ 16：00
-    description: 豊田市軟式野球連盟総合開幕式　練習試合
-    location_text: 豊田市運動公園　知立小学校
-  - date: 2025-03-02 08:34:53 +0000
+    time: 8：00 ～ 16：00
+    description: 練習試合
+    location_text: 柳川瀬公園グラウンド
+  - date: 2025-03-09 08:34:53 +0000
     team: A
-    time: 12：00　～　
+    time: 10：00　～　　　　　　13：00　～
     description: 試合開始
-    location_text: 知立小学校
+    location_text: 柳川瀬公園
   - date: 2025-03-01 04:38:37 +0000
     team: B
     time: 8：00 ～ 16：30
@@ -37,22 +37,22 @@ schedule:
     time: 10：30 ～　　13：30 ～
     description: 試合開始
     location_text: 矢作川西尾緑地少年野球場
-  - date: 2025-03-01 07:38:08 +0000
+  - date: 2025-03-08 07:38:08 +0000
     team: C
-    time: 8：30 ～ 13：00
+    time: 12：00 ～ 17：00
     description: 練習
     location_text: 畝部小学校
-  - date: 2025-02-23 07:39:32 +0000
+  - date: 2025-03-09 07:39:32 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
-    location_text: 南グランド
-  - date: 2025-03-01 09:03:58 +0000
+    location_text: 寿恵野小学校
+  - date: 2025-03-08 09:03:58 +0000
     team: D
     time: 12：30 ～ 16：00
     description: 練習
     location_text: 寿恵野小学校
-  - date: 2025-03-02 09:04:01 +0000
+  - date: 2025-03-09 09:04:01 +0000
     team: D
     time: 8：30 ～ 12：00
     description: 練習
