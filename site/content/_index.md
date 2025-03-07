@@ -22,21 +22,21 @@ schedule:
     time: 10：00　～　　　　　　13：00　～
     description: 試合開始
     location_text: 柳川瀬公園
-  - date: 2025-03-01 04:38:37 +0000
+  - date: 2025-03-08 04:38:37 +0000
     team: B
     time: 8：00 ～ 16：30
     description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2025-03-02 09:09:12 +0000
+  - date: 2025-03-08 10:53:56 +0000
+    team: B
+    time: 10：00 ～　　13：00 ～
+    description: 試合開始
+    location_text: 上郷コミュニティセンター
+  - date: 2025-03-09 09:09:12 +0000
     team: B
     time: 8：00 ～ 16：30
-    description: 練習試合
-    location_text: 矢作川西尾緑地少年野球場
-  - date: 2025-03-02 05:46:58 +0000
-    team: B
-    time: 10：30 ～　　13：30 ～
-    description: 試合開始
-    location_text: 矢作川西尾緑地少年野球場
+    description: 練習
+    location_text: 畝部小学校
   - date: 2025-03-08 07:38:08 +0000
     team: C
     time: 12：00 ～ 17：00
