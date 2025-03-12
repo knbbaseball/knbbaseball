@@ -27,7 +27,7 @@ schedule:
     time: 8：00 ～ 16：30
     description: 練習試合
     location_text: 上郷コミュニティセンター
-  - date: 2025-03-08 10:53:56 +0000
+  - date: 2025-03-15 10:53:56 +0000
     team: B
     time: 10：00　～
     description: 試合開始
