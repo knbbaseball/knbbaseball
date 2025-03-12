@@ -7,56 +7,56 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-03-08 13:50:38 +0000
+  - date: 2025-03-15 13:50:38 +0000
+    team: A
+    time: 8：30 ～ 17：00
+    description: 東海団地　春季大会
+    location_text: 高嶺小学校　草刈公園グランド
+  - date: 2025-03-15 08:34:53 +0000
+    team: A
+    time: 15：00　～
+    description: 試合開始
+    location_text: 草刈公園グランド
+  - date: 2025-03-16 09:23:05 +0000
     team: A
     time: 8：30 ～ 16：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2025-03-09 09:23:05 +0000
-    team: A
-    time: 8：00 ～ 16：00
-    description: 練習試合
-    location_text: 柳川瀬公園グラウンド
-  - date: 2025-03-09 08:34:53 +0000
-    team: A
-    time: 10：00　～　　　　　　13：00　～
-    description: 試合開始
-    location_text: 柳川瀬公園
-  - date: 2025-03-08 04:38:37 +0000
+  - date: 2025-03-15 04:38:37 +0000
     team: B
     time: 8：00 ～ 16：30
-    description: 練習
+    description: 練習試合
     location_text: 上郷コミュニティセンター
   - date: 2025-03-08 10:53:56 +0000
     team: B
-    time: 10：00 ～　　13：00 ～
+    time: 10：00　～
     description: 試合開始
     location_text: 上郷コミュニティセンター
-  - date: 2025-03-09 09:09:12 +0000
-    team: B
+  - date: 2025-03-16 09:09:12 +0000
+    team: B ＆ C
     time: 8：00 ～ 16：30
+    description: Bチーム ＆ Cチーム 合同練習
+    location_text: 畝部小学校
+  - date: 2025-03-15 07:38:08 +0000
+    team: C
+    time: 8：30 ～ 13：00
     description: 練習
     location_text: 畝部小学校
-  - date: 2025-03-08 07:38:08 +0000
-    team: C
-    time: 12：00 ～ 17：00
-    description: 練習
-    location_text: 畝部小学校
-  - date: 2025-03-09 07:39:32 +0000
-    team: C
-    time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 寿恵野小学校
-  - date: 2025-03-08 09:03:58 +0000
+  - date: 2025-03-15 09:03:58 +0000
     team: D
     time: 12：30 ～ 16：00
     description: 練習
     location_text: 寿恵野小学校
-  - date: 2025-03-09 09:04:01 +0000
+  - date: 2025-03-16 09:04:01 +0000
     team: D
-    time: 8：30 ～ 12：00
-    description: 練習
-    location_text: 高嶺小学校
+    time: 9：30 ～ 16：00
+    description: 練習試合
+    location_text: 高嶺小学校　南グランド
+  - date: 2025-03-16 06:03:54 +0000
+    team: D
+    time: 14：00　～
+    description: 試合開始
+    location_text: 南グランド
 info:
   title: 一緒に野球やろうよ！！
   content: |-
