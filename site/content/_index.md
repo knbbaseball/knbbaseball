@@ -12,7 +12,7 @@ schedule:
     time: 8：00 ～ 17：00
     description: 練習試合
     location_text: トヨタ自動車堤グラウンド
-  - date: 2025-03-15 08:34:53 +0000
+  - date: 2025-03-22 08:34:53 +0000
     team: A
     time: 10：00　～　　　　　　　　　　　13：00　～
     description: 試合開始
