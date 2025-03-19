@@ -7,56 +7,56 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-03-15 13:50:38 +0000
+  - date: 2025-03-22 13:50:38 +0000
     team: A
-    time: 8：30 ～ 17：00
-    description: 東海団地　春季大会
-    location_text: 高嶺小学校　草刈公園グランド
+    time: 8：00 ～ 17：00
+    description: 練習試合
+    location_text: トヨタ自動車堤グラウンド
   - date: 2025-03-15 08:34:53 +0000
     team: A
-    time: 15：00　～
+    time: 10：00　～　　　　　　　　　　　13：00　～
     description: 試合開始
-    location_text: 草刈公園グランド
-  - date: 2025-03-16 09:23:05 +0000
+    location_text: トヨタ自動車堤グラウンド
+  - date: 2025-03-23 09:23:05 +0000
     team: A
     time: 8：30 ～ 16：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2025-03-15 04:38:37 +0000
-    team: B
-    time: 8：00 ～ 16：30
-    description: 練習試合
-    location_text: 上郷コミュニティセンター
-  - date: 2025-03-15 10:53:56 +0000
-    team: B
-    time: 10：00　～
-    description: 試合開始
-    location_text: 上郷コミュニティセンター
-  - date: 2025-03-16 09:09:12 +0000
+  - date: 2025-03-22 09:09:12 +0000
     team: B ＆ C
     time: 8：00 ～ 16：30
     description: Bチーム ＆ Cチーム 合同練習
-    location_text: 畝部小学校
-  - date: 2025-03-15 07:38:08 +0000
+    location_text: 高嶺小学校
+  - date: 2025-03-23 04:38:37 +0000
+    team: B
+    time: 8：00 ～ 17：00
+    description: 練習試合
+    location_text: 南グランド　尾張旭市渋川小学校
+  - date: 2025-03-23 10:53:56 +0000
+    team: B
+    time: 13：00　～　　　　　　　　　　14：30　～
+    description: 試合開始
+    location_text: 尾張旭市渋川小学校
+  - date: 2025-03-23 07:38:08 +0000
     team: C
     time: 8：30 ～ 13：00
     description: 練習
-    location_text: 畝部小学校
-  - date: 2025-03-15 09:03:58 +0000
+    location_text: 南グランド
+  - date: 2025-03-22 09:03:58 +0000
     team: D
     time: 12：30 ～ 16：00
     description: 練習
     location_text: 寿恵野小学校
-  - date: 2025-03-16 09:04:01 +0000
+  - date: 2025-03-23 09:04:01 +0000
     team: D
-    time: 9：30 ～ 16：00
+    time: 8：30 ～ 16：00
     description: 練習試合
-    location_text: 高嶺小学校　南グランド
-  - date: 2025-03-16 06:03:54 +0000
+    location_text: 寿恵野小学校
+  - date: 2025-03-23 06:03:54 +0000
     team: D
-    time: 14：00　～
+    time: 10：30　～　　　　　　　　14：00　～
     description: 試合開始
-    location_text: 南グランド
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
