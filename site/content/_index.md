@@ -7,56 +7,66 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-03-22 13:50:38 +0000
+  - date: 2025-03-29 13:50:38 +0000
     team: A
     time: 8：00 ～ 17：00
-    description: 練習試合
-    location_text: トヨタ自動車堤グラウンド
-  - date: 2025-03-22 08:34:53 +0000
+    description: AM：トヨタレッドクルーザーズお花見イベント　　PM：練習
+    location_text: トヨタスポーツセンター　　　　　　　　高嶺小学校
+  - date: 2025-03-30 09:23:05 +0000
     team: A
-    time: 10：00　～　　　　　　　　　　　13：00　～
+    time: 8：00 ～ 13：00
+    description: スポーツ少年団
+    location_text: 新生公園グラウンド　A面
+  - date: 2025-03-30 08:34:53 +0000
+    team: A
+    time: 10：50　～
     description: 試合開始
-    location_text: トヨタ自動車堤グラウンド
-  - date: 2025-03-23 09:23:05 +0000
-    team: A
-    time: 8：30 ～ 16：00
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2025-03-22 09:09:12 +0000
-    team: B ＆ C
+    location_text: 新生公園グラウンド　A面
+  - date: 2025-03-29 09:09:12 +0000
+    team: B
     time: 8：00 ～ 16：30
-    description: Bチーム ＆ Cチーム 合同練習
-    location_text: 高嶺小学校
+    description: 練習試合
+    location_text: 美山小学校
+  - date: 2025-03-29 12:31:03 +0000
+    team: B
+    time: 10：00　～　　　　　　　　　14：00　～
+    description: 試合開始
+    location_text: 美山小学校
   - date: 2025-03-23 04:38:37 +0000
     team: B
-    time: 8：00 ～ 17：00
-    description: 練習試合
-    location_text: 南グランド　尾張旭市渋川小学校
-  - date: 2025-03-23 10:53:56 +0000
-    team: B
-    time: 13：00　～　　　　　　　　　　14：30　～
-    description: 試合開始
-    location_text: 尾張旭市渋川小学校
-  - date: 2025-03-23 07:38:08 +0000
-    team: C
-    time: 8：30 ～ 13：00
+    time: 8：00 ～ 11：30
     description: 練習
-    location_text: 南グランド
-  - date: 2025-03-22 09:03:58 +0000
+    location_text: 畝部小学校
+  - date: 2025-03-29 07:38:08 +0000
+    team: C
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2025-03-30 12:33:00 +0000
+    team: C
+    time: 6：30 ～ 16：30
+    description: AM：ろうきん杯開会式　　　　　　　　　　PM：練習試合
+    location_text: バンテリンドーム　　　　　　　　　　　高嶺小学校
+  - date: 2025-03-30 12:35:26 +0000
+    team: C
+    time: 13：30　～
+    description: 試合開始
+    location_text: 高嶺小学校
+  - date: 2025-03-29 09:03:58 +0000
     team: D
     time: 12：30 ～ 16：00
     description: 練習
     location_text: 寿恵野小学校
-  - date: 2025-03-23 09:04:01 +0000
+  - date: 2025-03-30 09:04:01 +0000
     team: D
-    time: 8：30 ～ 16：00
+    time: 9：00 ～ 16：00
     description: 練習試合
-    location_text: 寿恵野小学校
+    location_text: 高嶺小学校　　　　　　　　　　　南グラウンド
   - date: 2025-03-23 06:03:54 +0000
     team: D
-    time: 10：30　～　　　　　　　　14：00　～
+    time: 14：00　～
     description: 試合開始
-    location_text: 寿恵野小学校
+    location_text: 南グラウンド
 info:
   title: 一緒に野球やろうよ！！
   content: |-
@@ -73,6 +83,10 @@ info:
 ※体験は随時可能です！お気軽にお越しください！！
 
 ## 本年度入団者
+
+#### 【3/22】
+
+*筒井斗勇くん　5年生　東保見小学校
 
 #### 【1/19】
 
