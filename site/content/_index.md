@@ -49,7 +49,7 @@ schedule:
     location_text: 寿恵野小学校
   - date: 2025-04-06 09:03:58 +0000
     team: D
-    time: 8：30 ～ 12：00
+    time: 12：30 ～ 16：00
     description: 練習
     location_text: 寿恵野小学校
 info:
