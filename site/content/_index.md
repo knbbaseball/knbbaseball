@@ -7,17 +7,12 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-04-05 13:50:38 +0000
+  - date: 2025-04-12 13:50:38 +0000
     team: A
     time: 8：00 ～ 17：00
-    description: ろうきん杯
-    location_text: 高嶺小学校　　　　　　　　　　　　　　　晴丘グラウンド
-  - date: 2025-04-05 08:34:53 +0000
-    team: A
-    time: 12：45　～
-    description: 試合開始
-    location_text: 晴丘グラウンド
-  - date: 2025-04-06 09:23:05 +0000
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2025-04-13 09:23:05 +0000
     team: A
     time: 7：00 ～ 17：00
     description: スポーツ少年団
@@ -25,40 +20,65 @@ schedule:
   - date: 2025-04-06 07:06:57 +0000
     team: A
     description: 試合開始
-    time: 9：00　～
+    time: 10：50　～
     location_text: 柳川瀬児童野球場
-  - date: 2025-04-05 09:09:12 +0000
+  - date: 2025-04-12 09:09:12 +0000
+    team: B
+    time: 8：00 ～ 14：00
+    description: 練習試合
+    location_text: 上郷コミュニティセンター
+  - date: 2025-04-12 07:41:58 +0000
+    team: B
+    time: 9：30 ～　　　　　　　　　　　　　　11：30 ～
+    description: 試合開始
+    location_text: 上郷コミュニティセンター
+  - date: 2025-04-13 04:38:37 +0000
     team: B
     time: 8：00 ～ 16：30
-    description: 練習
+    description: ふれあいカップ
     location_text: 畝部小学校
-  - date: 2025-04-06 04:38:37 +0000
+  - date: 2025-04-13 07:42:11 +0000
     team: B
-    time: 8：00 ～ 16：30
-    description: 練習
+    time: 14：00 ～
+    description: 試合開始
     location_text: 畝部小学校
-  - date: 2025-04-05 07:38:08 +0000
+  - date: 2025-04-12 07:38:08 +0000
     team: C
     time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 寿恵野小学校
-  - date: 2025-04-06 12:33:00 +0000
+    description: 練習試合
+    location_text: 畝部小学校
+  - date: 2025-04-12 07:45:28 +0000
+    team: C
+    time: 10：00 ～
+    description: 試合開始
+    location_text: 畝部小学校
+  - date: 2025-04-13 12:33:00 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 寿恵野小学校
   - date: 2025-04-06 09:03:58 +0000
     team: D
-    time: 12：30 ～ 16：00
-    description: 練習
+    time: 9：00 ～ 16：00
+    description: 練習試合
     location_text: 寿恵野小学校
+  - date: 2025-04-12 07:47:03 +0000
+    team: D
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 寿恵野小学校
+  - date: 2025-04-13 07:48:26 +0000
+    team: D
+    time: 8：30 ～ 12：00
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
     仲間と一緒に楽しく野球しましょう⚾
     子供と一緒に野球を楽しみたいお父さん、お母さん
     ぜひご連絡お待ちしております！！
-  image: /img/画像6.png
+  image: /img/20250419ノーティ体験会.jpeg
   actionText: お申し込み・お問い合わせ
   actionUrl: mailto:knbbaseball@gmail.com?subject=お問い合わせ&body=名前%20%3A%0D%0Aふりがな%20%3A%0D%0A電話%20%3A%0D%0A学校名%20%3A%0D%0A学年%20%3A%0D%0Aお問い合せ内容%20%3A（例、体験・見学・入団希望）
 ---
