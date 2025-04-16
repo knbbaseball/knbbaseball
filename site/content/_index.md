@@ -7,17 +7,27 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-04-12 13:50:38 +0000
+  - date: 2025-04-19 06:58:04 +0000
+    team: A B C D
+    time: 10：00 ～ 12：00
+    description: 体験会やりまーーーす！！　※※※当日参加大歓迎 ♪ ※※※
+    location_text: 高嶺小学校
+  - date: 2025-04-19 13:50:38 +0000
     team: A
     time: 8：00 ～ 17：00
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2025-04-13 09:23:05 +0000
+    description: ふれあいカップ予選
+    location_text: 寿恵野小学校　三好丘小学校
+  - date: 2025-04-19 06:27:58 +0000
+    team: A
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 三好丘小学校
+  - date: 2025-04-20 09:23:05 +0000
     team: A
     time: 7：00 ～ 17：00
     description: スポーツ少年団
     location_text: 柳川瀬児童野球場　　　　　　　　　　　　　　高嶺小学校
-  - date: 2025-04-06 07:06:57 +0000
+  - date: 2025-04-20 07:06:57 +0000
     team: A
     description: 試合開始
     time: 10：50　～
@@ -42,36 +52,26 @@ schedule:
     time: 14：00 ～
     description: 試合開始
     location_text: 畝部小学校
-  - date: 2025-04-12 07:38:08 +0000
-    team: C
-    time: 8：30 ～ 16：30
-    description: 練習試合
-    location_text: 畝部小学校
-  - date: 2025-04-12 07:45:28 +0000
-    team: C
-    time: 10：00 ～
-    description: 試合開始
-    location_text: 畝部小学校
-  - date: 2025-04-13 12:33:00 +0000
+  - date: 2025-04-19 07:38:08 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
-    location_text: 寿恵野小学校
-  - date: 2025-04-06 09:03:58 +0000
+    location_text: 高嶺小学校
+  - date: 2025-04-20 12:33:00 +0000
+    team: C
+    time: 8：30 ～ 16：30
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2025-04-19 09:03:58 +0000
     team: D
-    time: 9：00 ～ 16：00
-    description: 練習試合
-    location_text: 寿恵野小学校
-  - date: 2025-04-12 07:47:03 +0000
-    team: D
-    time: 14：00 ～
-    description: 試合開始
-    location_text: 寿恵野小学校
-  - date: 2025-04-13 07:48:26 +0000
+    time: 9：00 ～ 12：00
+    description: 練習
+    location_text: 高嶺小学校
+  - date: 2025-04-20 07:48:26 +0000
     team: D
     time: 8：30 ～ 12：00
     description: 練習
-    location_text: 高嶺小学校
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
