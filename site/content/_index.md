@@ -10,7 +10,7 @@ schedule:
   - date: 2025-05-10 06:58:04 +0000
     team: A
     time: 8：00 ～ 17：00
-    description: AM ： ふれあいカップ　　　　　　　　PM ： 練習　※PMより、レッドクルーザーズ今井選手コーチング
+    description: AM ： ふれあいカップ　　　　　　　　　　PM ： 練習　※PMより、レッドクルーザーズ今井選手コーチング
     location_text: 長久手南小学校　高嶺小学校
   - date: 2025-05-10 07:56:22 +0000
     team: A
