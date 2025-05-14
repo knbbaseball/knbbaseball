@@ -7,66 +7,76 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-05-10 06:58:04 +0000
+  - date: 2025-05-17 06:58:04 +0000
     team: A
     time: 8：00 ～ 17：00
-    description: AM ： ふれあいカップ　　　　　　　　　　PM ： 練習　※PMより、レッドクルーザーズ今井選手コーチング
-    location_text: 長久手南小学校　高嶺小学校
-  - date: 2025-05-10 07:56:22 +0000
+    description: ポップアスリートカップ
+    location_text: 高嶺小学校
+  - date: 2025-05-17 07:56:22 +0000
     team: A
-    time: 10 ： 00 ～
+    time: 14 ： 00 ～
     description: 試合開始
-    location_text: 長久手南小学校
-  - date: 2025-05-11 07:56:23 +0000
+    location_text: 高嶺小学校
+  - date: 2025-05-18 07:56:23 +0000
     team: A
     time: 7：00 ～ 17：00
     description: 夏季中日大会
-    location_text: 柳川瀬公園野球場
-  - date: 2025-05-11 07:56:23 +0000
+    location_text: 新生公園グランド
+  - date: 2025-05-18 07:56:23 +0000
     team: A
-    time: 10：20 ～
+    time: 9：00 ～
     description: 試合開始
-    location_text: 柳川瀬公園野球場
-  - date: 2025-05-10 07:56:23 +0000
+    location_text: 新生公園グランド
+  - date: 2025-05-17 07:56:23 +0000
     team: B
     time: 8：00 ～ 16：30
-    description: 練習
+    description: 三河湾KSリーグ
     location_text: 上郷コミュニティセンター
-  - date: 2025-05-11 07:56:23 +0000
+  - date: 2025-05-17 07:09:29 +0000
     team: B
-    time: 8：00 ～ 16：30
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 上郷コミュニティセンター
+  - date: 2025-05-18 07:56:23 +0000
+    team: B
+    time: 7：00 ～ 16：30
     description: 練習試合
-    location_text: 井上公園　上郷コミュニティセンター
+    location_text: 南グランド
+  - date: 2025-05-18 07:10:50 +0000
+    team: B
+    time: 9：00 ～
+    description: 試合開始
+    location_text: 南グランド
   - date: 2025-05-10 07:38:08 +0000
     team: C
     time: 8：30 ～ 16：30
-    description: ふれあいカップ
-    location_text: 畝部小学校
-  - date: 2025-05-10 07:58:40 +0000
-    team: C
-    time: 14：00 ～
-    description: 試合開始
-    location_text: 畝部小学校
-  - date: 2025-05-11 07:58:40 +0000
-    team: C
-    time: 8：30 ～ 16：30
     description: 練習
     location_text: 畝部小学校
-  - date: 2025-05-10 09:03:58 +0000
+  - date: 2025-05-18 07:58:40 +0000
+    team: C
+    time: 7：30 ～ 16：30
+    description: 三河湾KSリーグ　　　　　　　　　　　　　　　　　　　　　　　練習試合
+    location_text: 西尾矢作川緑地少年野球場
+  - date: 2025-05-18 07:58:40 +0000
+    team: C
+    time: 10：30 ～　　　　　　　　　　　　　　　　　　　　　　　　　13：30 ～
+    description: 試合開始
+    location_text: 西尾矢作川緑地少年野球場
+  - date: 2025-05-17 09:03:58 +0000
     team: D
     time: 12：30 ～ 16：30
     description: 練習
-    location_text: 高嶺小学校
-  - date: 2025-05-11 07:58:41 +0000
+    location_text: 寿恵野小学校
+  - date: 2025-05-18 07:58:41 +0000
     team: D
-    time: 7：30 ～ 12：30
+    time: 8：30 ～ 16：00
     description: 練習試合
-    location_text: 山之手公園
-  - date: 2025-05-11 08:01:44 +0000
+    location_text: 寿恵野小学校
+  - date: 2025-05-18 08:01:44 +0000
     team: D
-    time: 10：30 ～
+    time: 10：30 ～　　　　　　　　　　　　　　　　　　　　　　　14：00 ～
     description: 試合開始
-    location_text: 山之手公園
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！
   content: |-
