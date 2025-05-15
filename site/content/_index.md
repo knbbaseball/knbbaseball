@@ -47,7 +47,7 @@ schedule:
     time: 9：00 ～
     description: 試合開始
     location_text: 南グランド
-  - date: 2025-05-10 07:38:08 +0000
+  - date: 2025-05-17 07:38:08 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
