@@ -12,7 +12,7 @@ schedule:
     time: 8：00 ～ 17：00
     description: ポップアスリートカップ
     location_text: 高嶺小学校
-  - date: 2025-05-17 07:56:22 +0000
+  - date: 2025-05-24 07:56:22 +0000
     team: A
     time: 15 ： 30 ～
     description: 試合開始
