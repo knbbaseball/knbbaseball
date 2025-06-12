@@ -7,64 +7,64 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-06-07 06:58:04 +0000
+  - date: 2025-06-14 06:58:04 +0000
     team: A
     time: 8：00 ～ 17：00
-    description: ふれあいカップ　予選
+    description: 練習試合
     location_text: 高嶺小学校
-  - date: 2025-06-07 07:56:22 +0000
+  - date: 2025-06-14 07:56:22 +0000
     team: A
-    time: 10 ： 00 ～
+    time: 10 ： 00 ～　　　　　　　　　　　　　　　　　14：00 ～
     description: 試合開始
     location_text: 高嶺小学校
-  - date: 2025-06-08 07:56:23 +0000
+  - date: 2025-06-15 07:56:23 +0000
     team: A
     time: 8：30 ～ 17：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2025-06-07 07:56:23 +0000
+  - date: 2025-06-14 07:56:23 +0000
     team: B
-    time: 7：30 ～ 16：00
-    description: KSリーグ　練習試合
-    location_text: 平坂小学校
-  - date: 2025-06-07 07:10:50 +0000
+    time: 7：30 ～ 16：30
+    description: 積水カップ
+    location_text: 南グランド　地域文化広場A面
+  - date: 2025-06-14 07:10:50 +0000
     team: B
-    time: 10：00 ～　　　　　　　　　　　　　　13：00 ～
+    time: 10：50 ～
     description: 試合開始
-    location_text: 平坂小学校
-  - date: 2025-06-08 07:56:23 +0000
+    location_text: 地域文化広場A面
+  - date: 2025-06-15 07:56:23 +0000
     team: B
     time: 8：00 ～ 16：30
-    description: 練習　練習試合
-    location_text: 畝部小学校　　　　　　　　　　　　　　　守山区幸心グラウンド
-  - date: 2025-06-08 04:21:54 +0000
+    description: KSリーグ
+    location_text: 畝部小学校
+  - date: 2025-06-15 04:21:54 +0000
     team: B
     time: 14：00 ～
     description: 試合開始
-    location_text: 守山区幸心グラウンド
-  - date: 2025-06-07 07:38:08 +0000
+    location_text: 畝部小学校
+  - date: 2025-06-14 07:38:08 +0000
     team: C
-    time: 8：30 ～ 16：30
-    description: ふれあいカップ　予選
-    location_text: 南グラウンド
-  - date: 2025-06-07 07:58:40 +0000
+    time: 7：30 ～ 16：30
+    description: KSリーグ　予選
+    location_text: 畝部小学校
+  - date: 2025-06-14 07:58:40 +0000
     team: C
-    time: 14：00 ～
+    time: 10：00 ～
     description: 試合開始
-    location_text: 南グラウンド
-  - date: 2025-06-08 07:58:40 +0000
+    location_text: 畝部小学校
+  - date: 2025-06-15 07:58:40 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
     location_text: 寿恵野小学校
-  - date: 2025-06-07 09:03:58 +0000
+  - date: 2025-06-14 09:03:58 +0000
     team: D
-    time: 12：30 ～ 16：30
+    time: 7：30 ～ 15：00
     description: 練習
     location_text: 寿恵野小学校
   - date: 2025-06-08 07:58:41 +0000
     team: D
-    time: 8：30 ～ 12：30
+    time: 7：30 ～ 15：00
     description: 練習
     location_text: 高嶺小学校
 info:
