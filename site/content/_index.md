@@ -14,7 +14,7 @@ schedule:
     location_text: 高嶺小学校
   - date: 2025-06-14 07:56:22 +0000
     team: A
-    time: 10 ： 00 ～　　　　　　　　　　　　　　　　　14：00 ～
+    time: 10 ： 00 ～　　　　　　　　　　　　　　　　　14 ： 00 ～
     description: 試合開始
     location_text: 高嶺小学校
   - date: 2025-06-15 07:56:23 +0000
