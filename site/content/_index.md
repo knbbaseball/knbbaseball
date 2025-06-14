@@ -54,7 +54,7 @@ schedule:
     location_text: 畝部小学校
   - date: 2025-06-15 07:58:40 +0000
     team: C
-    time: 8：30 ～ 16：30
+    time: 12：00 ～ 16：30
     description: 練習
     location_text: 寿恵野小学校
   - date: 2025-06-14 09:03:58 +0000
