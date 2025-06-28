@@ -15,8 +15,8 @@ schedule:
   - date: 2025-06-29 07:56:23 +0000
     team: A
     time: 6：30 ～ 16：00
-    description: 小幡旗大会　高嶺小学校
-    location_text: 柳川瀬グラウンド
+    description: 小幡旗大会
+    location_text: 柳川瀬グラウンド　高嶺小学校
   - date: 2025-06-29 06:51:07 +0000
     team: A
     time: 8：30 ～
