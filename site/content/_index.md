@@ -68,7 +68,7 @@ info:
     仲間と一緒に楽しく野球しましょう⚾
     子供と一緒に野球を楽しみたいお父さん、お母さん
     ぜひご連絡お待ちしております！！
-  image: /img/画像6.png
+  image: /img/メンバー募集.jpg
   actionText: お申し込み・お問い合わせ
   actionUrl: mailto:knbbaseball@gmail.com?subject=お問い合わせ&body=名前%20%3A%0D%0Aふりがな%20%3A%0D%0A電話%20%3A%0D%0A学校名%20%3A%0D%0A学年%20%3A%0D%0Aお問い合せ内容%20%3A（例、体験・見学・入団希望）
 ---
