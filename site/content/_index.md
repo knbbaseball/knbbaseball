@@ -7,71 +7,66 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-07-05 06:58:04 +0000
+  - date: 2025-07-12 06:58:04 +0000
     team: A
     time: 8：00 ～ 16：00
-    description: 練習試合
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2025-07-05 06:51:07 +0000
-    team: A
-    time: 10：00 ～　　　　　　　　　　　　　　　　　14：00 ～
-    description: 試合開始
-    location_text: 高嶺小学校
-  - date: 2025-07-06 07:56:23 +0000
+  - date: 2025-07-13 07:56:23 +0000
     team: A
     time: 7：00 ～ 16：00
-    description: 愛知県高校野球予選始球式　練習
-    location_text: 豊田市運動公園　高嶺小学校
-  - date: 2025-07-05 07:56:23 +0000
+    description: ふれあいカップ　予選
+    location_text: 高嶺小学校
+  - date: 2025-07-13 06:51:07 +0000
+    team: A
+    time: 9：00 ～
+    description: 試合開始
+    location_text: 高嶺小学校
+  - date: 2025-07-12 07:56:23 +0000
     team: B
     time: 8：00 ～ 16：30
-    description: 北名古屋コミニケーションズ杯
-    location_text: あま市美和グラウンド
-  - date: 2025-07-05 07:10:50 +0000
+    description: KSリーグ
+    location_text: 南グランド
+  - date: 2025-07-12 00:13:30 +0000
     team: B
-    time: 13：30 ～
+    time: 10：30 ～
     description: 試合開始
-    location_text: あま市美和グラウンド
-  - date: 2025-07-06 07:56:23 +0000
+    location_text: 南グランド
+  - date: 2025-07-13 07:56:23 +0000
     team: B
     time: 8：00 ～ 16：30
-    description: 練習
-    location_text: 畝部小学校
-  - date: 2025-07-05 07:38:08 +0000
-    team: C
-    time: 7：00 ～ 16：00
-    description: KSリーグ　予選
-    location_text: 三谷小学校
-  - date: 2025-07-05 00:52:23 +0000
-    team: C
-    time: 10：00 ～
+    description: KSリーグ
+    location_text: 衣浦小学校
+  - date: 2025-07-13 07:10:50 +0000
+    team: B
+    time: 10：30 ～
     description: 試合開始
-    location_text: 三谷小学校
-  - date: 2025-07-06 07:58:40 +0000
+    location_text: 衣浦小学校
+  - date: 2025-07-12 07:38:08 +0000
     team: C
-    time: 7：30 ～ 16：00
-    description: KSリーグ　予選
-    location_text: 寿恵野小学校
-  - date: 2025-07-06 04:50:02 +0000
-    team: C
-    time: 10：00 ～
-    description: 試合開始
-    location_text: 寿恵野小学校
-  - date: 2025-07-05 09:03:58 +0000
-    team: D
-    time: 7：30 ～ 15：00
-    description: 練習
-    location_text: 寿恵野小学校
-  - date: 2025-07-06 07:58:41 +0000
-    team: D
     time: 7：30 ～ 15：30
-    description: 練習試合
-    location_text: 東郷小学校
-  - date: 2025-07-06 04:50:45 +0000
-    team: D
-    time: 10：00 ～　　　　　　　　　　　　　　　　　　　　　　　　　13：00 ～
+    description: ふれあいカップ　予選
+    location_text: 畝部小学校
+  - date: 2025-07-12 00:52:23 +0000
+    team: C
+    time: 10：00 ～
     description: 試合開始
-    location_text: 東郷小学校
+    location_text: 畝部小学校
+  - date: 2025-07-13 07:58:40 +0000
+    team: C
+    time: 8：00 ～ 12：30
+    description: 練習
+    location_text: 寿恵野小学校
+  - date: 2025-07-12 09:03:58 +0000
+    team: D
+    time: 8：00 ～ 15：00
+    description: 練習
+    location_text: 寿恵野小学校
+  - date: 2025-07-13 07:58:41 +0000
+    team: D
+    time: 8：00 ～ 15：00
+    description: 練習
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
@@ -89,6 +84,10 @@ info:
 ※体験は随時可能です！お気軽にお越しください！！
 
 ## 本年度入団者
+
+#### 【6/29】
+
+*神谷綴くん　　3年生　下山小学校
 
 #### 【6/21】
 
