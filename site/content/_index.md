@@ -7,61 +7,61 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま新6年生～新1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-07-26 06:58:04 +0000
+  - date: 2025-08-02 06:58:04 +0000
     team: A
     time: 8：00 ～ 16：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2025-07-27 07:56:23 +0000
+  - date: 2025-08-03 07:56:23 +0000
     team: A
     time: 8：00 ～ 16：00
-    description: 練習試合
+    description: 練習
     location_text: 高嶺小学校
-  - date: 2025-07-20 06:51:07 +0000
-    team: A
-    time: 10：00 ～
-    description: 試合開始
-    location_text: 高嶺小学校
-  - date: 2025-07-26 07:56:23 +0000
-    team: B
-    time: 8：30 ～ 17：00
-    description: ふれあいカップ
-    location_text: 上郷コミュニティーセンター
-  - date: 2025-07-26 00:13:30 +0000
-    team: B
-    time: 15：00 ～
-    description: 試合開始
-    location_text: 上郷コミュニティセンター
-  - date: 2025-07-27 07:56:23 +0000
+  - date: 2025-08-02 07:56:23 +0000
     team: B
     time: 8：00 ～ 16：30
     description: 練習
-    location_text: 南グランド
-  - date: 2025-07-26 07:38:08 +0000
+    location_text: 上郷コミュニティーセンター
+  - date: 2025-08-03 07:56:23 +0000
+    team: B
+    time: 8：00 ～ 16：30
+    description: ふれあいカップ
+    location_text: 畝部小学校
+  - date: 2025-08-03 00:13:30 +0000
+    team: B
+    time: 13：00 ～
+    description: 試合開始
+    location_text: 畝部小学校
+  - date: 2025-08-02 07:38:08 +0000
     team: C
-    time: 8：00 ～ 16：00
-    description: 大島杯開会式　練習
-    location_text: 大高緑地公園児童野球場　畝部小学校
-  - date: 2025-07-27 07:58:40 +0000
+    time: 7：00 ～ 15：00
+    description: チャレンジカップ
+    location_text: 畝部小学校
+  - date: 2025-08-02 00:52:23 +0000
     team: C
-    time: 7：00 ～ 15：30
-    description: KSリーグ
-    location_text: 碧南市立大浜小学校
-  - date: 2025-07-27 00:52:23 +0000
+    time: 9：00 ～
+    description: 試合開始
+    location_text: 畝部小学校
+  - date: 2025-08-03 07:58:40 +0000
+    team: C
+    time: 8：00 ～ 15：30
+    description: 大島杯
+    location_text: 寿恵野小学校
+  - date: 2025-08-03 09:00:43 +0000
     team: C
     time: 10：00 ～
     description: 試合開始
-    location_text: 碧南市立大浜小学校
-  - date: 2025-07-26 09:03:58 +0000
+    location_text: 寿恵野小学校
+  - date: 2025-08-02 09:03:58 +0000
     team: D
-    time: 8：00 ～ 12：00
+    time: 8：00 ～ 15：00
     description: 練習
     location_text: 寿恵野小学校
-  - date: 2025-07-27 07:58:41 +0000
+  - date: 2025-08-03 07:58:41 +0000
     team: D
-    time: 8：00 ～ 12：00
+    time: 8：00 ～ 15：00
     description: 練習
-    location_text: 寿恵野小学校
+    location_text: 高嶺小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
