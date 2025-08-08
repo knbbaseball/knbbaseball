@@ -7,61 +7,21 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-08-02 06:58:04 +0000
+  - date: 2025-08-09 06:58:04 +0000
     team: A
-    time: 8：00 ～ 16：00
+    time: 8：30 ～ 12：30
     description: 練習
-    location_text: 高嶺小学校
-  - date: 2025-08-03 07:56:23 +0000
+    location_text: 上郷コミュニティセンター
+  - date: 2025-08-10 07:56:23 +0000
     team: A
-    time: 8：00 ～ 16：00
-    description: 練習
-    location_text: 高嶺小学校
-  - date: 2025-08-02 07:56:23 +0000
-    team: B
-    time: 8：00 ～ 16：30
-    description: 練習
-    location_text: 上郷コミュニティーセンター
-  - date: 2025-08-03 07:56:23 +0000
-    team: B
-    time: 8：00 ～ 16：30
-    description: ふれあいカップ
-    location_text: 畝部小学校
-  - date: 2025-08-03 00:13:30 +0000
-    team: B
-    time: 13：00 ～
-    description: 試合開始
-    location_text: 畝部小学校
-  - date: 2025-08-02 07:38:08 +0000
-    team: C
-    time: 7：00 ～ 15：00
-    description: チャレンジカップ
-    location_text: 畝部小学校
-  - date: 2025-08-02 00:52:23 +0000
-    team: C
-    time: 9：00 ～
-    description: 試合開始
-    location_text: 畝部小学校
-  - date: 2025-08-03 07:58:40 +0000
-    team: C
-    time: 8：00 ～ 15：30
-    description: 大島杯
-    location_text: 寿恵野小学校
-  - date: 2025-08-03 09:00:43 +0000
-    team: C
-    time: 10：00 ～
-    description: 試合開始
-    location_text: 寿恵野小学校
-  - date: 2025-08-02 09:03:58 +0000
+    time: 8：00 ～ 17：00
+    description: 自主練習
+    location_text: 南グランド
+  - date: 2025-08-09 09:03:58 +0000
     team: D
-    time: 8：00 ～ 15：00
+    time: 8：00 ～ 12：30
     description: 練習
-    location_text: 寿恵野小学校
-  - date: 2025-08-03 07:58:41 +0000
-    team: D
-    time: 8：00 ～ 15：00
-    description: 練習
-    location_text: 高嶺小学校
+    location_text: 富士精工グラウンド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
