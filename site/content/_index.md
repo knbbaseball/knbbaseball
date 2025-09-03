@@ -7,65 +7,65 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-08-30 06:58:04 +0000
-    team: A
-    time: 7：00 ～ 13：00
-    description: スポーツデポ杯
-    location_text: 新蟹江小学校
-  - date: 2025-08-30 23:06:12 +0000
-    team: A
-    time: 9：00 ～
-    description: 試合開始
-    location_text: 新蟹江小学校
-  - date: 2025-08-31 07:56:23 +0000
+  - date: 2025-09-06 06:58:04 +0000
     team: A
     time: 8：00 ～ 16：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2025-08-30 23:06:12 +0000
-    team: B
-    time: 8：00 ～ 15：30
-    description: 練習・トレーニング教室
-    location_text: 上郷コミュニティセンター
-  - date: 2025-08-31 23:06:12 +0000
-    team: B
-    time: 8：00 ～ 16：30
+  - date: 2025-09-07 07:56:23 +0000
+    team: A
+    time: 8：00 ～ 16：00
     description: 練習
-    location_text: 上郷コミュニティセンター
-  - date: 2025-08-30 23:06:13 +0000
+    location_text: 高嶺小学校
+  - date: 2025-09-06 23:06:12 +0000
+    team: B
+    time: 6：30 ～ 15：00
+    description: 積水カップ
+    location_text: 地域文化広場・上郷コミュニティセンター
+  - date: 2025-09-06 01:40:21 +0000
+    team: B
+    time: 9：00 ～
+    description: 試合開始
+    location_text: 地域文化広場A面
+  - date: 2025-09-07 23:06:12 +0000
+    team: B
+    time: 8：00 ～ 17：00
+    description: 北名古屋コミュニケーションズ杯
+    location_text: 西尾横須賀公園
+  - date: 2025-09-07 01:40:22 +0000
+    team: B
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 西尾横須賀公園
+  - date: 2025-09-06 23:06:13 +0000
     team: C
-    time: 8：30 ～ 16：00
-    description: 大島杯
+    time: 8：00 ～ 15：30
+    description: JAPAN CUP
     location_text: 畝部小学校
-  - date: 2025-08-31 23:06:13 +0000
+  - date: 2025-09-06 01:44:25 +0000
     team: C
-    time: 8：00 ～ 13：00
+    time: 10：00 ～
+    description: 試合開始
+    location_text: 畝部小学校
+  - date: 2025-09-07 23:06:13 +0000
+    team: C
+    time: 8：00 ～ 15：30
     description: 大島杯
-    location_text: 守山区幸心グランド
-  - date: 2025-08-31 23:06:13 +0000
+    location_text: 富士精工グラウンド
+  - date: 2025-09-07 23:06:13 +0000
     team: C
-    time: 10：45 ～
+    time: 10：00 ～
     description: 試合開始
-    location_text: 守山区幸心グランド
-  - date: 2025-08-30 09:03:58 +0000
-    team: D
-    time: 7：00 ～ 13：00
-    description: 練習試合
-    location_text: 寿恵野小学校
-  - date: 2025-08-30 23:17:07 +0000
-    team: D
-    time: 9：30 ～
-    description: 試合開始
-    location_text: 寿恵野小学校
-  - date: 2025-08-31 23:06:14 +0000
+    location_text: 富士精工グラウンド
+  - date: 2025-09-06 09:03:58 +0000
     team: D
     time: 8：00 ～ 15：00
-    description: ふれあいカップ　予選
+    description: 練習
     location_text: 寿恵野小学校
-  - date: 2025-08-31 05:51:00 +0000
+  - date: 2025-09-07 23:06:14 +0000
     team: D
-    time: 10：30 ～
-    description: 試合開始
+    time: 8：00 ～ 15：00
+    description: 練習
     location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
