@@ -7,66 +7,71 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-09-20 06:58:04 +0000
+  - date: 2025-09-27 06:58:04 +0000
     team: A
-    time: 8：00 ～ 16：00
+    time: 8：30 ～ 13：00
     description: 練習
     location_text: 高嶺小学校
-  - date: 2025-09-21 07:56:23 +0000
+  - date: 2025-09-28 07:56:23 +0000
     team: A
     time: 8：00 ～ 17：00
-    description: 東海団地2回戦
-    location_text: 春日井市立石尾台小学校
+    description: スポーツデポ杯
+    location_text: 佐屋川グランドA面
   - date: 2025-09-21 00:31:41 +0000
     team: A
-    time: 14：00 ～
+    time: 14：30 ～
     description: 試合開始
-    location_text: 春日井市立石尾台小学校
+    location_text: 佐屋川グランドA面
   - date: 2025-09-20 23:06:12 +0000
     team: B
-    time: 8：00 ～ 17：00
-    description: 北名古屋コミュニケーションズ杯
-    location_text: 北名古屋市立栗島小学校
-  - date: 2025-09-20 01:40:21 +0000
+    time: 8：00 ～ 16：30
+    description: 練習
+    location_text: 上郷コミュニティセンター
+  - date: 2025-09-28 23:06:12 +0000
     team: B
-    time: 14：00 ～
-    description: 試合開始
-    location_text: 北名古屋市立栗島小学校
-  - date: 2025-09-21 23:06:12 +0000
-    team: B
-    time: 6：30 ～ 15：00
+    time: 7：00 ～ 16：00
     description: 新人戦
-    location_text: 柳川瀬グラウンド　　　　　　　　　　　　　　　　　　畝部小学校
-  - date: 2025-09-21 00:29:18 +0000
+    location_text: 新生グランド　　　　　　　　　　　　　　　　　　畝部小学校
+  - date: 2025-09-28 01:40:21 +0000
     team: B
-    time: 8：30 ～
+    time: 10：50 ～
     description: 試合開始
-    location_text: 柳川瀬グラウンド
-  - date: 2025-09-20 23:06:13 +0000
+    location_text: 新生グランド
+  - date: 2025-09-27 23:06:13 +0000
     team: C
     time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 畝部小学校
-  - date: 2025-09-21 23:06:13 +0000
-    team: C
-    time: 8：30 ～ 16：30
-    description: 練習
-    location_text: 富士精工グランド
-  - date: 2025-09-20 09:03:58 +0000
-    team: D
-    time: 9：00 ～ 16：00
-    description: ふれあいカップ
-    location_text: 寿恵野小学校　　　　　　　　　　　　　　　　　　　　　九久平小学校
-  - date: 2025-09-20 00:41:04 +0000
-    team: D
-    time: 14：00 ～
-    description: 試合開始
-    location_text: 九久平小学校
-  - date: 2025-09-21 23:06:14 +0000
-    team: D
-    time: 8：00 ～ 15：00
     description: 練習
     location_text: 寿恵野小学校
+  - date: 2025-09-28 23:06:13 +0000
+    team: C
+    time: 8：00 ～ 16：30
+    description: JAPAN CUP
+    location_text: 岡崎市矢作西小学校
+  - date: 2025-09-28 23:55:39 +0000
+    team: C
+    time: 10：00 ～
+    description: 試合開始
+    location_text: 岡崎市矢作西小学校
+  - date: 2025-09-27 09:03:58 +0000
+    team: D
+    time: 10：00 ～ 17：00
+    description: オレンジカップ
+    location_text: 碧南市玉津浦グランド
+  - date: 2025-09-27 00:41:04 +0000
+    team: D
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 碧南市玉津浦グランド
+  - date: 2025-09-28 23:06:14 +0000
+    team: D
+    time: 8：00 ～ 15：00
+    description: ふれあいカップ　予選
+    location_text: 西岡ふれあい広場　グランド
+  - date: 2025-09-28 23:56:21 +0000
+    team: D
+    time: 10：30 ～
+    description: 試合開始
+    location_text: 西岡ふれあい広場　グランド
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
