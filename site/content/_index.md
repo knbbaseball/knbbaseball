@@ -84,7 +84,7 @@ info:
     やったことがないけど・・・な、お子さんでも大丈夫です😊
     スタッフがイチから丁寧にフォローします❗❗
     みんなで楽しく野球やろうぜ😆
-  image: /img/メンバー募集.jpg
+  image: /img/20251115野球体験会.jpg
   actionText: お申し込み・お問い合わせ
   actionUrl: mailto:knbbaseball@gmail.com?subject=お問い合わせ&body=名前%20%3A%0D%0Aふりがな%20%3A%0D%0A電話%20%3A%0D%0A学校名%20%3A%0D%0A学年%20%3A%0D%0Aお問い合せ内容%20%3A（例、体験・見学・入団希望）
 ---
