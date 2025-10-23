@@ -7,66 +7,56 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-10-18 06:58:04 +0000
+  - date: 2025-10-25 06:58:04 +0000
     team: A
-    time: 7：00 ～ 16：00
-    description: 練習試合
-    location_text: 高嶺小学校
-  - date: 2025-10-18 00:31:41 +0000
-    team: A
-    time: 10：00 ～
-    description: 試合開始
-    location_text: 高嶺小学校
-  - date: 2025-10-19 07:56:23 +0000
-    team: A
-    time: 7：00 ～ 16：00
+    time: 8：00 ～ 17：00
     description: スポーツデポ杯
-    location_text: 蟹江町佐屋川グランドA面
-  - date: 2025-10-11 07:19:16 +0000
+    location_text: 港区稲永公園野球場E面
+  - date: 2025-10-25 00:31:41 +0000
     team: A
-    time: 12：45 ～
+    time: 14：30 ～
     description: 試合開始
-    location_text: 蟹江町佐屋川グランド
-  - date: 2025-10-18 23:06:12 +0000
-    team: B
-    time: 7：00 ～ 15：00
-    description: 積水ハウスカップ
-    location_text: 地域文化センター
-  - date: 2025-10-18 01:40:21 +0000
-    team: B
-    time: 10：50 ～
+    location_text: 港区稲永公園野球場E面
+  - date: 2025-10-26 07:56:23 +0000
+    team: A
+    time: 8：30 ～ 17：00
+    description: 豊田市秋季大会
+    location_text: 新生グランド
+  - date: 2025-10-26 07:19:16 +0000
+    team: A
+    time: 14：30 ～
     description: 試合開始
-    location_text: 地域文化センター
-  - date: 2025-10-19 23:06:12 +0000
+    location_text: 新生グランド
+  - date: 2025-10-25 23:06:12 +0000
     team: B
-    time: 7：30 ～ 16：30
-    description: ふれあいカップ　予選
-    location_text: 上郷南グランド
-  - date: 2025-10-19 07:08:11 +0000
+    time: 8：00 ～ 17：00
+    description: 北名古屋コミュニケーションズ杯
+    location_text: 北名古屋市立天神中学校
+  - date: 2025-10-25 01:40:21 +0000
     team: B
-    time: 10：00 ～
+    time: 15：00 ～
     description: 試合開始
-    location_text: 上郷南グランド
-  - date: 2025-10-18 23:06:13 +0000
-    team: C
+    location_text: 北名古屋市立天神中学校
+  - date: 2025-10-26 23:06:12 +0000
+    team: B
     time: 8：00 ～ 16：30
-    description: JAPAN CUP　　　　　　　　　　　　　　　　　　　　　　　練習試合
-    location_text: 寿恵野小学校
-  - date: 2025-10-18 07:10:38 +0000
-    team: C
-    time: 10：00 ～
-    description: JAPAN CUP　試合開始
-    location_text: 寿恵野小学校
-  - date: 2025-10-18 07:10:38 +0000
-    team: C
-    time: 13：30 ～
-    description: 練習試合　試合開始
-    location_text: 寿恵野小学校
-  - date: 2025-10-19 23:06:13 +0000
+    description: 練習
+    location_text: 畝部小学校
+  - date: 2025-10-25 23:06:13 +0000
     team: C
     time: 8：30 ～ 16：30
     description: 練習
-    location_text: 上郷コミュニティセンター
+    location_text: 畝部小学校
+  - date: 2025-10-26 23:06:13 +0000
+    team: C
+    time: 7：00 ～ 16：00
+    description: チャレンジカップ　準決勝
+    location_text: 柳川瀬公園児童野球場
+  - date: 2025-10-26 04:17:18 +0000
+    team: C
+    time: 10：20 ～
+    description: 試合開始
+    location_text: 柳川瀬児童野球場
   - date: 2025-10-18 09:03:58 +0000
     team: D
     time: 8：00 ～ 15：00
