@@ -57,26 +57,21 @@ schedule:
     time: 10：20 ～
     description: 試合開始
     location_text: 柳川瀬児童野球場
-  - date: 2025-10-18 09:03:58 +0000
+  - date: 2025-10-25 09:03:58 +0000
     team: D
-    time: 8：00 ～ 15：00
-    description: ふれあいカップ　予選
-    location_text: 上郷東グランド
-  - date: 2025-10-18 07:36:24 +0000
-    team: D
-    time: 10：30 ～
-    description: 試合開始
-    location_text: 上郷東グランド
-  - date: 2025-10-19 23:06:14 +0000
+    time: 8：00 ～ 17：00
+    description: ゼビオベースボールフェス
+    location_text: 柳川瀬公園
+  - date: 2025-10-26 23:06:14 +0000
     team: D
     time: 8：30 ～ 16：30
-    description: オレンジカップ　予選
-    location_text: 東海市　渡内小学校
-  - date: 2025-10-19 07:15:32 +0000
+    description: オレンジカップ
+    location_text: 明祥プラザ多目的広場
+  - date: 2025-10-18 07:36:24 +0000
     team: D
     time: 14：00 ～
     description: 試合開始
-    location_text: 東海市　渡内小学校
+    location_text: 明祥プラザ多目的広場
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
