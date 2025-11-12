@@ -7,16 +7,26 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-11-09 06:58:04 +0000
+  - date: 2025-11-15 06:58:04 +0000
     team: A
-    time: 8：30 ～ 16：00
-    description: 南部少年野球大会
-    location_text: 高嶺小学校
-  - date: 2025-11-09 00:31:41 +0000
+    time: 7：00 ～ 16：00
+    description: ミズノワイズ杯
+    location_text: 蟹江町佐屋川グランド
+  - date: 2025-11-15 00:31:41 +0000
+    team: A
+    time: 10：45 ～
+    description: 試合開始
+    location_text: 蟹江町佐屋川グランド
+  - date: 2025-11-16 06:25:43 +0000
+    time: 8：00 ～ 17：00
+    description: ミズノワイズ杯
+    location_text: 尾張旭市　旭ヶ丘グランド　B面
+    team: A
+  - date: 2025-11-16 06:25:43 +0000
     team: A
     time: 14：30 ～
     description: 試合開始
-    location_text: 高嶺小学校
+    location_text: 尾張旭市　旭ヶ丘グランド　B面
   - date: 2025-11-08 23:06:12 +0000
     team: B
     time: 8：30 ～ 16：30
@@ -27,24 +37,34 @@ schedule:
     time: 8：00 ～ 16：30
     description: 練習
     location_text: 富士精工グランド
-  - date: 2025-11-09 23:06:13 +0000
+  - date: 2025-11-15 23:06:13 +0000
+    team: C
+    time: 8：00 ～ 16：00
+    description: 体験会　　　　　　　　　　　　　　　　　　　　　　　　ふれあいカップ決勝トーナメント
+    location_text: 高嶺小学校　　　　　　　　　　　　　　　　　　　　　　畝部小学校
+  - date: 2025-11-15 07:29:46 +0000
+    team: C
+    time: 14：00 ～
+    description: 試合開始
+    location_text: 畝部小学校
+  - date: 2025-11-16 06:29:53 +0000
     team: C
     time: 8：00 ～ 16：30
     description: 練習試合
-    location_text: 畝部小学校
-  - date: 2025-11-09 07:29:46 +0000
+    location_text: 寿恵野小学校
+  - date: 2025-11-16 06:31:27 +0000
     team: C
-    time: 10：00 ～　　　　　　　　　　　　　　　　　　　　13：30～
+    time: 10：00 ～　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　14：00 ～
     description: 試合開始
-    location_text: 畝部小学校
-  - date: 2025-11-08 09:03:58 +0000
+    location_text: 寿恵野小学校
+  - date: 2025-11-15 09:03:58 +0000
     team: D
-    time: 9：00 ～ 15：30
-    description: 練習
+    time: 8：30 ～ 13：00
+    description: 体験会
     location_text: 高嶺小学校
-  - date: 2025-11-09 23:06:14 +0000
+  - date: 2025-11-16 23:06:14 +0000
     team: D
-    time: 8：00 ～ 15：00
+    time: 8：30 ～ 15：30
     description: 練習
     location_text: 高嶺小学校
 info:
