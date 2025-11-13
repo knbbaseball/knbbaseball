@@ -27,16 +27,16 @@ schedule:
     time: 14：30 ～
     description: 試合開始
     location_text: 尾張旭市　旭ヶ丘グランド　B面
-  - date: 2025-11-08 23:06:12 +0000
+  - date: 2025-11-15 23:06:12 +0000
     team: B
-    time: 8：30 ～ 16：30
+    time: 8：00 ～ 13：00
     description: 練習
     location_text: 上郷コミュニティセンター
-  - date: 2025-11-09 23:06:12 +0000
+  - date: 2025-11-16 23:06:12 +0000
     team: B
-    time: 8：00 ～ 16：30
-    description: 練習
-    location_text: 富士精工グランド
+    time: 9：00 ～ 16：30
+    description: 練習試合
+    location_text: 岩倉小学校
   - date: 2025-11-15 23:06:13 +0000
     team: C
     time: 8：00 ～ 16：00
