@@ -7,61 +7,71 @@ blurb:
   gmImage: /img/松男さん.jpg
 banner: ただいま 4年生　～　1年生大募集中！！まずは体験からどうですか？お申し込み・お問い合わせはお気軽にどうぞ！！
 schedule:
-  - date: 2025-11-22 06:58:04 +0000
+  - date: 2025-11-29 06:58:04 +0000
     team: A
-    time: 7：30 ～ 16：00
-    description: 南部少年野球大会
-    location_text: 大府市立共和西小学校
-  - date: 2025-11-22 00:31:41 +0000
+    time: 7：30 ～ 16：30
+    description: 東海団地秋季大会
+    location_text: 高嶺小学校
+  - date: 2025-11-29 00:31:41 +0000
     team: A
-    time: 14：00 ～
+    time: 14：30 ～
     description: 試合開始
-    location_text: 大府市立共和西小学校
-  - date: 2025-11-23 06:25:43 +0000
-    time: 8：00 ～ 16：00
-    description: ふれあいカップ　決勝トーナメント
-    location_text: 堤小学校
+    location_text: 高嶺小学校
+  - date: 2025-11-30 06:25:43 +0000
+    time: 7：30 ～ 14：30
+    description: トヨタベースボールフェス2025
+    location_text: トヨタスポーツセンター
     team: A
-  - date: 2025-11-23 02:06:43 +0000
-    team: A
-    time: 10：00 ～
+  - date: 2025-11-29 23:06:12 +0000
+    team: B
+    time: 6：30 ～ 16：00
+    description: AM：スギモト杯　　　　　　　　　　　　　　　　　　　PM：北名古屋コミュニケーションズ杯
+    location_text: 旭ヶ丘グランド　　　　　　　　　　　　　　　　　　　　幸心グランド
+  - date: 2025-11-29 02:06:43 +0000
+    team: B
+    time: 9：00 ～
     description: 試合開始
-    location_text: 堤小学校
-  - date: 2025-11-24 02:06:44 +0000
-    team: A
-    time: 7：30 ～ 15：30
-    description: ミズノワイズ杯
-    location_text: 蟹江町佐屋川グランド
-  - date: 2025-11-24 06:25:43 +0000
-    team: A
-    time: 12：45 ～
+    location_text: 旭ヶ丘グランド
+  - date: 2025-11-29 06:25:43 +0000
+    team: B
+    time: 13：45 ～
     description: 試合開始
-    location_text: 蟹江町佐屋川グランド
-  - date: 2025-11-22 23:06:12 +0000
+    location_text: 幸心グランド
+  - date: 2025-11-30 23:06:12 +0000
     team: B
     time: 8：00 ～ 16：30
     description: 練習
-    location_text: 富士精工グラウンド
-  - date: 2025-11-23 23:06:12 +0000
-    team: B
-    time: 8：00 ～ 16：30
-    description: 練習
-    location_text: 寿恵野小学校
-  - date: 2025-11-22 09:03:58 +0000
+    location_text: 上郷コミュニティセンター
+  - date: 2025-11-29 07:51:12 +0000
+    team: C
+    time: 8：30 ～ 16：30
+    description: 大島杯閉会式
+    location_text: 三好公園野球場
+  - date: 2025-11-30 07:51:13 +0000
+    team: C
+    time: 8：30 ～ 17：00
+    description: スギモト杯
+    location_text: 晴丘グランド
+  - date: 2025-11-30 07:51:24 +0000
+    team: C
+    time: 14：30 ～
+    description: 試合開始
+    location_text: 晴丘グランド
+  - date: 2025-11-29 09:03:58 +0000
     team: D
     time: 8：30 ～ 15：30
     description: 練習
     location_text: 寿恵野小学校
-  - date: 2025-11-16 23:06:14 +0000
+  - date: 2025-11-30 23:06:14 +0000
     team: D
     time: 8：00 ～ 15：30
     description: 練習試合
-    location_text: 上郷東グラウンド
-  - date: 2025-11-23 02:14:16 +0000
+    location_text: 寿恵野小学校
+  - date: 2025-11-30 02:14:16 +0000
     team: D
     time: 10：30 ～　　　　　　　　　　　　　　　　　　　　　　　　13：40 ～
     description: 試合開始
-    location_text: 上郷東グラウンド
+    location_text: 寿恵野小学校
 info:
   title: 一緒に野球やろうよ！！大・大・大募集❗❗
   content: |-
@@ -69,7 +79,7 @@ info:
     やったことがないけど・・・な、お子さんでも大丈夫です😊
     スタッフがイチから丁寧にフォローします❗❗
     みんなで楽しく野球やろうぜ😆
-  image: /img/20251115野球体験会.jpg
+  image: /img/メンバー募集.jpg
   actionText: お申し込み・お問い合わせ
   actionUrl: mailto:knbbaseball@gmail.com?subject=お問い合わせ&body=名前%20%3A%0D%0Aふりがな%20%3A%0D%0A電話%20%3A%0D%0A学校名%20%3A%0D%0A学年%20%3A%0D%0Aお問い合せ内容%20%3A（例、体験・見学・入団希望）
 ---
